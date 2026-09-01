@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Local pipeline run data (cache + intermediate outputs). Not committed for now;
+# the deliverable memos will live under out/ and be committed separately.
+data/
+
+# The take-home prompt itself.
+task.txt
