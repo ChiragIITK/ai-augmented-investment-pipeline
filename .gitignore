@@ -14,6 +14,7 @@ venv/
 # Environment / secrets
 .env
 .env.*
+!.env.example
 
 # IDE
 .idea/
@@ -25,6 +26,7 @@ venv/
 # Local pipeline run data (cache + intermediate outputs). Not committed for now;
 # the deliverable memos will live under out/ and be committed separately.
 data/
+out/
 
 # The take-home prompt itself.
 task.txt

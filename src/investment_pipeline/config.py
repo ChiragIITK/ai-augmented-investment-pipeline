@@ -8,6 +8,12 @@ reviewer running without network or keys.
 import os
 from pathlib import Path
 
+from dotenv import load_dotenv
+
+# Load a local .env (gitignored) so ANTHROPIC_API_KEY and PIPELINE_* are picked
+# up automatically. Existing environment variables always win.
+load_dotenv()
+
 # Repo root = three parents up from this file (src/investment_pipeline/config.py).
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -25,3 +31,26 @@ def offline() -> bool:
     This is the mode a reviewer uses to replay committed outputs without a key.
     """
     return os.getenv("PIPELINE_OFFLINE", "").lower() in {"1", "true", "yes"}
+
+
+# Default to the most capable model for the memo prose (the graded output).
+# A reviewer can drop to a cheaper model (e.g. claude-sonnet-5) via env var
+# without touching code.
+DEFAULT_MODEL = "claude-opus-4-8"
+
+
+def model() -> str:
+    return os.getenv("PIPELINE_MODEL", DEFAULT_MODEL)
+
+
+def has_api_key() -> bool:
+    return bool(os.getenv("ANTHROPIC_API_KEY"))
+
+
+# Score band -> partner-facing recommendation call. Deterministic and auditable:
+# the call follows from the rule-based score, not from the LLM.
+RECOMMENDATION_BY_BAND = {
+    "strong": "Take a meeting",
+    "watch": "Watch",
+    "weak": "Pass",
+}
