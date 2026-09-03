@@ -8,7 +8,7 @@ funnel at a glance and click into any memo.
 from .. import config
 from ..analysis.analyze import slug
 from ..models import AnalyzedCandidate
-from . import render
+from . import html, render
 
 _CALL_MARK = {"Take a meeting": "🟢", "Watch": "🟡", "Pass": "🔴"}
 
@@ -37,12 +37,20 @@ def _index(analyzed: list[AnalyzedCandidate]) -> str:
 
 
 def run(analyzed: list[AnalyzedCandidate]) -> list[str]:
-    """Render each analysis to a memo and write the index. Returns memo paths."""
+    """Render each analysis to a markdown + HTML memo, plus both indexes.
+
+    Each startup gets <slug>.md (repo-friendly) and <slug>.html (a styled page
+    that's nicer to actually read). README.md and index.html are the indexes.
+    """
     config.MEMO_DIR.mkdir(parents=True, exist_ok=True)
     paths = []
     for ac in analyzed:
-        path = config.MEMO_DIR / f"{slug(ac.candidate.name)}.md"
-        path.write_text(render.render(ac))
-        paths.append(str(path))
+        base = slug(ac.candidate.name)
+        md_path = config.MEMO_DIR / f"{base}.md"
+        html_path = config.MEMO_DIR / f"{base}.html"
+        md_path.write_text(render.render(ac))
+        html_path.write_text(html.render_html(ac))
+        paths.extend([str(md_path), str(html_path)])
     (config.MEMO_DIR / "README.md").write_text(_index(analyzed))
+    (config.MEMO_DIR / "index.html").write_text(html.render_index_html(analyzed))
     return paths

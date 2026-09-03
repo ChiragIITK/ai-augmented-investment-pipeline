@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SafetyKit — Pass</title>
+<style>
+:root { --ink:#1a1a1a; --muted:#6b6b6b; --line:#e7e4dd; --bg:#f6f4ee;
+        --card:#ffffff; --accent:#0f9d58; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink);
+       font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+.wrap { max-width:820px; margin:0 auto; padding:32px 20px 64px; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:14px;
+        overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,.04); }
+.accent-bar { height:6px; background:var(--accent); }
+.pad { padding:32px 40px; }
+.badge { display:inline-block; padding:5px 14px; border-radius:999px;
+         background:var(--accent); color:#fff; font-weight:700; font-size:13px;
+         letter-spacing:.04em; text-transform:uppercase; }
+h1 { font-family:Georgia,"Times New Roman",serif; font-size:34px; line-height:1.15;
+     margin:14px 0 6px; }
+.oneliner { font-size:18px; color:var(--muted); margin:0 0 16px; }
+.meta { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 4px; }
+.tag { font-size:12.5px; color:var(--muted); background:#f0eee7; border:1px solid var(--line);
+       border-radius:6px; padding:3px 9px; }
+.tag a { color:var(--accent); text-decoration:none; }
+.scorebox { display:flex; gap:24px; align-items:center; margin:28px 0 8px;
+            padding:20px; background:#faf9f5; border:1px solid var(--line); border-radius:12px; }
+.dial { flex:0 0 96px; width:96px; height:96px; border-radius:50%;
+        display:grid; place-items:center; color:#fff;
+        background:conic-gradient(var(--accent) calc(var(--pct)*1%), #e3e0d8 0); }
+.dial .inner { width:74px; height:74px; border-radius:50%; background:var(--card);
+               display:grid; place-items:center; color:var(--ink); }
+.dial b { font-size:26px; } .dial span { font-size:11px; color:var(--muted); }
+.bars { flex:1 1 auto; min-width:0; }
+.bar { margin:0 0 10px; }
+.bar-top { display:flex; justify-content:space-between; font-size:13px; }
+.bar-top .num { color:var(--muted); font-variant-numeric:tabular-nums; }
+.track { height:7px; background:#e6e3db; border-radius:4px; margin:3px 0 2px; overflow:hidden; }
+.fill { height:100%; background:var(--accent); border-radius:4px; }
+.bar-reason { font-size:12px; color:var(--muted); }
+h2 { font-family:Georgia,serif; font-size:16px; text-transform:uppercase; letter-spacing:.06em;
+     color:var(--muted); border-bottom:1px solid var(--line); padding-bottom:6px;
+     margin:34px 0 12px; }
+p { margin:0 0 12px; }
+.callout { background:#faf9f5; border-left:4px solid var(--accent); border-radius:0 8px 8px 0;
+           padding:14px 18px; margin:6px 0 8px; }
+ul.clean { list-style:none; padding:0; margin:0; }
+ul.clean li { padding:9px 0 9px 26px; position:relative; border-bottom:1px solid var(--line); }
+ul.clean li:last-child { border-bottom:none; }
+ul.risks li::before { content:"⚠"; position:absolute; left:0; color:#c58a00; }
+ul.change li::before { content:"→"; position:absolute; left:0; color:var(--accent); font-weight:700; }
+.sources { font-size:13.5px; }
+.sources li { padding:8px 0; border-bottom:1px dashed var(--line); }
+.chip { display:inline-block; font-size:11px; font-weight:600; background:#eef4f0;
+        color:#256; border-radius:5px; padding:2px 7px; margin-right:8px; }
+.sources a { color:var(--accent); }
+.foot { margin-top:26px; padding-top:16px; border-top:1px solid var(--line);
+        font-size:12px; color:var(--muted); }
+.back { display:inline-block; margin-bottom:16px; font-size:13px; color:var(--muted); text-decoration:none; }
+@media (max-width:560px){ .pad{padding:24px 20px;} .scorebox{flex-direction:column;align-items:stretch;} }
+</style></head>
+<body style="--accent:#db4437;">
+<div class="wrap">
+  <a class="back" href="index.html">← all memos</a>
+  <article class="card">
+    <div class="accent-bar"></div>
+    <div class="pad">
+      <span class="badge">🔴 Pass</span>
+      <h1>SafetyKit</h1>
+      <p class="oneliner">AI agents for risk, compliance, and safety</p>
+      <div class="meta"><span class="tag"><a href="https://www.safetykit.com/">https://www.safetykit.com/</a></span><span class="tag">YC Summer 2023</span><span class="tag">San Francisco, CA, USA</span><span class="tag">team 10</span></div>
+
+      <div class="scorebox">
+        <div class="dial" style="--pct:34;">
+          <div class="inner"><div style="text-align:center">
+            <b>34</b><br><span>/100 · weak</span>
+          </div></div>
+        </div>
+        <div class="bars"><div class="bar"><div class="bar-top"><span>AI centrality</span><span class="num">14/20</span></div><div class="track"><div class="fill" style="width:70%"></div></div><div class="bar-reason">Agent/AI language present but not tagged AI on YC.</div></div><div class="bar"><div class="bar-top"><span>Workflow ownership</span><span class="num">0/30</span></div><div class="track"><div class="fill" style="width:0%"></div></div><div class="bar-reason">No clear workflow-ownership language in the description.</div></div><div class="bar"><div class="bar-top"><span>Autonomy</span><span class="num">0/15</span></div><div class="track"><div class="fill" style="width:0%"></div></div><div class="bar-reason">No explicit autonomy language (may still be autonomous — see analysis).</div></div><div class="bar"><div class="bar-top"><span>Freshness</span><span class="num">4/15</span></div><div class="track"><div class="fill" style="width:27%"></div></div><div class="bar-reason">Recent launch (launched over 15 months ago, 2023-06-27).</div></div><div class="bar"><div class="bar-top"><span>Momentum</span><span class="num">6/10</span></div><div class="track"><div class="fill" style="width:60%"></div></div><div class="bar-reason">Actively hiring per YC listing (has capital and is scaling).</div></div><div class="bar"><div class="bar-top"><span>Team</span><span class="num">10/10</span></div><div class="track"><div class="fill" style="width:100%"></div></div><div class="bar-reason">2 founder(s) — David Graunke, Steven Guichard. pedigree (stripe); technical depth; prior founder experience.</div></div></div>
+      </div>
+
+      <h2>Recommendation — Pass</h2>
+      <div class="callout"><p>Pass, consistent with the 34/100 (weak) score. Despite a strong, domain-expert founding team and marquee customer logos, the YC description lacks explicit workflow-ownership and autonomy language, which drove zero scores on the two most heavily weighted thesis dimensions (30 and 15 points). The company also launched over 15 months ago, weighing on freshness. There is a plausible upside case — the product may in fact be autonomously owning high-value review workflows — but the sources do not evidence it, so on the material available this does not clear the bar.</p></div>
+
+      <h2>Team</h2><p>Two named founders with directly relevant domain and technical depth. David Graunke led engineering for risk reviews at Stripe covering fraud, credit, content moderation, and financial crimes, and built the policy and workflow engine that scaled Stripe from internal reviewers to thousands of outsourced vendor agents (Founder bio: David Graunke). Steven Guichard was first software engineer and later CEO at Carbic, building ultrasonic flow sensors deployed on oil pipelines and offshore rigs, and cofounded Thomas Street, a software design/engineering consultancy that worked with Cisco, Roche, and DirecTV (Founder bio: Steven Guichard). The broader team of 10 is described as engineers from Stripe, Meta, Netflix, MIT, and Princeton (YC long description). The founders explicitly learned this domain first-hand at Stripe and Airbnb, first building tools for human reviewers and then models to replace them (YC long description).</p>
+      <h2>Product</h2><p>SafetyKit builds AI agents for risk, compliance, and safety — automating the review work that big tech and finance companies currently staff with large teams of outsourced human reviewers protecting platforms from fraud, harassment, and crime (One-liner; YC long description). The stated mission is to replace manual review toil with language models (YC long description). It is positioned as vertical AI already in production with paying customers (YC long description).</p>
+      <h2>Market</h2><p>The target buyers are large tech, fintech, marketplace, and payments companies with substantial trust-and-safety and compliance review needs (Industries/tags; YC long description). Customer traction cited includes Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, plus an unnamed $10B+ marketplace and an unnamed $100B+ payments company in production (YC long description). No explicit market size (TAM/SAM), pricing, revenue, or growth figures are provided in the sources — these are unknown. No named competitors are provided; the implicit incumbent is &#x27;armies of low-paid outsourced humans&#x27; doing this work today (YC long description). Why-now is asserted by the founders — a belief that language models will rearrange this economy over the next four years — but is a founder claim rather than external evidence (YC long description).</p>
+
+      <h2>Risks &amp; open questions</h2>
+      <ul class="clean risks"><li>Buyer-critical accuracy and liability: automating fraud, financial-crime, and content-moderation decisions carries regulatory and error-cost exposure; the sources give no data on model accuracy, false-positive/negative rates, or how compliance sign-off is handled.</li><li>Customer concentration and durability unknown: named logos are impressive but revenue, contract size, and whether these are pilots vs. production-scale commitments are not disclosed beyond a general &#x27;in production&#x27; claim (YC long description).</li><li>Small team (size 10) selling into very large enterprises (a $100B+ payments company) implies long, demanding sales and integration cycles that could strain a lean org (Team size; YC long description).</li><li>Defensibility is unstated: no moat, data advantage, or switching-cost detail is provided, and the incumbent workflow (human reviewers) may be replicated by larger AI vendors.</li></ul>
+
+      <h2>What would change our mind</h2>
+      <ul class="clean change"><li>Evidence of production autonomy and outcomes — e.g. share of review decisions made without a human, accuracy benchmarks, and volume handled — which would directly address the zero scores on workflow ownership and autonomy.</li><li>Hard commercial metrics: ARR, contract values, and expansion from the named logos (Patreon, Upwork, the $100B+ payments company) confirming these are scaled paid deployments rather than trials (YC long description).</li><li>A clear defensibility story: proprietary policy/workflow data or integration depth that would be hard for incumbents or general AI vendors to replicate.</li></ul>
+
+      <h2>Sources</h2>
+      <ul class="clean sources"><li><span class="chip">One-liner</span>SafetyKit builds AI agents for risk, compliance, and safety</li><li><span class="chip">YC long description</span>Companies today rely on outsourced human reviewers to protect platforms from fraud, harassment, and crime, which SafetyKit aims to automate <a href="https://www.ycombinator.com/companies/safetykit">link</a></li><li><span class="chip">YC long description</span>Founders learned the domain first-hand at Stripe and Airbnb, building tools for human reviewers then models to replace them <a href="https://www.ycombinator.com/companies/safetykit">link</a></li><li><span class="chip">YC long description</span>Named production/paying customers include Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, a $10B+ marketplace, and a $100B+ payments company <a href="https://www.ycombinator.com/companies/safetykit">link</a></li><li><span class="chip">Founder bio: David Graunke</span>David Graunke led engineering for risk reviews at Stripe and built the policy/workflow engine scaling from internal reviewers to thousands of outsourced vendor agents</li><li><span class="chip">Founder bio: Steven Guichard</span>Steven Guichard was first engineer then CEO at Carbic building ultrasonic flow sensors, and cofounded consultancy Thomas Street (clients Cisco, Roche, DirecTV)</li><li><span class="chip">YC long description; Team size</span>Team of 10 including engineers from Stripe, Meta, Netflix, MIT, and Princeton <a href="https://www.ycombinator.com/companies/safetykit">link</a></li><li><span class="chip">Y Combinator signals</span>Y Combinator Summer 2023 batch; launched 2023-06-27; actively hiring</li></ul>
+
+      <div class="foot">Thesis: AI-native autonomous agents owning high-value business workflows. Sourced from Y Combinator ·
+        scored by rule-based thesis fit · analysis grounded in the sources above.<br>
+        Discovery: <a href="https://www.ycombinator.com/companies/safetykit">https://www.ycombinator.com/companies/safetykit</a>
+      </div>
+    </div>
+  </article>
+</div>
+</body></html>

@@ -54,6 +54,16 @@ def test_memo_has_call_score_sections_and_sources():
     assert "YC long description" in md  # citation is traceable in the memo
 
 
+def test_html_memo_is_self_contained_and_grounded():
+    from investment_pipeline.memo import html
+    page = html.render_html(_analyzed())
+    assert page.startswith("<!doctype html>")
+    assert "Take a meeting" in page
+    assert ">78<" in page                       # score dial value
+    assert "YC long description" in page         # citation preserved
+    assert "<style>" in page and "</style>" in page  # inline CSS, self-contained
+
+
 def test_cache_offline_miss_raises(monkeypatch, tmp_path):
     monkeypatch.setattr(config, "RAW_DIR", tmp_path)
     monkeypatch.setenv("PIPELINE_OFFLINE", "1")

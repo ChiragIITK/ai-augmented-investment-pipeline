@@ -27,7 +27,7 @@ pip install -r requirements.txt
 pip install -e .          # registers the `pipeline` command
 
 # Read the committed memos — no setup needed:
-open out/memos/README.md
+open out/memos/index.html      # styled, ranked (or README.md for plain markdown)
 
 # Re-run the whole thing offline from committed caches (no API key, no network):
 PIPELINE_OFFLINE=1 pipeline run --topic "AI agents for Fintech"
@@ -80,7 +80,7 @@ Options: `--limit N` (how many candidates), `--model <id>` (defaults to
 | **1. Source** | YC's Algolia index for discovery + firmographics; the YC company page for structured founders (name, title, bio, LinkedIn). | ✅ |
 | **2. Score** | Six transparent rules vs. the thesis (AI centrality, workflow ownership, autonomy, freshness, momentum, team). Every point carries a reason. **No LLM — so scores are auditable.** | ✅ |
 | **3. Analyse** | One grounded LLM call per startup. It sees *only* the fetched sources, must cite every claim, and flags missing data instead of inventing it. | LLM |
-| **4. Memo** | Renders score + analysis + score-derived call into a one-page markdown memo. | ✅ |
+| **4. Memo** | Renders score + analysis + score-derived call into a one-page memo — both `<slug>.md` (repo-friendly) and a styled `<slug>.html` (nicer to read), plus a ranked index. | ✅ |
 
 **The recommendation call is deterministic**, derived from the score band
 (strong → Take a meeting, watch → Watch, weak → Pass) — the LLM only writes the

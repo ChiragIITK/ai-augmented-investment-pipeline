@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Avallon AI — Watch</title>
+<style>
+:root { --ink:#1a1a1a; --muted:#6b6b6b; --line:#e7e4dd; --bg:#f6f4ee;
+        --card:#ffffff; --accent:#0f9d58; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink);
+       font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+.wrap { max-width:820px; margin:0 auto; padding:32px 20px 64px; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:14px;
+        overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,.04); }
+.accent-bar { height:6px; background:var(--accent); }
+.pad { padding:32px 40px; }
+.badge { display:inline-block; padding:5px 14px; border-radius:999px;
+         background:var(--accent); color:#fff; font-weight:700; font-size:13px;
+         letter-spacing:.04em; text-transform:uppercase; }
+h1 { font-family:Georgia,"Times New Roman",serif; font-size:34px; line-height:1.15;
+     margin:14px 0 6px; }
+.oneliner { font-size:18px; color:var(--muted); margin:0 0 16px; }
+.meta { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 4px; }
+.tag { font-size:12.5px; color:var(--muted); background:#f0eee7; border:1px solid var(--line);
+       border-radius:6px; padding:3px 9px; }
+.tag a { color:var(--accent); text-decoration:none; }
+.scorebox { display:flex; gap:24px; align-items:center; margin:28px 0 8px;
+            padding:20px; background:#faf9f5; border:1px solid var(--line); border-radius:12px; }
+.dial { flex:0 0 96px; width:96px; height:96px; border-radius:50%;
+        display:grid; place-items:center; color:#fff;
+        background:conic-gradient(var(--accent) calc(var(--pct)*1%), #e3e0d8 0); }
+.dial .inner { width:74px; height:74px; border-radius:50%; background:var(--card);
+               display:grid; place-items:center; color:var(--ink); }
+.dial b { font-size:26px; } .dial span { font-size:11px; color:var(--muted); }
+.bars { flex:1 1 auto; min-width:0; }
+.bar { margin:0 0 10px; }
+.bar-top { display:flex; justify-content:space-between; font-size:13px; }
+.bar-top .num { color:var(--muted); font-variant-numeric:tabular-nums; }
+.track { height:7px; background:#e6e3db; border-radius:4px; margin:3px 0 2px; overflow:hidden; }
+.fill { height:100%; background:var(--accent); border-radius:4px; }
+.bar-reason { font-size:12px; color:var(--muted); }
+h2 { font-family:Georgia,serif; font-size:16px; text-transform:uppercase; letter-spacing:.06em;
+     color:var(--muted); border-bottom:1px solid var(--line); padding-bottom:6px;
+     margin:34px 0 12px; }
+p { margin:0 0 12px; }
+.callout { background:#faf9f5; border-left:4px solid var(--accent); border-radius:0 8px 8px 0;
+           padding:14px 18px; margin:6px 0 8px; }
+ul.clean { list-style:none; padding:0; margin:0; }
+ul.clean li { padding:9px 0 9px 26px; position:relative; border-bottom:1px solid var(--line); }
+ul.clean li:last-child { border-bottom:none; }
+ul.risks li::before { content:"⚠"; position:absolute; left:0; color:#c58a00; }
+ul.change li::before { content:"→"; position:absolute; left:0; color:var(--accent); font-weight:700; }
+.sources { font-size:13.5px; }
+.sources li { padding:8px 0; border-bottom:1px dashed var(--line); }
+.chip { display:inline-block; font-size:11px; font-weight:600; background:#eef4f0;
+        color:#256; border-radius:5px; padding:2px 7px; margin-right:8px; }
+.sources a { color:var(--accent); }
+.foot { margin-top:26px; padding-top:16px; border-top:1px solid var(--line);
+        font-size:12px; color:var(--muted); }
+.back { display:inline-block; margin-bottom:16px; font-size:13px; color:var(--muted); text-decoration:none; }
+@media (max-width:560px){ .pad{padding:24px 20px;} .scorebox{flex-direction:column;align-items:stretch;} }
+</style></head>
+<body style="--accent:#f2a600;">
+<div class="wrap">
+  <a class="back" href="index.html">← all memos</a>
+  <article class="card">
+    <div class="accent-bar"></div>
+    <div class="pad">
+      <span class="badge">🟡 Watch</span>
+      <h1>Avallon AI</h1>
+      <p class="oneliner">AI agents for insurance claims operations</p>
+      <div class="meta"><span class="tag"><a href="https://www.avallon.ai/">https://www.avallon.ai/</a></span><span class="tag">YC Spring 2025</span><span class="tag">New York City, NY, USA</span><span class="tag">team 7</span></div>
+
+      <div class="scorebox">
+        <div class="dial" style="--pct:66;">
+          <div class="inner"><div style="text-align:center">
+            <b>66</b><br><span>/100 · watch</span>
+          </div></div>
+        </div>
+        <div class="bars"><div class="bar"><div class="bar-top"><span>AI centrality</span><span class="num">14/20</span></div><div class="track"><div class="fill" style="width:70%"></div></div><div class="bar-reason">Agent/AI language present but not tagged AI on YC.</div></div><div class="bar"><div class="bar-top"><span>Workflow ownership</span><span class="num">30/30</span></div><div class="track"><div class="fill" style="width:100%"></div></div><div class="bar-reason">Owns a workflow: automate, automates, handle, operations.</div></div><div class="bar"><div class="bar-top"><span>Autonomy</span><span class="num">8/15</span></div><div class="track"><div class="fill" style="width:53%"></div></div><div class="bar-reason">Explicit autonomy cues: agents that handle.</div></div><div class="bar"><div class="bar-top"><span>Freshness</span><span class="num">4/15</span></div><div class="track"><div class="fill" style="width:27%"></div></div><div class="bar-reason">Recent launch (launched over 15 months ago, 2025-04-10).</div></div><div class="bar"><div class="bar-top"><span>Momentum</span><span class="num">6/10</span></div><div class="track"><div class="fill" style="width:60%"></div></div><div class="bar-reason">Actively hiring per YC listing (has capital and is scaling).</div></div><div class="bar"><div class="bar-top"><span>Team</span><span class="num">4/10</span></div><div class="track"><div class="fill" style="width:40%"></div></div><div class="bar-reason">2 founder(s) — Cornelius Schramm, Bryan Guin. technical depth.</div></div></div>
+      </div>
+
+      <h2>Recommendation — Watch</h2>
+      <div class="callout"><p>Watch is appropriate: the team has relevant technical and insurance-adjacent domain depth (Founder bios), and the product clearly owns a real workflow — claims operations automation (YC long description) — which drives the score. However, autonomy is only partial (&#x27;routine calls and documents&#x27;), freshness is low relative to launch date (Launched 2025-04-10), and there is no traction or market data in the sources. These gaps keep it in the watch band rather than a conviction bet.</p></div>
+
+      <h2>Team</h2><p>Two founders with complementary technical and domain backgrounds. Cornelius Schramm (CEO) was the founding U.S. engineer at FINN, where he built the fleet operations platform behind $15M ARR and saw fleet claims processes break down firsthand (Founder bio: Cornelius Schramm). Bryan Guin (CPO) was a machine learning researcher at Cornell and a software engineer at Agentive (YC S23), where he built AI systems for auditors, and previously led product consulting teams at EY advising Fortune 500 clients (Founder bio: Bryan Guin). Team size is 7 (YC profile).</p>
+      <h2>Product</h2><p>Avallon builds AI agents that automate insurance claims operations, specifically handling routine phone calls and document processing (YC long description; one-liner).</p>
+      <h2>Market</h2><p>The company targets insurance claims operations within the Fintech/Insurance space (YC tags). No market size, TAM, customer count, revenue, or named competitors are provided in the sources — all of these are unknown. The why-now is only implied by the founders&#x27; firsthand exposure to broken fleet claims processes (Founder bio: Cornelius Schramm) and the general applicability of AI agents; the sources give no explicit market timing data.</p>
+
+      <h2>Risks &amp; open questions</h2>
+      <ul class="clean risks"><li>No evidence of traction, revenue, or customers in the sources — commercial validation is entirely unknown.</li><li>Insurance claims is a heavily regulated, incumbent-dominated domain; the sources name no competitors or moat, so differentiation is unproven.</li><li>Autonomy appears partial — agents &#x27;handle routine calls and documents processing&#x27; (YC long description), suggesting they own only the low-complexity end of the workflow, which may cap value capture.</li><li>Small team of 7 (YC profile) executing in a complex vertical; scaling and domain-specific compliance depth are open questions.</li></ul>
+
+      <h2>What would change our mind</h2>
+      <ul class="clean change"><li>Evidence of paying insurance customers and measurable claims-volume or cost-reduction results.</li><li>Proof the agents autonomously own end-to-end claims workflows rather than just routine call/document tasks.</li><li>Signals of accelerating momentum or funding beyond the active-hiring proxy (YC listing).</li></ul>
+
+      <h2>Sources</h2>
+      <ul class="clean sources"><li><span class="chip">Founder bio: Cornelius Schramm</span>Cornelius Schramm was the founding U.S. engineer at FINN, building the fleet operations platform behind $15M ARR.</li><li><span class="chip">Founder bio: Bryan Guin</span>Bryan Guin was a machine learning researcher at Cornell, a software engineer at Agentive (YC S23) building AI systems for auditors, and led product consulting at EY.</li><li><span class="chip">YC long description</span>Avallon automates insurance claims operations with AI agents that handle routine calls and document processing.</li><li><span class="chip">YC profile</span>Company is in Fintech and Insurance, based in New York City, team size 7, YC Spring 2025 batch.</li><li><span class="chip">Y Combinator (YC listing)</span>Actively hiring, used as a capital/momentum proxy.</li><li><span class="chip">Y Combinator</span>Launched 2025-04-10.</li></ul>
+
+      <div class="foot">Thesis: AI-native autonomous agents owning high-value business workflows. Sourced from Y Combinator ·
+        scored by rule-based thesis fit · analysis grounded in the sources above.<br>
+        Discovery: <a href="https://www.ycombinator.com/companies/avallon-ai">https://www.ycombinator.com/companies/avallon-ai</a>
+      </div>
+    </div>
+  </article>
+</div>
+</body></html>

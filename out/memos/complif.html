@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Complif — Watch</title>
+<style>
+:root { --ink:#1a1a1a; --muted:#6b6b6b; --line:#e7e4dd; --bg:#f6f4ee;
+        --card:#ffffff; --accent:#0f9d58; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink);
+       font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+.wrap { max-width:820px; margin:0 auto; padding:32px 20px 64px; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:14px;
+        overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,.04); }
+.accent-bar { height:6px; background:var(--accent); }
+.pad { padding:32px 40px; }
+.badge { display:inline-block; padding:5px 14px; border-radius:999px;
+         background:var(--accent); color:#fff; font-weight:700; font-size:13px;
+         letter-spacing:.04em; text-transform:uppercase; }
+h1 { font-family:Georgia,"Times New Roman",serif; font-size:34px; line-height:1.15;
+     margin:14px 0 6px; }
+.oneliner { font-size:18px; color:var(--muted); margin:0 0 16px; }
+.meta { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 4px; }
+.tag { font-size:12.5px; color:var(--muted); background:#f0eee7; border:1px solid var(--line);
+       border-radius:6px; padding:3px 9px; }
+.tag a { color:var(--accent); text-decoration:none; }
+.scorebox { display:flex; gap:24px; align-items:center; margin:28px 0 8px;
+            padding:20px; background:#faf9f5; border:1px solid var(--line); border-radius:12px; }
+.dial { flex:0 0 96px; width:96px; height:96px; border-radius:50%;
+        display:grid; place-items:center; color:#fff;
+        background:conic-gradient(var(--accent) calc(var(--pct)*1%), #e3e0d8 0); }
+.dial .inner { width:74px; height:74px; border-radius:50%; background:var(--card);
+               display:grid; place-items:center; color:var(--ink); }
+.dial b { font-size:26px; } .dial span { font-size:11px; color:var(--muted); }
+.bars { flex:1 1 auto; min-width:0; }
+.bar { margin:0 0 10px; }
+.bar-top { display:flex; justify-content:space-between; font-size:13px; }
+.bar-top .num { color:var(--muted); font-variant-numeric:tabular-nums; }
+.track { height:7px; background:#e6e3db; border-radius:4px; margin:3px 0 2px; overflow:hidden; }
+.fill { height:100%; background:var(--accent); border-radius:4px; }
+.bar-reason { font-size:12px; color:var(--muted); }
+h2 { font-family:Georgia,serif; font-size:16px; text-transform:uppercase; letter-spacing:.06em;
+     color:var(--muted); border-bottom:1px solid var(--line); padding-bottom:6px;
+     margin:34px 0 12px; }
+p { margin:0 0 12px; }
+.callout { background:#faf9f5; border-left:4px solid var(--accent); border-radius:0 8px 8px 0;
+           padding:14px 18px; margin:6px 0 8px; }
+ul.clean { list-style:none; padding:0; margin:0; }
+ul.clean li { padding:9px 0 9px 26px; position:relative; border-bottom:1px solid var(--line); }
+ul.clean li:last-child { border-bottom:none; }
+ul.risks li::before { content:"⚠"; position:absolute; left:0; color:#c58a00; }
+ul.change li::before { content:"→"; position:absolute; left:0; color:var(--accent); font-weight:700; }
+.sources { font-size:13.5px; }
+.sources li { padding:8px 0; border-bottom:1px dashed var(--line); }
+.chip { display:inline-block; font-size:11px; font-weight:600; background:#eef4f0;
+        color:#256; border-radius:5px; padding:2px 7px; margin-right:8px; }
+.sources a { color:var(--accent); }
+.foot { margin-top:26px; padding-top:16px; border-top:1px solid var(--line);
+        font-size:12px; color:var(--muted); }
+.back { display:inline-block; margin-bottom:16px; font-size:13px; color:var(--muted); text-decoration:none; }
+@media (max-width:560px){ .pad{padding:24px 20px;} .scorebox{flex-direction:column;align-items:stretch;} }
+</style></head>
+<body style="--accent:#f2a600;">
+<div class="wrap">
+  <a class="back" href="index.html">← all memos</a>
+  <article class="card">
+    <div class="accent-bar"></div>
+    <div class="pad">
+      <span class="badge">🟡 Watch</span>
+      <h1>Complif</h1>
+      <p class="oneliner">Compliance tools &amp; AI agents for financial companies</p>
+      <div class="meta"><span class="tag"><a href="https://complif.com/">https://complif.com/</a></span><span class="tag">YC Winter 2022</span><span class="tag">Buenos Aires, CABA, Argentina</span><span class="tag">team 45</span></div>
+
+      <div class="scorebox">
+        <div class="dial" style="--pct:50;">
+          <div class="inner"><div style="text-align:center">
+            <b>50</b><br><span>/100 · watch</span>
+          </div></div>
+        </div>
+        <div class="bars"><div class="bar"><div class="bar-top"><span>AI centrality</span><span class="num">14/20</span></div><div class="track"><div class="fill" style="width:70%"></div></div><div class="bar-reason">Agent/AI language present but not tagged AI on YC.</div></div><div class="bar"><div class="bar-top"><span>Workflow ownership</span><span class="num">30/30</span></div><div class="track"><div class="fill" style="width:100%"></div></div><div class="bar-reason">Owns a workflow: automate, automates, manage, process.</div></div><div class="bar"><div class="bar-top"><span>Autonomy</span><span class="num">0/15</span></div><div class="track"><div class="fill" style="width:0%"></div></div><div class="bar-reason">No explicit autonomy language (may still be autonomous — see analysis).</div></div><div class="bar"><div class="bar-top"><span>Freshness</span><span class="num">4/15</span></div><div class="track"><div class="fill" style="width:27%"></div></div><div class="bar-reason">Recent launch (launched over 15 months ago, 2021-12-30).</div></div><div class="bar"><div class="bar-top"><span>Momentum</span><span class="num">0/10</span></div><div class="track"><div class="fill" style="width:0%"></div></div><div class="bar-reason">No momentum signal (not hiring / not YC-flagged in available data).</div></div><div class="bar"><div class="bar-top"><span>Team</span><span class="num">2/10</span></div><div class="track"><div class="fill" style="width:20%"></div></div><div class="bar-reason">2 founder(s) — Lucas Ranallo, Mathias Caramutti. bios available, no standout markers.</div></div></div>
+      </div>
+
+      <h2>Recommendation — Watch</h2>
+      <div class="callout"><p>Complif scores in the middle &#x27;Watch&#x27; band (50/100): it clearly owns a high-value business workflow — compliance automation for financial entities (source: YC long description) — but the sources show no explicit autonomy, no momentum signals, and thin founder detail (source: Score breakdown). The &#x27;AI agents&#x27; framing is promising against the thesis but is not substantiated by the workflow-automation language in the description. Absent evidence of genuine agent autonomy and traction, this warrants monitoring rather than an active pursuit.</p></div>
+
+      <h2>Team</h2><p>Two founders, Lucas Ranallo and Mathias Caramutti, both listed simply as &#x27;Founder&#x27; (source: Founders list). LinkedIn profiles are provided but no bio detail, technical depth, or relevant prior experience is available in the sources. The company has a team of 45, which is sizeable for a seed-stage compliance startup (source: YC profile). Founder technical and domain backgrounds are an open question given the absence of bio content.</p>
+      <h2>Product</h2><p>Complif provides compliance tools and AI agents for financial companies (source: One-liner). Concretely, it automates compliance processes for financial entities — including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting (source: YC long description). In plain terms, it is a regtech SaaS platform that handles the identity-verification, anti-money-laundering and regulatory-reporting workflows that financial institutions are obligated to perform.</p>
+      <h2>Market</h2><p>The company targets financial entities and operates in the B2B, Fintech, SaaS, Compliance and Regtech categories (source: Industries/tags). It is based in Buenos Aires, Argentina (source: YC profile), suggesting an initial Latin American focus, though the sources do not specify geographic scope. Market size, growth rate, customer count, revenue, and competitive landscape are all unknown — no figures or named competitors appear in the sources. The &#x27;why-now&#x27; is not stated explicitly; the implicit driver is ongoing regulatory burden (KYC/AML/reporting) on financial companies, but this is not documented in the source material.</p>
+
+      <h2>Risks &amp; open questions</h2>
+      <ul class="clean risks"><li>No autonomy language in the sources — despite the &#x27;AI agents&#x27; one-liner, the YC description frames the product as automating processes, leaving unclear how autonomous the agents actually are versus assisted tooling (source: Score breakdown, YC long description).</li><li>Founder backgrounds are entirely opaque; no evidence of relevant compliance, fintech, or technical experience is available (source: Founders list).</li><li>Regtech/compliance is a crowded, incumbent-heavy category, and the sources name no differentiation, moat, or competitors — competitive positioning is unverifiable.</li><li>No momentum, traction, revenue, or customer signals are present in the sources (source: Score breakdown), and the launch was over 15 months ago (launched 2021-12-30, source: Y Combinator).</li></ul>
+
+      <h2>What would change our mind</h2>
+      <ul class="clean change"><li>Evidence that the AI agents operate autonomously end-to-end on compliance workflows (e.g. resolving KYC/AML cases without human review), which would materially raise the autonomy and AI-centrality scores.</li><li>Traction data — customer count, revenue, or growth among financial institutions — to offset the absent momentum signal.</li><li>Founder bios showing domain or technical depth in compliance/fintech to strengthen the currently thin team score.</li></ul>
+
+      <h2>Sources</h2>
+      <ul class="clean sources"><li><span class="chip">One-liner</span>Complif offers compliance tools and AI agents for financial companies</li><li><span class="chip">YC long description</span>Complif automates compliance processes including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting <a href="https://www.ycombinator.com/companies/complif">link</a></li><li><span class="chip">Founders list</span>Founders are Lucas Ranallo and Mathias Caramutti, both listed as &#x27;Founder&#x27; with no bio detail</li><li><span class="chip">YC profile</span>Team size of 45; based in Buenos Aires, CABA, Argentina; tagged B2B, Operations, Fintech, SaaS, Compliance, Regtech <a href="https://www.ycombinator.com/companies/complif">link</a></li><li><span class="chip">Y Combinator</span>Y Combinator Winter 2022 batch; launched 2021-12-30</li><li><span class="chip">Rule-based score breakdown</span>No explicit autonomy language and no momentum signal in available data</li></ul>
+
+      <div class="foot">Thesis: AI-native autonomous agents owning high-value business workflows. Sourced from Y Combinator ·
+        scored by rule-based thesis fit · analysis grounded in the sources above.<br>
+        Discovery: <a href="https://www.ycombinator.com/companies/complif">https://www.ycombinator.com/companies/complif</a>
+      </div>
+    </div>
+  </article>
+</div>
+</body></html>
