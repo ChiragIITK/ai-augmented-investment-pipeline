@@ -1,0 +1,18 @@
+{
+  "name": "Bluebook",
+  "year_founded": 2024,
+  "founders": [
+    {
+      "full_name": "Philip Andersson",
+      "title": "Founder/CEO",
+      "founder_bio": "Self-taught AI builder and seasoned founder. Developed my first webpage at age 8, founded my first company at 17, built a software consultancy generating millions in revenue, exited a product company, launched many failures. Last years spent as engineering leader at startups such as FirstVet, Mindler and Epidemic Sound.",
+      "linkedin_url": "https://linkedin.com/in/phiandersson"
+    },
+    {
+      "full_name": "Filip Stål",
+      "title": "Founder/CTO",
+      "founder_bio": "Happy guy that loves to build, exercise & cook food. ",
+      "linkedin_url": "https://www.linkedin.com/in/filip-st%C3%A5l-464849229/"
+    }
+  ]
+}

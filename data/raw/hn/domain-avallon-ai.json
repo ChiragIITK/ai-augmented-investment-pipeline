@@ -1,0 +1,29 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=avallon.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 22,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 17,
+      "roundTrip": 20
+    },
+    "fetch": {
+      "query": 7,
+      "scanning": 13,
+      "total": 21
+    },
+    "total": 22
+  },
+  "query": "avallon.ai",
+  "serverTimeMS": 39
+}

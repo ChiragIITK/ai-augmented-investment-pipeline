@@ -1,0 +1,71 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "emilylacos"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Vision of clean energy and fossil fuel – Arif patel London UK"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "lance",
+            ".",
+            "live"
+          ],
+          "value": "https://www.<em>lancs.live</em>/special-features/dubai-businessman-arif-patel-talks-27429670"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_emilylacos",
+        "story_36954245"
+      ],
+      "author": "emilylacos",
+      "children": [
+        36954247
+      ],
+      "created_at": "2023-08-01T10:01:57Z",
+      "created_at_i": 1690884117,
+      "num_comments": 1,
+      "objectID": "36954245",
+      "points": 1,
+      "story_id": 36954245,
+      "title": "Vision of clean energy and fossil fuel – Arif patel London UK",
+      "updated_at": "2024-09-20T14:48:14Z",
+      "url": "https://www.lancs.live/special-features/dubai-businessman-arif-patel-talks-27429670"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=lance.live&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 21,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "fetch": {
+      "query": 4,
+      "scanning": 16,
+      "total": 21
+    },
+    "total": 21
+  },
+  "query": "lance.live",
+  "serverTimeMS": 22
+}

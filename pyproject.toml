@@ -8,6 +8,9 @@ version = "0.1.0"
 description = "AI-augmented investment pipeline for startup sourcing and analysis"
 requires-python = ">=3.12"
 
+[project.scripts]
+pipeline = "investment_pipeline.cli:main"
+
 [tool.setuptools.packages.find]
 where = ["src"]
 

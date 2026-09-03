@@ -1,0 +1,161 @@
+{
+  "candidate": {
+    "name": "Argovox",
+    "website": "https://www.argovox.com/",
+    "description": "Voice AI agents for patient billing and collections",
+    "long_description": "We help healthcare providers increase profitability and cashflow by automating their patient billing and collections processes.\r\n\r\nToday, healthcare providers in the US are leaving up to 20% of their profit margins on the table due to subpar patient billing and collections processes. Billing patients and collecting their payments is a complex process that requires specialized skills and a lot of effort. Traditionally, healthcare providers have done this manually, with limited automation around one-way reminders. This leads to limited engagement with payers and subpar collection results.\r\n\r\nArgovox changes this by making new levels of payer engagement possible at scale. Through both voice and text conversations, our AI agents can engage in complex, multi-turn patient billing and collection conversation. This leads higher engagement with payers and optimal collection results.",
+    "founders": [
+      {
+        "name": "Noe Branagan",
+        "title": "Founder",
+        "bio": "Engineering leader with over 10yrs leading engineering efforts for companies in different stages; Passionate about knowledge sharing and education, especially those that help other developers grow or get people into software development; likes to mentor/coach. If you have anything in mind, send me a message @noeBranagan. Currently, co-founder & CTO @ Ruffo making cross-border real estate transactions easy for everyone.",
+        "linkedin_url": "https://www.linkedin.com/in/noebranagan/"
+      },
+      {
+        "name": "Luis Pellerano",
+        "title": "Founder",
+        "bio": "Founder of Ruffo/Argovox (YC S22). Built AI voice agent for patient billing support (Argovox) and app for signature and apostille of cross-border real estate transaction documents (Ruffo).\n\nM&A and capital markets attorney for 8+ years at Simpson Thacher (NYC and Palo Alto).",
+        "linkedin_url": "https://www.linkedin.com/in/luis-r-pellerano/"
+      }
+    ],
+    "team_size": 3,
+    "batch": "Summer 2022",
+    "location": "San Francisco, CA, USA",
+    "industries": [
+      "Fintech"
+    ],
+    "tags": [
+      "Fintech",
+      "Healthcare",
+      "LegalTech",
+      "Call Center",
+      "AI Assistant"
+    ],
+    "signals": [
+      {
+        "kind": "yc_batch",
+        "description": "Y Combinator Summer 2022 batch",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/argovox",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "recent_launch",
+        "description": "Launched 2022-06-14",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/argovox",
+        "observed_at": "2022-06-14T04:16:15Z",
+        "metadata": {
+          "launched_at": 1655180175
+        }
+      }
+    ],
+    "discovery": {
+      "source": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies/argovox"
+    }
+  },
+  "score": {
+    "total": 34,
+    "components": [
+      {
+        "name": "AI centrality",
+        "points": 14.0,
+        "max_points": 20.0,
+        "reason": "Agent/AI language present but not tagged AI on YC."
+      },
+      {
+        "name": "Workflow ownership",
+        "points": 10.0,
+        "max_points": 30.0,
+        "reason": "Mixed framing — execution (automating, process, processes) but also assistive (assist, assistant)."
+      },
+      {
+        "name": "Autonomy",
+        "points": 0.0,
+        "max_points": 15.0,
+        "reason": "No explicit autonomy language (may still be autonomous — see analysis)."
+      },
+      {
+        "name": "Freshness",
+        "points": 4.0,
+        "max_points": 15.0,
+        "reason": "Recent launch (launched over 15 months ago, 2022-06-14)."
+      },
+      {
+        "name": "Momentum",
+        "points": 0.0,
+        "max_points": 10.0,
+        "reason": "No momentum signal (not hiring / not YC-flagged in available data)."
+      },
+      {
+        "name": "Team",
+        "points": 6.0,
+        "max_points": 10.0,
+        "reason": "2 founder(s) — Noe Branagan, Luis Pellerano. technical depth; prior founder experience."
+      }
+    ],
+    "thesis": "AI-native autonomous agents owning high-value business workflows"
+  },
+  "analysis": {
+    "team": "Two named founders with complementary backgrounds. Noe Branagan is an engineering leader with 10+ years leading engineering efforts across company stages, providing technical depth; he is also co-founder & CTO at Ruffo (YC long description / Founder bio: Noe Branagan). Luis Pellerano was an M&A and capital markets attorney for 8+ years at Simpson Thacher (NYC and Palo Alto) and is founder of Ruffo/Argovox, having built the AI voice agent for patient billing (Founder bio: Luis Pellerano). Note the founders appear to be simultaneously working on a second company, Ruffo, which raises focus questions (Founder bios: Noe Branagan, Luis Pellerano). YC lists team size as 3 (YC profile).",
+    "product": "Argovox provides AI voice (and text) agents that automate patient billing and collections for US healthcare providers (One-liner; YC long description). The agents engage patients in complex, multi-turn billing and collection conversations across voice and text, aiming to increase payer engagement and collection results beyond traditional manual processes and one-way reminders (YC long description).",
+    "market": "The company targets US healthcare providers and asserts providers leave up to 20% of profit margins on the table due to subpar patient billing and collections (YC long description). No total addressable market figure, customer count, revenue, or named competitors are provided in the sources, so market size and competitive landscape are unknown. The why-now — AI enabling multi-turn conversational engagement at scale versus manual processes — is implied by the description but not backed by any traction or timing data in the sources (YC long description).",
+    "risks": [
+      "Founders appear split across two companies (Ruffo and Argovox), raising a focus and commitment risk (Founder bios: Noe Branagan, Luis Pellerano).",
+      "Product framing mixes execution ('automating') with assistive language ('AI Assistant' tag), and no explicit autonomy claim is present — unclear how much of the workflow the agent truly owns end-to-end (Industries/tags; rule-based score: autonomy 0/15).",
+      "No traction, revenue, customer, or momentum signals are provided; no hiring or recent activity indicators (rule-based score: momentum 0/10).",
+      "Healthcare billing/collections touches regulated, sensitive payment and patient data, and the sources give no evidence of compliance, integration, or accuracy handling (YC long description)."
+    ],
+    "what_would_change_our_mind": [
+      "Evidence of meaningful traction — paying healthcare providers, collection volumes recovered, or revenue — that is currently absent from the sources.",
+      "Clear proof the agents operate autonomously and own the collections workflow end-to-end rather than merely assisting, addressing the autonomy gap.",
+      "Confirmation the founders are full-time and focused on Argovox rather than splitting time with Ruffo."
+    ],
+    "recommendation_rationale": "The rule-based score of 34/100 places Argovox in the weak band, driven by no explicit autonomy language, no momentum signal, and mixed workflow-ownership framing that blends execution with assistive positioning (rule-based score breakdown). While the founding team has genuine technical and domain-adjacent depth, the sources show no traction, and the founders appear divided across a second company. Consistent with the score, we recommend a Pass unless the items above materially change.",
+    "citations": [
+      {
+        "claim": "Argovox provides voice AI agents for patient billing and collections",
+        "source": "One-liner",
+        "url": null
+      },
+      {
+        "claim": "AI agents engage in complex, multi-turn patient billing and collection conversations via voice and text",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "US healthcare providers leave up to 20% of profit margins on the table due to subpar patient billing and collections",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "Noe Branagan is an engineering leader with 10+ years leading engineering efforts and co-founder & CTO at Ruffo",
+        "source": "Founder bio: Noe Branagan",
+        "url": null
+      },
+      {
+        "claim": "Luis Pellerano was an M&A and capital markets attorney for 8+ years at Simpson Thacher and founded Ruffo/Argovox",
+        "source": "Founder bio: Luis Pellerano",
+        "url": null
+      },
+      {
+        "claim": "Argovox is part of Y Combinator Summer 2022 batch and launched 2022-06-14",
+        "source": "Y Combinator",
+        "url": null
+      },
+      {
+        "claim": "Team size is 3; tags include AI Assistant",
+        "source": "YC profile",
+        "url": null
+      },
+      {
+        "claim": "Score of 34/100 (weak) with autonomy 0/15 and momentum 0/10",
+        "source": "Rule-based score breakdown",
+        "url": null
+      }
+    ]
+  },
+  "recommendation": "Pass"
+}

@@ -1,0 +1,161 @@
+{
+  "candidate": {
+    "name": "TovenAI",
+    "website": "https://toven.ai/",
+    "description": "AI agents for compliance at institutional trading firms",
+    "long_description": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+    "founders": [
+      {
+        "name": "Batu Balci",
+        "title": "Founder/CEO",
+        "bio": "Founder at TovenAI. Previously Quantitative Research Engineer at Citadel's Global Quantitative Strategies group. Senior Software Engineer at Salesforce. Stanford CS.",
+        "linkedin_url": "https://www.linkedin.com/in/batuhan-balci-7a3589114/"
+      },
+      {
+        "name": "Sam Turchetta",
+        "title": "Founder/CTO",
+        "bio": "Cofounder at TovenAI. Previously worked on ML at Meta. Stanford Men’s Varsity Tennis and CS ’21.",
+        "linkedin_url": "https://www.linkedin.com/in/sam-turchetta-b14311166/"
+      }
+    ],
+    "team_size": 2,
+    "batch": "Summer 2026",
+    "location": "New York City, NY, USA",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Regtech"
+    ],
+    "signals": [
+      {
+        "kind": "yc_batch",
+        "description": "Y Combinator Summer 2026 batch",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/tovenai",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "recent_launch",
+        "description": "Launched 2026-08-12",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/tovenai",
+        "observed_at": "2026-08-12T18:45:17Z",
+        "metadata": {
+          "launched_at": 1786560317
+        }
+      }
+    ],
+    "discovery": {
+      "source": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies/tovenai"
+    }
+  },
+  "score": {
+    "total": 69,
+    "components": [
+      {
+        "name": "AI centrality",
+        "points": 14.0,
+        "max_points": 20.0,
+        "reason": "Agent/AI language present but not tagged AI on YC."
+      },
+      {
+        "name": "Workflow ownership",
+        "points": 24.0,
+        "max_points": 30.0,
+        "reason": "Owns a workflow: handle, workflow, workflows."
+      },
+      {
+        "name": "Autonomy",
+        "points": 8.0,
+        "max_points": 15.0,
+        "reason": "Explicit autonomy cues: agents that handle."
+      },
+      {
+        "name": "Freshness",
+        "points": 15.0,
+        "max_points": 15.0,
+        "reason": "Recent launch (launched within ~4 months, 2026-08-12)."
+      },
+      {
+        "name": "Momentum",
+        "points": 0.0,
+        "max_points": 10.0,
+        "reason": "No momentum signal (not hiring / not YC-flagged in available data)."
+      },
+      {
+        "name": "Team",
+        "points": 8.0,
+        "max_points": 10.0,
+        "reason": "2 founder(s) — Batu Balci, Sam Turchetta. pedigree (meta, stanford); technical depth."
+      }
+    ],
+    "thesis": "AI-native autonomous agents owning high-value business workflows"
+  },
+  "analysis": {
+    "team": "Two technical founders with strong pedigree. Batu Balci (CEO) was previously a Quantitative Research Engineer at Citadel's Global Quantitative Strategies group and a Senior Software Engineer at Salesforce, with a Stanford CS background (Founder bio: Batu Balci). Sam Turchetta (CTO) worked on ML at Meta and holds a Stanford CS '21 degree (Founder bio: Sam Turchetta). The Citadel experience is directly relevant to selling into institutional trading firms and understanding compliance workflows. Team size is 2 (YC profile).",
+    "product": "TovenAI builds a platform of AI agents that automate manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live (YC long description). It ships prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—so firms can onboard and evaluate results on their own data in under a week (YC long description). They report customers ranging from specialist firms to large global institutions, with agents supporting multiple compliance workflows at a top-10 institutional brokerage (YC long description).",
+    "market": "The target market is compliance/regtech for institutional trading firms (Industries/tags; one-liner). The sources give no market-size figures, no named competitors, and no pricing or contract-value data—these are open questions. A why-now is not explicitly stated in the sources beyond the general availability of AI agents; the only timing signals are the Summer 2026 YC batch and an August 2026 launch (Signals). The mention of a top-10 institutional brokerage as a customer is a positive demand indicator but is not independently verifiable from the sources (YC long description).",
+    "risks": [
+      "Traction claims (six live agents, a top-10 brokerage customer) are self-reported in the YC description and unverified; the customer relationships, contract sizes, and retention are unknown (YC long description).",
+      "No momentum signal is present in the available data—no hiring or YC flag—so it is unclear whether the company is scaling beyond initial pilots (Score breakdown: Momentum 0/10).",
+      "Two-person team selling into highly regulated institutional trading firms may face long sales cycles, security/compliance review burdens, and the need to scale headcount for enterprise support (Team size: 2, YC profile).",
+      "Compliance is a high-stakes, error-intolerant domain; the degree of true autonomy versus human-in-the-loop oversight is unclear, and the score reflects only partial autonomy evidence (Score breakdown: Autonomy 8/15)."
+    ],
+    "what_would_change_our_mind": [
+      "Verifiable, named enterprise customers with signed contracts and revenue/retention data, especially confirmation of the top-10 brokerage relationship (YC long description).",
+      "Evidence of momentum—hiring, expansion of the agent count or customer base, or a YC-flagged top-company signal (Score breakdown: Momentum 0/10).",
+      "Clarity on how autonomously the agents operate in production compliance workflows and the accuracy/error rates achieved (YC long description; Score breakdown: Autonomy 8/15)."
+    ],
+    "recommendation_rationale": "TovenAI scores 69/100 (Watch), reflecting a credible team with directly relevant fintech/quant pedigree, clear ownership of compliance workflows, and a fresh launch, but weak signals on autonomy and momentum. The product story is strong on paper—six live agents, 30+ connectors, and a claimed top-10 brokerage customer—but these are self-reported and unverified. With no momentum signal and no market data in the sources, this warrants monitoring rather than immediate conviction. We recommend tracking traction and customer validation before advancing.",
+    "citations": [
+      {
+        "claim": "Batu Balci was a Quantitative Research Engineer at Citadel's Global Quantitative Strategies group, a Senior Software Engineer at Salesforce, and studied Stanford CS.",
+        "source": "Founder bio: Batu Balci",
+        "url": null
+      },
+      {
+        "claim": "Sam Turchetta worked on ML at Meta and holds a Stanford CS '21 degree.",
+        "source": "Founder bio: Sam Turchetta",
+        "url": null
+      },
+      {
+        "claim": "TovenAI builds AI agents for compliance teams at institutional trading firms, with six agents currently live.",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "The platform has prebuilt connectors to more than 30 systems including Bloomberg, Cloud9, and NICE Actimize, enabling onboarding and evaluation in under a week.",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "Customers range from specialist firms to large global institutions, including a top-10 institutional brokerage.",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "The team is two people.",
+        "source": "YC profile",
+        "url": null
+      },
+      {
+        "claim": "Company is in the YC Summer 2026 batch and launched 2026-08-12.",
+        "source": "Signal: Y Combinator",
+        "url": null
+      },
+      {
+        "claim": "No momentum signal and only partial autonomy evidence were found in the available data.",
+        "source": "Rule-based score breakdown",
+        "url": null
+      }
+    ]
+  },
+  "recommendation": "Watch"
+}

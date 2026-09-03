@@ -1,0 +1,366 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "nimbius"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "LAPD officers told to collect social media data"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>veritas.com</em>/content/support/en_US/downloads/detail.REL213109"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_nimbius",
+        "story_28470631"
+      ],
+      "author": "nimbius",
+      "children": [
+        28470750
+      ],
+      "created_at": "2021-09-09T15:18:16Z",
+      "created_at_i": 1631200696,
+      "num_comments": 1,
+      "objectID": "28470631",
+      "points": 3,
+      "story_id": 28470631,
+      "title": "LAPD officers told to collect social media data",
+      "updated_at": "2024-09-20T09:21:41Z",
+      "url": "https://www.veritas.com/content/support/en_US/downloads/detail.REL213109"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "revorad"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Verious - The Mobile App Component Marketplace"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "http://www.<em>verious.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_revorad",
+        "story_2989258"
+      ],
+      "author": "revorad",
+      "children": [
+        2989400
+      ],
+      "created_at": "2011-09-12T23:15:44Z",
+      "created_at_i": 1315869344,
+      "num_comments": 1,
+      "objectID": "2989258",
+      "points": 2,
+      "story_id": 2989258,
+      "title": "Verious - The Mobile App Component Marketplace",
+      "updated_at": "2024-09-19T17:59:25Z",
+      "url": "http://www.verious.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "anilpereira"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "New Code Recommendation Engine Launched"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "http://www.<em>Verious.com</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_anilpereira",
+        "story_5602264"
+      ],
+      "author": "anilpereira",
+      "created_at": "2013-04-24T16:10:36Z",
+      "created_at_i": 1366819836,
+      "num_comments": 0,
+      "objectID": "5602264",
+      "points": 1,
+      "story_id": 5602264,
+      "story_text": "",
+      "title": "New Code Recommendation Engine Launched",
+      "updated_at": "2023-09-06T21:22:01Z",
+      "url": "http://www.Verious.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "donpitt"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "This is pretty cool.  This mobile app component for iOS is essentially a mini-App with a small widget and a full screen 5-day forecast.  It would be a great way to add weather forecast to news apps, outdoor apps, city guides, and many more.<p>It is free with advertisements embedded, but could be available in a paid version for enterprise use (no advertisements)."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Add Weather Functionality to your iOS App for Free"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "http://www.<em>verious.com</em>/component/weather-forecast/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_donpitt",
+        "story_3699435"
+      ],
+      "author": "donpitt",
+      "created_at": "2012-03-13T17:33:20Z",
+      "created_at_i": 1331660000,
+      "num_comments": 0,
+      "objectID": "3699435",
+      "points": 1,
+      "story_id": 3699435,
+      "story_text": "This is pretty cool.  This mobile app component for iOS is essentially a mini-App with a small widget and a full screen 5-day forecast.  It would be a great way to add weather forecast to news apps, outdoor apps, city guides, and many more.<p>It is free with advertisements embedded, but could be available in a paid version for enterprise use (no advertisements).",
+      "title": "Add Weather Functionality to your iOS App for Free",
+      "updated_at": "2024-09-19T18:30:13Z",
+      "url": "http://www.verious.com/component/weather-forecast/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "awolf"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Verious - Marketplace for mobile app components"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "http://<em>verious.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_awolf",
+        "story_2989713"
+      ],
+      "author": "awolf",
+      "created_at": "2011-09-13T02:34:32Z",
+      "created_at_i": 1315881272,
+      "num_comments": 0,
+      "objectID": "2989713",
+      "points": 1,
+      "story_id": 2989713,
+      "story_text": "",
+      "title": "Verious - Marketplace for mobile app components",
+      "updated_at": "2024-09-19T17:59:25Z",
+      "url": "http://verious.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "doener"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "The Databerg See What Others Don’t"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "http://info.<em>veritas.com</em>/databerg_report"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_26903610"
+      ],
+      "author": "doener",
+      "created_at": "2021-04-22T15:09:16Z",
+      "created_at_i": 1619104156,
+      "num_comments": 0,
+      "objectID": "26903610",
+      "points": 1,
+      "story_id": 26903610,
+      "title": "The Databerg See What Others Don’t",
+      "updated_at": "2024-09-20T08:21:44Z",
+      "url": "http://info.veritas.com/databerg_report"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "based2"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "VTS17-003: Multiple Vulnerabilities in Veritas NetBackup"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>veritas.com</em>/content/support/en_US/security/VTS17-003.html#Issue5"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_based2",
+        "story_13898852"
+      ],
+      "author": "based2",
+      "created_at": "2017-03-17T23:26:47Z",
+      "created_at_i": 1489793207,
+      "num_comments": 0,
+      "objectID": "13898852",
+      "points": 1,
+      "story_id": 13898852,
+      "title": "VTS17-003: Multiple Vulnerabilities in Veritas NetBackup",
+      "updated_at": "2024-09-20T00:36:08Z",
+      "url": "https://www.veritas.com/content/support/en_US/security/VTS17-003.html#Issue5"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "based2"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "VTS16-001: NetBackup Remote Access Vulnerabilities"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "veritus",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>veritas.com</em>/content/support/en_US/security/VTS16-001.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_based2",
+        "story_11575723"
+      ],
+      "author": "based2",
+      "created_at": "2016-04-26T21:18:25Z",
+      "created_at_i": 1461705505,
+      "num_comments": 0,
+      "objectID": "11575723",
+      "points": 1,
+      "story_id": 11575723,
+      "title": "VTS16-001: NetBackup Remote Access Vulnerabilities",
+      "updated_at": "2024-09-19T23:10:33Z",
+      "url": "https://www.veritas.com/content/support/en_US/security/VTS16-001.html"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 8,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=veritus.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 36,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 484,
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 10,
+      "scanning": 24,
+      "total": 35
+    },
+    "total": 36
+  },
+  "query": "veritus.com",
+  "serverTimeMS": 521
+}

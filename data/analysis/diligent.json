@@ -1,0 +1,169 @@
+{
+  "candidate": {
+    "name": "Diligent",
+    "website": "https://godiligent.ai/",
+    "description": "AI agents for fintech risk and compliance operations",
+    "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+    "founders": [
+      {
+        "name": "Edoardo Maschio",
+        "title": "Founder",
+        "bio": "I was an investment associate and chief of staff @ Rocket Internet early-stage team. Incubated and invested multiple ventures with the fintech team. Previously worked as Junior associate @ Boston Consulting Group.",
+        "linkedin_url": "https://linkedin.com/in/edoardo-maschio-704"
+      },
+      {
+        "name": "Ahmed Gaber",
+        "title": "Founder",
+        "bio": "I'm Co-founder and CTO at Diligent and I worked in Fintech for more than a decade.\nMost recently I was VP of engineering at Billie (Europe’s largest B2B BNPL) and led multiple engineering teams on various domains: business identification, fraud, credit, and AML risk. Previously I was a technical PM and software engineer at Funding Circle.",
+        "linkedin_url": "https://linkedin.com/in/ahmedsamygaber"
+      }
+    ],
+    "team_size": 10,
+    "batch": "Summer 2023",
+    "location": "London, England, United Kingdom",
+    "industries": [
+      "Fintech"
+    ],
+    "tags": [
+      "Fintech",
+      "Compliance",
+      "Fraud Prevention",
+      "Regtech",
+      "AI"
+    ],
+    "signals": [
+      {
+        "kind": "yc_batch",
+        "description": "Y Combinator Summer 2023 batch",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/diligent",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "yc_hiring",
+        "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/diligent",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "recent_launch",
+        "description": "Launched 2024-02-01",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/diligent",
+        "observed_at": "2024-02-01T15:02:14Z",
+        "metadata": {
+          "launched_at": 1706799734
+        }
+      }
+    ],
+    "discovery": {
+      "source": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies/diligent"
+    }
+  },
+  "score": {
+    "total": 56,
+    "components": [
+      {
+        "name": "AI centrality",
+        "points": 20.0,
+        "max_points": 20.0,
+        "reason": "Positions as AI/agent-native (AI tag + agent language)."
+      },
+      {
+        "name": "Workflow ownership",
+        "points": 16.0,
+        "max_points": 30.0,
+        "reason": "Mixed framing — execution (automate, operations, run) but also assistive (assist, assistant)."
+      },
+      {
+        "name": "Autonomy",
+        "points": 0.0,
+        "max_points": 15.0,
+        "reason": "No explicit autonomy language (may still be autonomous — see analysis)."
+      },
+      {
+        "name": "Freshness",
+        "points": 4.0,
+        "max_points": 15.0,
+        "reason": "Recent launch (launched over 15 months ago, 2024-02-01)."
+      },
+      {
+        "name": "Momentum",
+        "points": 6.0,
+        "max_points": 10.0,
+        "reason": "Actively hiring per YC listing (has capital and is scaling)."
+      },
+      {
+        "name": "Team",
+        "points": 10.0,
+        "max_points": 10.0,
+        "reason": "2 founder(s) — Edoardo Maschio, Ahmed Gaber. pedigree (boston consulting, rocket internet); technical depth; prior founder experience."
+      }
+    ],
+    "thesis": "AI-native autonomous agents owning high-value business workflows"
+  },
+  "analysis": {
+    "team": "Two founders with directly relevant fintech and technical depth. Edoardo Maschio was an investment associate and chief of staff on Rocket Internet's early-stage team, where he incubated and invested in fintech ventures, and previously a junior associate at Boston Consulting Group (Founder bio: Edoardo Maschio). Ahmed Gaber, co-founder and CTO, has over a decade in fintech, most recently VP of engineering at Billie (described as Europe's largest B2B BNPL) leading teams across business identification, fraud, credit, and AML risk, and was previously a technical PM and software engineer at Funding Circle (Founder bio: Ahmed Gaber). This pairing gives directly applicable domain expertise in exactly the risk/AML problem they are building for.",
+    "product": "Diligent builds LLM-based AI assistants for fintech risk and AML compliance teams to automate routine customer due diligence tasks (YC long description). Concretely, customers automate workflows such as running due diligence on legal entities, reviewing customer documents like registry extracts and proofs of address, and remediating false-positive alerts from AML systems (YC long description). The stated value is lowering cost-to-comply, improving risk detection, and freeing human capacity for investigations requiring expertise (YC long description).",
+    "market": "The target market is fintech and bank risk/AML compliance teams (YC long description); tags span Fintech, Compliance, Fraud Prevention, and Regtech (YC tags). No market size, revenue, customer count, or named competitors are provided in the sources — all of these are unknown. Why-now is only implied by the LLM-native approach to compliance automation; the sources give no quantified demand or regulatory catalyst, so this remains an open question.",
+    "risks": [
+      "Product framing is mixed between execution and assistance — described as 'AI assistants' that 'automate and strengthen' tasks while explicitly leaving investigations requiring human expertise to people (YC long description). Whether the agents truly own workflows autonomously vs. assist a human is unclear.",
+      "No autonomy language appears in the sources, so the degree of hands-off operation is unverified (Score breakdown: Autonomy 0/15).",
+      "Compliance/AML is a highly regulated, accuracy-critical domain; the sources provide no evidence of accuracy benchmarks, customer traction, or regulatory acceptance.",
+      "Team is small (10 people) and the sources give no revenue, customer names, or growth metrics to validate demand (YC listing: team size 10)."
+    ],
+    "what_would_change_our_mind": [
+      "Evidence that the agents autonomously own end-to-end compliance workflows (e.g., closing alerts or completing due diligence without human sign-off) rather than merely assisting.",
+      "Concrete traction signals — named fintech/bank customers, revenue, or measurable reduction in cost-to-comply or false positives.",
+      "Data on market size and competitive positioning within regtech/AML that is currently absent from the sources."
+    ],
+    "recommendation_rationale": "Watch is consistent with the 56/100 score: the team is strong and directly domain-relevant (Score breakdown: Team 10/10), and the product is clearly AI-native (Score breakdown: AI centrality 20/20), but workflow ownership is mixed and there is no explicit autonomy language (Score breakdown: Workflow ownership 16/30, Autonomy 0/15). Combined with the absence of any market-size or traction data in the sources, this warrants tracking rather than acting now. We'd re-engage on evidence of autonomous execution and real customer traction.",
+    "citations": [
+      {
+        "claim": "Diligent is a Y Combinator Summer 2023 company based in London, England.",
+        "source": "YC profile",
+        "url": null
+      },
+      {
+        "claim": "The company helps fintech risk and AML compliance teams automate routine customer due diligence tasks using LLMs.",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "Workflows include due diligence on legal entities, reviewing documents like registry extracts and proofs of address, and remediating false-positive AML alerts.",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "Edoardo Maschio was an investment associate and chief of staff at Rocket Internet's early-stage team and a junior associate at Boston Consulting Group.",
+        "source": "Founder bio: Edoardo Maschio",
+        "url": null
+      },
+      {
+        "claim": "Ahmed Gaber is co-founder and CTO, has 10+ years in fintech, was VP of engineering at Billie (described as Europe's largest B2B BNPL) and previously at Funding Circle.",
+        "source": "Founder bio: Ahmed Gaber",
+        "url": null
+      },
+      {
+        "claim": "Team size is 10 and the company is actively hiring.",
+        "source": "Y Combinator listing",
+        "url": null
+      },
+      {
+        "claim": "Product launched 2024-02-01.",
+        "source": "Y Combinator",
+        "url": null
+      },
+      {
+        "claim": "Rule-based scoring assigned 0/15 for autonomy due to no explicit autonomy language and 16/30 for mixed workflow-ownership framing.",
+        "source": "Score breakdown",
+        "url": null
+      }
+    ]
+  },
+  "recommendation": "Watch"
+}

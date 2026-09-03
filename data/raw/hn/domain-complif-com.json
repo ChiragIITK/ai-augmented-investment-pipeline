@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=complif.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 20,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 17
+    },
+    "fetch": {
+      "query": 10,
+      "scanning": 8,
+      "total": 19
+    },
+    "total": 20
+  },
+  "query": "complif.com",
+  "serverTimeMS": 20
+}

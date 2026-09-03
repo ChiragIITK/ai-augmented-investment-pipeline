@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=fullseam.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 30,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "fetch": {
+      "query": 11,
+      "scanning": 17,
+      "total": 29
+    },
+    "total": 30
+  },
+  "query": "fullseam.com",
+  "serverTimeMS": 30
+}

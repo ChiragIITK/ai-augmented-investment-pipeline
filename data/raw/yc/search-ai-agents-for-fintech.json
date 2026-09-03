@@ -1,0 +1,2443 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "id": 28805,
+          "name": "Diligent",
+          "slug": "diligent",
+          "former_names": [
+            "Paylane"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
+          "website": "https://godiligent.ai",
+          "all_locations": "London, England, United Kingdom",
+          "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+          "one_liner": "AI agents for fintech risk and compliance operations",
+          "team_size": 10,
+          "industry": "Fintech",
+          "subindustry": "Fintech",
+          "launched_at": 1706799734,
+          "tags": [
+            "Fintech",
+            "Compliance",
+            "Fraud Prevention",
+            "Regtech",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2023",
+          "status": "Active",
+          "industries": [
+            "Fintech"
+          ],
+          "regions": [
+            "United Kingdom",
+            "Europe"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "28805",
+          "_highlightResult": {
+            "name": {
+              "value": "Diligent",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Paylane",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://godiligent.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "London, England, United Kingdom",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "We help <em>fintech</em> risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our <em>AI</em> assistants slash cost-to-comply, improve risk detection and free up capacity <em>for</em> investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "for",
+                "fintech"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> <em>fintech</em> risk and compliance operations",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for",
+                "fintech"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Compliance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Fraud Prevention",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Regtech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": 28786,
+          "name": "Accend",
+          "slug": "accend",
+          "former_names": [
+            "Accend Technology, Inc"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31a4d8ba6cbc31b7799b329fce2d820cfe3ca234.png",
+          "website": "https://www.withaccend.com/",
+          "all_locations": "",
+          "long_description": "Accend helps commercial banks and fintechs underwrite business customers faster, win more deals and increase revenue. We provide an end-to-end platform to automate document intake, financial statement / tax spreading, cash flow modeling, credit memos and portfolio management, with audit-ready AI and human-in-the-loop accuracy. Companies like Corpay, Brex, Rippling, Rho, Column, Settle, and many others have reduced application processing time by 80% with Accend, significantly enhancing their credit underwriting efficiency\r\n\r\nBefore starting Accend, the founders led Product & Engineering on the Risk team at Brex as well as at Deutsche Bank and Credit Suisse so they have firsthand experienced issues with operational efficiency in credit/underwriting teams. Accend has raised a $3.2M seed round from Y Combinator, Adverb Ventures, General Catalyst and 645 Ventures.",
+          "one_liner": "AI agents for commercial underwriting at banks and fintechs",
+          "team_size": 18,
+          "industry": "Fintech",
+          "subindustry": "Fintech",
+          "launched_at": 1691559472,
+          "tags": [
+            "Fintech",
+            "Generative AI",
+            "Finance",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2023",
+          "status": "Active",
+          "industries": [
+            "Fintech"
+          ],
+          "regions": [
+            "Unspecified"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "28786",
+          "_highlightResult": {
+            "name": {
+              "value": "Accend",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Accend Technology, Inc",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://www.withaccend.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Accend helps commercial banks and fintechs underwrite business customers faster, win more deals and increase revenue. We provide an end-to-end platform to automate document intake, financial statement / tax spreading, cash flow modeling, credit memos and portfolio management, with audit-ready <em>AI</em> and human-in-the-loop accuracy. Companies like Corpay, Brex, Rippling, Rho, Column, Settle, and many others have reduced application processing time by 80% with Accend, significantly enhancing their credit underwriting efficiency\r\n\r\nBefore starting Accend, the founders led Product & Engineering on the Risk team at Brex as well as at Deutsche Bank and Credit Suisse so they have firsthand experienced issues with operational efficiency in credit/underwriting teams. Accend has raised a $3.2M seed round from Y Combinator, Adverb Ventures, General Catalyst and 645 Ventures.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> commercial underwriting at banks and fintechs",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Generative <em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Finance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": 30797,
+          "name": "Veritus",
+          "slug": "veritus",
+          "former_names": [
+            "Veritus Agent"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a784e9084818b8c7af26cd462448e7fd4415c18b.png",
+          "website": "https://www.veritus.com",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+          "one_liner": "AI agents for the consumer lending industry",
+          "team_size": 10,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Credit and Lending",
+          "launched_at": 1753735109,
+          "tags": [
+            "Fintech",
+            "Lending",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2025",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Credit and Lending"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30797",
+          "_highlightResult": {
+            "name": {
+              "value": "Veritus",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Veritus Agent",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://www.veritus.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Veritus is a omni-channel platform <em>for</em> deploying <em>AI</em> <em>agents</em> <em>for</em> loan servicing and collections, including inbound and outbound voice <em>agents</em>. Our <em>agents</em> negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice <em>AI</em> with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> the consumer lending industry",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Lending",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Credit and Lending",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30334,
+          "name": "Bluebook",
+          "slug": "bluebook",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab67c5f36b05352c3fb1a5fa4f7fc41d1908c664.png",
+          "website": "https://getbluebook.com",
+          "all_locations": "Stockholm, Stockholm County, Sweden",
+          "long_description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. LLMs enables software that can understand context, adapt to new scenarios, and handle complex accounting tasks with human-like reasoning - capabilities that traditional rule-based software lacks.",
+          "one_liner": "AI for accounting",
+          "team_size": 4,
+          "industry": "B2B",
+          "subindustry": "B2B -> Finance and Accounting",
+          "launched_at": 1739450063,
+          "tags": [
+            "Fintech",
+            "B2B",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2025",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Finance and Accounting"
+          ],
+          "regions": [
+            "Sweden",
+            "Europe",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30334",
+          "_highlightResult": {
+            "name": {
+              "value": "Bluebook",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://getbluebook.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "Stockholm, Stockholm County, Sweden",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Bluebook is building <em>AI</em> <em>agents</em> <em>for</em> accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. LLMs enables software that can understand context, adapt to new scenarios, and handle complex accounting tasks with human-like reasoning - capabilities that traditional rule-based software lacks.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>for</em> accounting",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Finance and Accounting",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 29395,
+          "name": "Clarum",
+          "slug": "clarum",
+          "former_names": [
+            "Over1"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f49116b2d71b646eb2e191786e22552e6be264f.png",
+          "website": "https://clarum.ai",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Clarum automates diligence, monitoring, and reporting for private market investors. Our AI agents learn how each firm works and automate their process end to end. Everything is individualized (checklists, templates, scoring models) and adapts as your process changes.\r\n\r\nClarum also acts as a self-updating knowledge base across every document your firm has ever seen, connecting dots no analyst could.",
+          "one_liner": "AI agents for private market diligence, monitoring, and reporting",
+          "team_size": 2,
+          "industry": "B2B",
+          "subindustry": "B2B -> Finance and Accounting",
+          "launched_at": 1710174596,
+          "tags": [
+            "Fintech",
+            "SaaS",
+            "Finance",
+            "B2B",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2024",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Finance and Accounting"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "29395",
+          "_highlightResult": {
+            "name": {
+              "value": "Clarum",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Over1",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://clarum.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Clarum automates diligence, monitoring, and reporting <em>for</em> private market investors. Our <em>AI</em> <em>agents</em> learn how each firm works and automate their process end to end. Everything is individualized (checklists, templates, scoring models) and adapts as your process changes.\r\n\r\nClarum also acts as a self-updating knowledge base across every document your firm has ever seen, connecting dots no analyst could.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> private market diligence, monitoring, and reporting",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "SaaS",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Finance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Finance and Accounting",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 29000,
+          "name": "SafetyKit",
+          "slug": "safetykit",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e6e9147312768cd270c02c7f00e0de9c130d05d.png",
+          "website": "https://www.safetykit.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "SafetyKit's AI agents do the dirty work for big tech and finance companies so humans don't have to.\r\n\r\nToday companies rely on armies of low-paid outsourced humans to protect their platforms from fraud, harassment, and crime. It’s super important work, but the jobs are difficult and sometimes traumatizing, and it’s impossible to keep up. Our mission is to end this manual toil.\r\n\r\nWe learned this domain first-hand at Stripe and Airbnb, where first we built software for human reviewers, and then built models to replace them.\r\n\r\nWe’re a group of engineers from Stripe, Meta, Netflix, MIT, and Princeton that love language models and unironically love B2B SaaS. We know the economy is going to be rearranged over the next 4 years and we want to be in the driver’s seat.\r\n\r\nWe build vertical AI that works and have some of the world’s largest companies as paying customers. Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, along with a $10B+ marketplace, a $100B+ payments company, and more rely on SafetyKit in production.",
+          "one_liner": "AI agents for risk, compliance, and safety",
+          "team_size": 10,
+          "industry": "B2B",
+          "subindustry": "B2B",
+          "launched_at": 1687827774,
+          "tags": [
+            "Fintech",
+            "Compliance",
+            "Trust & Safety"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2023",
+          "status": "Active",
+          "industries": [
+            "B2B"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Growth",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "29000",
+          "_highlightResult": {
+            "name": {
+              "value": "SafetyKit",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.safetykit.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "SafetyKit's <em>AI</em> <em>agents</em> do the dirty work <em>for</em> big tech and finance companies so humans don't have to.\r\n\r\nToday companies rely on armies of low-paid outsourced humans to protect their platforms from fraud, harassment, and crime. It’s super important work, but the jobs are difficult and sometimes traumatizing, and it’s impossible to keep up. Our mission is to end this manual toil.\r\n\r\nWe learned this domain first-hand at Stripe and Airbnb, where first we built software <em>for</em> human reviewers, and then built models to replace them.\r\n\r\nWe’re a group of engineers from Stripe, Meta, Netflix, MIT, and Princeton that love language models and unironically love B2B SaaS. We know the economy is going to be rearranged over the next 4 years and we want to be in the driver’s seat.\r\n\r\nWe build vertical <em>AI</em> that works and have some of the world’s largest companies as paying customers. Patreon, Eventbrite, Upwork, Character.<em>ai</em>, Substack, Faire, along with a $10B+ marketplace, a $100B+ payments company, and more rely on SafetyKit in production.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> risk, compliance, and safety",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Compliance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Trust & Safety",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 25526,
+          "name": "Complif",
+          "slug": "complif",
+          "former_names": [
+            "celeri"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b058ab2c92aef24a0255569d8cf05427ba59231c.png",
+          "website": "https://complif.com",
+          "all_locations": "Buenos Aires, CABA, Argentina",
+          "long_description": "Complif automates compliance processes for financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
+          "one_liner": "Compliance tools & AI agents for financial companies",
+          "team_size": 45,
+          "industry": "B2B",
+          "subindustry": "B2B -> Operations",
+          "launched_at": 1640886031,
+          "tags": [
+            "Fintech",
+            "SaaS",
+            "B2B",
+            "Compliance",
+            "Regtech"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2022",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Operations"
+          ],
+          "regions": [
+            "Argentina",
+            "Latin America",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "25526",
+          "_highlightResult": {
+            "name": {
+              "value": "Complif",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "celeri",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://complif.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "Buenos Aires, CABA, Argentina",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Complif automates compliance processes <em>for</em> financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "Compliance tools & <em>AI</em> <em>agents</em> <em>for</em> financial companies",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "SaaS",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Compliance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Regtech",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Operations",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 1988,
+          "name": "Prodigal",
+          "slug": "prodigal",
+          "former_names": [
+            "Prodigal technologies",
+            "Prodigal Technologies"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e46d97427184f51f49b12df6e51ecf8765104fa0.png",
+          "website": "https://prodigaltech.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "We build AI agents for loan servicing and collections\r\n\r\nProdigal has AI agents for loan servicing and collections. Our AI agents and apps help teams improve margins, run leaner operations, and maximize payments.\r\n\r\nWe are working towards an Agentic vision for consumer finance wherein our AI agents automate critical roles, enhance operations, and drive revenue. \r\n\r\nHeadquartered in Mountain View, California, Prodigal's global team combines deep expertise in financial services, AI research, and product innovation, driving efficiency and transformative results across the consumer finance landscape.",
+          "one_liner": "Lending Intelligence Software",
+          "team_size": 99,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Credit and Lending",
+          "launched_at": 1525745154,
+          "tags": [
+            "Fintech",
+            "SaaS",
+            "Consumer Finance",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2018",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Credit and Lending"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "1988",
+          "_highlightResult": {
+            "name": {
+              "value": "Prodigal",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Prodigal technologies",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Prodigal Technologies",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://prodigaltech.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "We build <em>AI</em> <em>agents</em> <em>for</em> loan servicing and collections\r\n\r\nProdigal has <em>AI</em> <em>agents</em> <em>for</em> loan servicing and collections. Our <em>AI</em> <em>agents</em> and apps help teams improve margins, run leaner operations, and maximize payments.\r\n\r\nWe are working towards an Agentic vision <em>for</em> consumer finance wherein our <em>AI</em> <em>agents</em> automate critical roles, enhance operations, and drive revenue. \r\n\r\nHeadquartered in Mountain View, California, Prodigal's global team combines deep expertise in financial services, <em>AI</em> research, and product innovation, driving efficiency and transformative results across the consumer finance landscape.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "Lending Intelligence Software",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "SaaS",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Consumer Finance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Credit and Lending",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 27045,
+          "name": "Argovox",
+          "slug": "argovox",
+          "former_names": [
+            "Ruffo"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/623713958db43f2325683bc120f59f299af5545e.png",
+          "website": "https://www.argovox.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "We help healthcare providers increase profitability and cashflow by automating their patient billing and collections processes.\r\n\r\nToday, healthcare providers in the US are leaving up to 20% of their profit margins on the table due to subpar patient billing and collections processes. Billing patients and collecting their payments is a complex process that requires specialized skills and a lot of effort. Traditionally, healthcare providers have done this manually, with limited automation around one-way reminders. This leads to limited engagement with payers and subpar collection results.\r\n\r\nArgovox changes this by making new levels of payer engagement possible at scale. Through both voice and text conversations, our AI agents can engage in complex, multi-turn patient billing and collection conversation. This leads higher engagement with payers and optimal collection results.",
+          "one_liner": "Voice AI agents for patient billing and collections",
+          "team_size": 3,
+          "industry": "Fintech",
+          "subindustry": "Fintech",
+          "launched_at": 1655180175,
+          "tags": [
+            "Fintech",
+            "Healthcare",
+            "LegalTech",
+            "Call Center",
+            "AI Assistant"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Summer 2022",
+          "status": "Inactive",
+          "industries": [
+            "Fintech"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "27045",
+          "_highlightResult": {
+            "name": {
+              "value": "Argovox",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Ruffo",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://www.argovox.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "We help healthcare providers increase profitability and cashflow by automating their patient billing and collections processes.\r\n\r\nToday, healthcare providers in the US are leaving up to 20% of their profit margins on the table due to subpar patient billing and collections processes. Billing patients and collecting their payments is a complex process that requires specialized skills and a lot of effort. Traditionally, healthcare providers have done this manually, with limited automation around one-way reminders. This leads to limited engagement with payers and subpar collection results.\r\n\r\nArgovox changes this by making new levels of payer engagement possible at scale. Through both voice and text conversations, our <em>AI</em> <em>agents</em> can engage in complex, multi-turn patient billing and collection conversation. This leads higher engagement with payers and optimal collection results.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "Voice <em>AI</em> <em>agents</em> <em>for</em> patient billing and collections",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Healthcare",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "LegalTech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Call Center",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em> Assistant",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": 33178,
+          "name": "TovenAI",
+          "slug": "tovenai",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b832a1e965bc59dfbc18a9817802870d7264332.png",
+          "website": "https://toven.ai",
+          "all_locations": "New York City, NY, USA",
+          "long_description": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+          "one_liner": "AI agents for compliance at institutional trading firms",
+          "team_size": 2,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Banking and Exchange",
+          "launched_at": 1786560317,
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Compliance",
+            "Regtech"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Summer 2026",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Banking and Exchange"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "33178",
+          "_highlightResult": {
+            "name": {
+              "value": "TovenAI",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://toven.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "New York City, NY, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "TovenAI builds a platform of <em>AI</em> <em>agents</em> that handle manual, data-intensive work <em>for</em> compliance teams at institutional trading firms, with six <em>agents</em> currently live. Our customers range from specialist firms to large global institutions, with our <em>agents</em> supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> compliance at institutional trading firms",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Compliance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Regtech",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Banking and Exchange",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31187,
+          "name": "Fenrock AI",
+          "slug": "fenrock-ai",
+          "former_names": [
+            "new co",
+            "Fenrock.AI",
+            "Fenrock AI",
+            "Fenrock AI (YC W26)"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
+          "website": "https://fenrock.ai/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "We're building the Legora for traditional financial services, working closely with US bank CEOs to transform their businesses.",
+          "one_liner": "AI agents for banks",
+          "team_size": 2,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Banking and Exchange",
+          "launched_at": 1769406704,
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Banking and Exchange"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31187",
+          "_highlightResult": {
+            "name": {
+              "value": "Fenrock <em>AI</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "former_names": [
+              {
+                "value": "new co",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Fenrock.<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Fenrock <em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Fenrock <em>AI</em> (YC W26)",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "website": {
+              "value": "https://fenrock.<em>ai</em>/",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "We're building the Legora <em>for</em> traditional financial services, working closely with US bank CEOs to transform their businesses.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> banks",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Banking and Exchange",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 27699,
+          "name": "Concourse",
+          "slug": "concourse",
+          "former_names": [
+            "Factr"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a23ab54dfc7d4f1d332c905fd3e054c452007712.png",
+          "website": "https://concourse.co/",
+          "all_locations": "New York City, NY, USA",
+          "long_description": "Concourse is building AI agents for corporate finance teams. Concourse works alongside finances teams to assist in day-to-day operations by taking on the most manual and time consuming work. Core to the platform is an AI analyst tailor-built for finance teams that is available at any hour of the day, accessible via natural language, and built with full connectivity to a company’s existing financial systems. Concourse enables team members to more effectively retrieve and analyze data, generate charts and reports, and answer ad-hoc questions.",
+          "one_liner": "AI Agents for corporate finance teams",
+          "team_size": 7,
+          "industry": "B2B",
+          "subindustry": "B2B -> Finance and Accounting",
+          "launched_at": 1680338396,
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "SaaS",
+            "B2B",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Winter 2023",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Finance and Accounting"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "27699",
+          "_highlightResult": {
+            "name": {
+              "value": "Concourse",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Factr",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://concourse.co/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "New York City, NY, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Concourse is building <em>AI</em> <em>agents</em> <em>for</em> corporate finance teams. Concourse works alongside finances teams to assist in day-to-day operations by taking on the most manual and time consuming work. Core to the platform is an <em>AI</em> analyst tailor-built <em>for</em> finance teams that is available at any hour of the day, accessible via natural language, and built with full connectivity to a company’s existing financial systems. Concourse enables team members to more effectively retrieve and analyze data, generate charts and reports, and answer ad-hoc questions.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>Agents</em> <em>for</em> corporate finance teams",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "SaaS",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Finance and Accounting",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 36084,
+          "name": "Covera",
+          "slug": "covera",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e711e58f600a9ea3c53a45d934c825989e9b5b57.png",
+          "website": "https://www.covera-agents.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Covera builds AI agents for insurance brokers. Our ready-to-use agents take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",
+          "one_liner": "AI-native OS for insurance brokers",
+          "team_size": 2,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Insurance",
+          "launched_at": 1787324338,
+          "tags": [
+            "AIOps"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Fall 2026",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Insurance"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "36084",
+          "_highlightResult": {
+            "name": {
+              "value": "Covera",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.covera-<em>agents</em>.com/",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "agents"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Covera builds <em>AI</em> <em>agents</em> <em>for</em> insurance brokers. Our ready-to-use <em>agents</em> take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em>-native OS <em>for</em> insurance brokers",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "AIOps",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31385,
+          "name": "Zolvo",
+          "slug": "zolvo",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
+          "website": "https://zolvo.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+          "one_liner": "AI Back-Office Automation for Commercial Lenders",
+          "team_size": 3,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Credit and Lending",
+          "launched_at": 1773364062,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Spring 2026",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Credit and Lending"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31385",
+          "_highlightResult": {
+            "name": {
+              "value": "Zolvo",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://zolvo.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with <em>AI</em>: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> Back-Office Automation <em>for</em> Commercial Lenders",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "for"
+              ]
+            },
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Credit and Lending",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30663,
+          "name": "Tesora",
+          "slug": "tesora",
+          "former_names": [
+            "Tesora AI"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
+          "website": "https://tesora.ai",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
+          "one_liner": "Frontier AI for Actuaries",
+          "team_size": 5,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Insurance",
+          "launched_at": 1755571936,
+          "tags": [
+            "API",
+            "Insurance",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2025",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Insurance"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30663",
+          "_highlightResult": {
+            "name": {
+              "value": "Tesora",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Tesora <em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "website": {
+              "value": "https://tesora.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Tesora builds frontier <em>AI</em> <em>agents</em> <em>for</em> actuaries at P&C carriers, reinsurers, and MGAs. The <em>agents</em> handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by <em>AI</em> technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "Frontier <em>AI</em> <em>for</em> Actuaries",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "API",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30415,
+          "name": "Avallon AI",
+          "slug": "avallon-ai",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
+          "website": "https://www.avallon.ai/",
+          "all_locations": "New York City, NY, USA",
+          "long_description": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing. ",
+          "one_liner": "AI agents for insurance claims operations",
+          "team_size": 7,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Insurance",
+          "launched_at": 1744318663,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Spring 2025",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Insurance"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30415",
+          "_highlightResult": {
+            "name": {
+              "value": "Avallon <em>AI</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "website": {
+              "value": "https://www.avallon.<em>ai</em>/",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "New York City, NY, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Avallon automates insurance claims operations with <em>AI</em> <em>agents</em> that handle routine calls and documents processing. ",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> insurance claims operations",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 29467,
+          "name": "Powder",
+          "slug": "powder",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6603ab4de90057f1854b7b4b75d28ec647c3aa7.png",
+          "website": "https://www.powderfi.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Powder is an AI tool that helps wealth advisors rapidly create sales proposals that are personalized for each prospective client.  Using LLMs, Powder is able to automate a series of manual tasks such as understanding documents and conversations to create mind-blowing analysis that builds immediate trust.\r\n\r\n\r\nPowder has 3 main features to automate sales workflows -\r\n\r\n1. Brokerage, tax and estate document parser thats fast and accurate.\r\n2. Meeting notetaker thats able to capture personalized insights.\r\n3. Portfolio analysis tool that optimizes portfolio returns, risk and fees.\r\n\r\nOur app saves hours of time and creates a pinpoint proposal that lifts a firm's ability to win new business.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+          "one_liner": "AI Agents for precise document analysis",
+          "team_size": 6,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Asset Management",
+          "launched_at": 1705898735,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Winter 2024",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Asset Management"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "29467",
+          "_highlightResult": {
+            "name": {
+              "value": "Powder",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.powderfi.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Powder is an <em>AI</em> tool that helps wealth advisors rapidly create sales proposals that are personalized <em>for</em> each prospective client.  Using LLMs, Powder is able to automate a series of manual tasks such as understanding documents and conversations to create mind-blowing analysis that builds immediate trust.\r\n\r\n\r\nPowder has 3 main features to automate sales workflows -\r\n\r\n1. Brokerage, tax and estate document parser thats fast and accurate.\r\n2. Meeting notetaker thats able to capture personalized insights.\r\n3. Portfolio analysis tool that optimizes portfolio returns, risk and fees.\r\n\r\nOur app saves hours of time and creates a pinpoint proposal that lifts a firm's ability to win new business.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>Agents</em> <em>for</em> precise document analysis",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Asset Management",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 26713,
+          "name": "Pasito",
+          "slug": "pasito",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99d6144bd15df315cd76d735be86467d893d772a.png",
+          "website": "https://pasito.ai",
+          "all_locations": "New York City, NY, USA; Remote",
+          "long_description": "Pasito builds AI agents for insurance and benefits—transforming how benefits are built, delivered, and experienced.\r\n\r\nOur Core AI ingests and understands plan documents and employee census data to build structured benefit intelligence.\r\n\r\nOur Engagement AI Agents orchestrate complex workflows—powering decision support, plan comparisons, guides, highlight sheets, microsites, communications, claims reminders, RFP management, document audits, translations, and more—all from a single intelligent database.\r\n\r\nWith Pasito, carriers, brokers, and benefits vendors eliminate manual work, accelerate growth, and deliver the personalized benefits experiences employees deserve—all powered by compliant, scalable AI systems.\r\n\r\nBacked by Y Combinator, Core Innovation Capital, and other leading investors.",
+          "one_liner": "AI agents for insurance and benefits",
+          "team_size": 20,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Insurance",
+          "launched_at": 1657142710,
+          "tags": [
+            "Health Tech",
+            "Insurance",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2022",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Insurance"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Fully Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "26713",
+          "_highlightResult": {
+            "name": {
+              "value": "Pasito",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://pasito.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "New York City, NY, USA; Remote",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Pasito builds <em>AI</em> <em>agents</em> <em>for</em> insurance and benefits—transforming how benefits are built, delivered, and experienced.\r\n\r\nOur Core <em>AI</em> ingests and understands plan documents and employee census data to build structured benefit intelligence.\r\n\r\nOur Engagement <em>AI</em> <em>Agents</em> orchestrate complex workflows—powering decision support, plan comparisons, guides, highlight sheets, microsites, communications, claims reminders, RFP management, document audits, translations, and more—all from a single intelligent database.\r\n\r\nWith Pasito, carriers, brokers, and benefits vendors eliminate manual work, accelerate growth, and deliver the personalized benefits experiences employees deserve—all powered by compliant, scalable <em>AI</em> systems.\r\n\r\nBacked by Y Combinator, Core Innovation Capital, and other leading investors.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> insurance and benefits",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Health Tech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 25585,
+          "name": "Armilla AI",
+          "slug": "armilla-ai",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0397658ae6c0ba5a9499d3b6844bdb898f09c38.png",
+          "website": "http://www.armilla.ai",
+          "all_locations": "Toronto, ON, Canada",
+          "long_description": "Armilla AI (YC W22) is the first YC-backed MGA and Lloyd's Coverholder dedicated to insuring AI-related risks. Armilla's insurance policies cover developers and deployers of generative AI and AI agents for performance and liability -- from errors and hallucinations, to incorrect decisions, data leakage, regulatory violations and more.",
+          "one_liner": "Liability insurance for generative AI and AI Agents ",
+          "team_size": 14,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Insurance",
+          "launched_at": 1642131883,
+          "tags": [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Insurance"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2022",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Insurance"
+          ],
+          "regions": [
+            "Canada",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "25585",
+          "_highlightResult": {
+            "name": {
+              "value": "Armilla <em>AI</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "website": {
+              "value": "http://www.armilla.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "Toronto, ON, Canada",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Armilla <em>AI</em> (YC W22) is the first YC-backed MGA and Lloyd's Coverholder dedicated to insuring <em>AI</em>-related risks. Armilla's insurance policies cover developers and deployers of generative <em>AI</em> and <em>AI</em> <em>agents</em> <em>for</em> performance and liability -- from errors and hallucinations, to incorrect decisions, data leakage, regulatory violations and more.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "one_liner": {
+              "value": "Liability insurance <em>for</em> generative <em>AI</em> and <em>AI</em> <em>Agents</em> ",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Generative <em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "<em>Fintech</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "fintech"
+                ]
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 29451,
+          "name": "Basepilot",
+          "slug": "basepilot",
+          "former_names": [
+            "Nexus"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ab7f5055bddb0617e16226359b7395d5b8354b2.png",
+          "website": "https://www.basepilot.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Basepilot helps insurers, TPAs and MGAs streamline claims operations with line-of-business-specific AI agents. Companies like Old Republic International, Zurich & others use Basepilot to make claims operations more efficient, less costly and more intelligent.\r\n\r\nBasepilot is founded by Ken Hendricks and Pascal Wieler.\r\n\r\nInterested to try it out? Get started here: https://www.basepilot.com/ ",
+          "one_liner": "AI agents for insurance claims",
+          "team_size": 2,
+          "industry": "B2B",
+          "subindustry": "B2B -> Productivity",
+          "launched_at": 1704381024,
+          "tags": [
+            "Artificial Intelligence",
+            "Insurance",
+            "No-code",
+            "Automation",
+            "AI Assistant"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2024",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Productivity"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "29451",
+          "_highlightResult": {
+            "name": {
+              "value": "Basepilot",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Nexus",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://www.basepilot.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Basepilot helps insurers, TPAs and MGAs streamline claims operations with line-of-business-specific <em>AI</em> <em>agents</em>. Companies like Old Republic International, Zurich & others use Basepilot to make claims operations more efficient, less costly and more intelligent.\r\n\r\nBasepilot is founded by Ken Hendricks and Pascal Wieler.\r\n\r\nInterested to try it out? Get started here: https://www.basepilot.com/ ",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> <em>for</em> insurance claims",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents",
+                "for"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "No-code",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Automation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em> Assistant",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Productivity",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        }
+      ],
+      "nbHits": 124,
+      "page": 0,
+      "nbPages": 7,
+      "hitsPerPage": 20,
+      "exhaustiveNbHits": true,
+      "exhaustiveTypo": true,
+      "exhaustive": {
+        "nbHits": true,
+        "typo": true
+      },
+      "query": "AI agents for Fintech",
+      "params": "query=AI+agents+for+Fintech&hitsPerPage=20&analyticsTags=ycdc&restrictIndices=YCCompany_production%2CYCCompany_By_Launch_Date_production&tagFilters=%5B%22ycdc_public%22%5D",
+      "index": "YCCompany_production",
+      "renderingContent": {},
+      "extensions": {
+        "queryCategorization": {}
+      },
+      "processingTimeMS": 2,
+      "processingTimingsMS": {
+        "_request": {
+          "roundTrip": 167
+        },
+        "afterFetch": {
+          "format": {
+            "total": 1
+          }
+        },
+        "extensions": 1,
+        "fetch": {
+          "total": 1
+        },
+        "total": 2
+      },
+      "serverTimeMS": 4
+    }
+  ]
+}

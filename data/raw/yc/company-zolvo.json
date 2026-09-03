@@ -1,0 +1,18 @@
+{
+  "name": "Zolvo",
+  "year_founded": 2026,
+  "founders": [
+    {
+      "full_name": "Isabela Rodriguez",
+      "title": "Founder/CEO",
+      "founder_bio": "Co-founder and CEO @Zolvo (YCP26). First GTM hire at Domu (YC S24), closed their first $1M in revenue bringing clients like Chubb. Came to SF with $3K, quit my job a week later to build Zolvo, hustler by nature I execute fast and show results to clients not fluff.\n",
+      "linkedin_url": "https://www.linkedin.com/in/isabela-rodriguez-438785170/"
+    },
+    {
+      "full_name": "Tony Montes",
+      "title": "Founder/CTO",
+      "founder_bio": "Co-founder and CTO @ Zolvo (YCP26). Founding AI engineer at Domu (YC S24), built voice AI infrastructure that scaled to 100K+ calls per day for enterprise fintech clients. Background in AI research with publications at ACL and EMNLP and work on generative models at Cornell. Builds Zolvo’s product and infrastructure end to end for commercial lenders.",
+      "linkedin_url": "https://www.linkedin.com/in/t-montes"
+    }
+  ]
+}

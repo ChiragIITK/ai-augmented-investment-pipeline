@@ -1,0 +1,38 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=clarum.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 123,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 49,
+      "roundTrip": 22
+    },
+    "fetch": {
+      "query": 8,
+      "scanning": 33,
+      "total": 42
+    },
+    "getIdx": {
+      "load": {
+        "dicts": 4,
+        "gens": 43,
+        "synonyms": 31,
+        "total": 79
+      },
+      "total": 79
+    },
+    "total": 123
+  },
+  "query": "clarum.ai",
+  "serverTimeMS": 314
+}

@@ -1,0 +1,71 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "amarble"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Following LLM Manufacturer's Instructions"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "armilla",
+            ".",
+            "ai"
+          ],
+          "value": "https://www.<em>armilla.ai</em>/resources/following-llm-manufacturers-instructions"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_amarble",
+        "story_41912782"
+      ],
+      "author": "amarble",
+      "children": [
+        41913123
+      ],
+      "created_at": "2024-10-22T09:59:32Z",
+      "created_at_i": 1729591172,
+      "num_comments": 1,
+      "objectID": "41912782",
+      "points": 3,
+      "story_id": 41912782,
+      "title": "Following LLM Manufacturer's Instructions",
+      "updated_at": "2024-10-22T14:19:47Z",
+      "url": "https://www.armilla.ai/resources/following-llm-manufacturers-instructions"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=armilla.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 24,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 10,
+      "scanning": 12,
+      "total": 23
+    },
+    "total": 24
+  },
+  "query": "armilla.ai",
+  "serverTimeMS": 24
+}

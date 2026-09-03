@@ -1,0 +1,1435 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "doener"
+        },
+        "title": {
+          "fullyHighlighted": true,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "<em>Posthog.com</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>posthog.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_46141796"
+      ],
+      "author": "doener",
+      "children": [
+        46143280
+      ],
+      "created_at": "2025-12-03T23:33:39Z",
+      "created_at_i": 1764804819,
+      "num_comments": 1,
+      "objectID": "46141796",
+      "points": 1,
+      "story_id": 46141796,
+      "title": "Posthog.com",
+      "updated_at": "2026-03-05T23:06:53Z",
+      "url": "https://posthog.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "james_impliu"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "James, Tim and Aaron here - we are building a self-hosted, open source Mixpanel/Amplitude style product. The repo is at <a href=\"https://github.com/posthog/posthog\" rel=\"nofollow\">https://github.com/posthog/posthog</a> and our home page is <a href=\"https://posthog.com/\" rel=\"nofollow\">https://<em>posthog.com</em>/</a>.<p>After four years of working together, we originally quit our jobs to set up a company focused on tech debt. We didn’t manage to solve that problem, but we learned how important product analytics were in finding users, getting them to try it out, and in understanding which features we needed to focus on to impact users.<p>However, when we installed product analytics, it bothered us how we needed to send our users’ data to 3rd parties. Exporting data from these tools costs $manyK a month, and it felt wrong from a privacy perspective. We designed PostHog to solve these problems.<p>We made PostHog to automatically capture every front-end click, removing the need to add track(‘event’) - it has a toolbar to label important events after they’re captured. That means you’re spending less time fixing your tracking. You can also push events too.<p>You can have API/SQL access to the underlying data, and it has analytics - funnels and event trends with segmentation based on event properties (like UTM tags). That means we’ve got the best parts of the 3rd party analytics providers but are more privacy and developer friendly.<p>We’re thinking of adding features around paths/retention/pushing events to other tools (ie slack/your CRM). We’d love to hear your feature requests.<p>We are platform and language agnostic, with a very simple setup. If you want Python/Ruby/Node, we give you a library. For anything else, there’s an API. The repo has instructions for Heroku (1 click!), Docker or deploy from source.<p>We’ve launched this repo under MIT license so any developer can use the tool. The goal is to not charge individual developers. We make money by charging a license fee for things like multiple users, user permissions, integrations with other databases, providing a hosted version and support.<p>Give it a spin: <a href=\"https://github.com/posthog/posthog\" rel=\"nofollow\">https://github.com/posthog/posthog</a>. Let us know what you think!"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Launch HN: PostHog (YC W20) – open-source product analytics"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_james_impliu",
+        "story_22376732",
+        "launch_hn"
+      ],
+      "author": "james_impliu",
+      "children": [
+        22376943,
+        22376956,
+        22377037,
+        22377057,
+        22377101,
+        22377114,
+        22377142,
+        22377175,
+        22377179,
+        22377247,
+        22377303,
+        22377355,
+        22377453,
+        22377571,
+        22377650,
+        22377834,
+        22377897,
+        22378245,
+        22378393,
+        22378668,
+        22378955,
+        22378997,
+        22379019,
+        22379248,
+        22379267,
+        22379373,
+        22379724,
+        22380245,
+        22381013,
+        22381184,
+        22381339,
+        22382165,
+        22384470
+      ],
+      "created_at": "2020-02-20T17:27:46Z",
+      "created_at_i": 1582219666,
+      "num_comments": 83,
+      "objectID": "22376732",
+      "points": 282,
+      "story_id": 22376732,
+      "story_text": "James, Tim and Aaron here - we are building a self-hosted, open source Mixpanel&#x2F;Amplitude style product. The repo is at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;posthog&#x2F;posthog\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;posthog&#x2F;posthog</a> and our home page is <a href=\"https:&#x2F;&#x2F;posthog.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;posthog.com&#x2F;</a>.<p>After four years of working together, we originally quit our jobs to set up a company focused on tech debt. We didn’t manage to solve that problem, but we learned how important product analytics were in finding users, getting them to try it out, and in understanding which features we needed to focus on to impact users.<p>However, when we installed product analytics, it bothered us how we needed to send our users’ data to 3rd parties. Exporting data from these tools costs $manyK a month, and it felt wrong from a privacy perspective. We designed PostHog to solve these problems.<p>We made PostHog to automatically capture every front-end click, removing the need to add track(‘event’) - it has a toolbar to label important events after they’re captured. That means you’re spending less time fixing your tracking. You can also push events too.<p>You can have API&#x2F;SQL access to the underlying data, and it has analytics - funnels and event trends with segmentation based on event properties (like UTM tags). That means we’ve got the best parts of the 3rd party analytics providers but are more privacy and developer friendly.<p>We’re thinking of adding features around paths&#x2F;retention&#x2F;pushing events to other tools (ie slack&#x2F;your CRM). We’d love to hear your feature requests.<p>We are platform and language agnostic, with a very simple setup. If you want Python&#x2F;Ruby&#x2F;Node, we give you a library. For anything else, there’s an API. The repo has instructions for Heroku (1 click!), Docker or deploy from source.<p>We’ve launched this repo under MIT license so any developer can use the tool. The goal is to not charge individual developers. We make money by charging a license fee for things like multiple users, user permissions, integrations with other databases, providing a hosted version and support.<p>Give it a spin: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;posthog&#x2F;posthog\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;posthog&#x2F;posthog</a>. Let us know what you think!",
+      "title": "Launch HN: PostHog (YC W20) – open-source product analytics",
+      "updated_at": "2026-05-08T19:37:34Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "marcklingen"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "Hi HN! Langfuse is OSS observability and analytics for LLM applications (repo: <a href=\"https://github.com/langfuse/langfuse\">https://github.com/langfuse/langfuse</a>, 2 min demo: <a href=\"https://langfuse.com/video\">https://langfuse.com/video</a>, try it yourself: <a href=\"https://langfuse.com/demo\">https://langfuse.com/demo</a>)<p>Langfuse makes capturing and viewing LLM calls (execution traces) a breeze. On top of this data, you can analyze the quality, cost and latency of LLM apps.<p>When GPT-4 dropped, we started building LLM apps – a lot of them! [1, 2] But they all suffered from the same issue: it’s hard to assure quality in 100% of cases and even to have a clear view of user behavior. Initially, we logged all prompts/completions to our production database to understand what works and what doesn’t. We soon realized we needed more context, more data and better analytics to sustainably improve our apps.  So we started building a homegrown tool.<p>Our first task was to track and view what is going on in production: what user input is provided, how prompt templates or vector db requests work, and which steps of an LLM chain fail. We built async SDKs and a slick frontend to render chains in a nested way. It’s a good way to look at LLM logic ‘natively’. Then we added some basic analytics to understand token usage and quality over time for the entire project or single users (pre-built dashboards).<p>Under the hood, we use the T3 stack (Typescript, NextJs, Prisma, tRPC, Tailwind, NextAuth), which allows us to move fast + it means it's easy to contribute to our repo. The SDKs are heavily influenced by the design of the PostHog SDKs [3] for stable implementations of async network requests. It was a surprisingly inconvenient experience to convert OpenAPI specs to boilerplate Python code and we ended up using Fern [4] here. We’re fans of Tailwind + shadcn/ui + tremor.so for speed and flexibility in building tables and dashboards fast.<p>Our SDKs run fully asynchronously and make network requests in the background. We did our best to reduce any impact on application performance to a minimum. We never block the main execution path.<p>We've made two engineering decisions we've felt uncertain about: to use a Postgres database and Looker Studio for the analytics MVP. Supabase performs well at our scale and integrates seamlessly into our tech stack. We will need to move to an OLAP database soon and are debating if we need to start batching ingestion and if we can keep using Vercel. Any experience you could share would be helpful!<p>Integrating Looker Studio got us to first analytics charts in half a day. As it is not open-source and does not work with our UI/UX, we are looking to switch it out for an OSS solution to flexibly generate charts and dashboards. We’ve had a look at Lightdash and would be happy to hear your thoughts.<p>We’re borrowing our OSS business model from Posthog/Supabase who make it easy to self-host with features reserved for enterprise (no plans yet) and a paid version for managed cloud service. Right now all of our code is available under a permissive license (MIT).<p>Next, we’re going deep on analytics. For quality specifically, we will build out model-based evaluations and labeling to be able to cluster traces by scores and use cases.<p>Looking forward to hearing your thoughts and discussion – we’ll be in the comments. Thanks!<p>[1] <a href=\"https://learn-from-ai.com/\" rel=\"nofollow noreferrer\">https://learn-from-ai.com/</a><p>[2] <a href=\"https://www.loom.com/share/5c044ca77be44ff7821967834dd70cba\" rel=\"nofollow noreferrer\">https://www.loom.com/share/5c044ca77be44ff7821967834dd70cba</a><p>[3] <a href=\"https://posthog.com/docs/libraries\">https://<em>posthog.com</em>/docs/libraries</a><p>[4] <a href=\"https://buildwithfern.com/\">https://buildwithfern.com/</a>"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Langfuse – Open-source observability and analytics for LLM apps"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/langfuse/langfuse"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_marcklingen",
+        "story_37310070",
+        "show_hn"
+      ],
+      "author": "marcklingen",
+      "children": [
+        37310465,
+        37311659,
+        37312121,
+        37312245,
+        37313140,
+        37313158,
+        37313168,
+        37313608,
+        37313753,
+        37314590,
+        37315050,
+        37316797,
+        37321604,
+        37415517
+      ],
+      "created_at": "2023-08-29T16:14:06Z",
+      "created_at_i": 1693325646,
+      "num_comments": 35,
+      "objectID": "37310070",
+      "points": 143,
+      "story_id": 37310070,
+      "story_text": "Hi HN! Langfuse is OSS observability and analytics for LLM applications (repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;langfuse&#x2F;langfuse\">https:&#x2F;&#x2F;github.com&#x2F;langfuse&#x2F;langfuse</a>, 2 min demo: <a href=\"https:&#x2F;&#x2F;langfuse.com&#x2F;video\">https:&#x2F;&#x2F;langfuse.com&#x2F;video</a>, try it yourself: <a href=\"https:&#x2F;&#x2F;langfuse.com&#x2F;demo\">https:&#x2F;&#x2F;langfuse.com&#x2F;demo</a>)<p>Langfuse makes capturing and viewing LLM calls (execution traces) a breeze. On top of this data, you can analyze the quality, cost and latency of LLM apps.<p>When GPT-4 dropped, we started building LLM apps – a lot of them! [1, 2] But they all suffered from the same issue: it’s hard to assure quality in 100% of cases and even to have a clear view of user behavior. Initially, we logged all prompts&#x2F;completions to our production database to understand what works and what doesn’t. We soon realized we needed more context, more data and better analytics to sustainably improve our apps.  So we started building a homegrown tool.<p>Our first task was to track and view what is going on in production: what user input is provided, how prompt templates or vector db requests work, and which steps of an LLM chain fail. We built async SDKs and a slick frontend to render chains in a nested way. It’s a good way to look at LLM logic ‘natively’. Then we added some basic analytics to understand token usage and quality over time for the entire project or single users (pre-built dashboards).<p>Under the hood, we use the T3 stack (Typescript, NextJs, Prisma, tRPC, Tailwind, NextAuth), which allows us to move fast + it means it&#x27;s easy to contribute to our repo. The SDKs are heavily influenced by the design of the PostHog SDKs [3] for stable implementations of async network requests. It was a surprisingly inconvenient experience to convert OpenAPI specs to boilerplate Python code and we ended up using Fern [4] here. We’re fans of Tailwind + shadcn&#x2F;ui + tremor.so for speed and flexibility in building tables and dashboards fast.<p>Our SDKs run fully asynchronously and make network requests in the background. We did our best to reduce any impact on application performance to a minimum. We never block the main execution path.<p>We&#x27;ve made two engineering decisions we&#x27;ve felt uncertain about: to use a Postgres database and Looker Studio for the analytics MVP. Supabase performs well at our scale and integrates seamlessly into our tech stack. We will need to move to an OLAP database soon and are debating if we need to start batching ingestion and if we can keep using Vercel. Any experience you could share would be helpful!<p>Integrating Looker Studio got us to first analytics charts in half a day. As it is not open-source and does not work with our UI&#x2F;UX, we are looking to switch it out for an OSS solution to flexibly generate charts and dashboards. We’ve had a look at Lightdash and would be happy to hear your thoughts.<p>We’re borrowing our OSS business model from Posthog&#x2F;Supabase who make it easy to self-host with features reserved for enterprise (no plans yet) and a paid version for managed cloud service. Right now all of our code is available under a permissive license (MIT).<p>Next, we’re going deep on analytics. For quality specifically, we will build out model-based evaluations and labeling to be able to cluster traces by scores and use cases.<p>Looking forward to hearing your thoughts and discussion – we’ll be in the comments. Thanks!<p>[1] <a href=\"https:&#x2F;&#x2F;learn-from-ai.com&#x2F;\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;learn-from-ai.com&#x2F;</a><p>[2] <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;5c044ca77be44ff7821967834dd70cba\" rel=\"nofollow noreferrer\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;5c044ca77be44ff7821967834dd70cba</a><p>[3] <a href=\"https:&#x2F;&#x2F;posthog.com&#x2F;docs&#x2F;libraries\">https:&#x2F;&#x2F;posthog.com&#x2F;docs&#x2F;libraries</a><p>[4] <a href=\"https:&#x2F;&#x2F;buildwithfern.com&#x2F;\">https:&#x2F;&#x2F;buildwithfern.com&#x2F;</a>",
+      "title": "Show HN: Langfuse – Open-source observability and analytics for LLM apps",
+      "updated_at": "2026-05-13T09:53:19Z",
+      "url": "https://github.com/langfuse/langfuse"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "iddan"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "Ten years ago, there was a popular Ask HN: &quot;what's your startup’s analytics setup?” [0]. Like the poster then (malandrew), I have the same problem in 2023: Selecting analytics solutions for the startup I'm working at has proven to be more daunting than I imagined.<p>There are many services to choose from and it's not immediately obvious how you should choose from the many offerings to get not only complete analytics coverage but also do so in a way where you can integrate them all to get a complete picture without any mismatch.<p>There is too much marketing speech copy on the sites of many analytics startups to properly evaluate them without wasting time and effort to signup, configure and use each one long enough to understand the value they provide.<p>Off the top of my head, there are services like Segment [1], Amplitude [2], Mixpanel [3], Trackingplan [4], Avo [5], Posthog [6], Freshpaint [7], etc.<p>So ten years later, what are the must-have analytics solutions for startups? What are the best tools for bringing in all the data from the different analytics tools? How should Engineering, Product and Data work together around analytics?<p>The more details you can provide the better.<p>[0]: https://news.ycombinator.com/item?id=4707903<p>[1]: https://segment.com<p>[2]: https://amplitude.com<p>[3]: https://mixpanel.com<p>[4]: https://www.trackingplan.com<p>[5]: https://www.avo.app<p>[6]: https://<em>posthog.com</em><p>[7]: https://www.freshpaint.io"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: What’s your startup’s analytics setup? (2023)"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_iddan",
+        "story_34232908",
+        "ask_hn"
+      ],
+      "author": "iddan",
+      "children": [
+        34233580,
+        34233895,
+        34234143,
+        34234167,
+        34234455,
+        34234638,
+        34235207,
+        34236486,
+        34238987,
+        34239871,
+        34246533,
+        34246966
+      ],
+      "created_at": "2023-01-03T15:46:23Z",
+      "created_at_i": 1672760783,
+      "num_comments": 15,
+      "objectID": "34232908",
+      "points": 37,
+      "story_id": 34232908,
+      "story_text": "Ten years ago, there was a popular Ask HN: &quot;what&#x27;s your startup’s analytics setup?” [0]. Like the poster then (malandrew), I have the same problem in 2023: Selecting analytics solutions for the startup I&#x27;m working at has proven to be more daunting than I imagined.<p>There are many services to choose from and it&#x27;s not immediately obvious how you should choose from the many offerings to get not only complete analytics coverage but also do so in a way where you can integrate them all to get a complete picture without any mismatch.<p>There is too much marketing speech copy on the sites of many analytics startups to properly evaluate them without wasting time and effort to signup, configure and use each one long enough to understand the value they provide.<p>Off the top of my head, there are services like Segment [1], Amplitude [2], Mixpanel [3], Trackingplan [4], Avo [5], Posthog [6], Freshpaint [7], etc.<p>So ten years later, what are the must-have analytics solutions for startups? What are the best tools for bringing in all the data from the different analytics tools? How should Engineering, Product and Data work together around analytics?<p>The more details you can provide the better.<p>[0]: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=4707903<p>[1]: https:&#x2F;&#x2F;segment.com<p>[2]: https:&#x2F;&#x2F;amplitude.com<p>[3]: https:&#x2F;&#x2F;mixpanel.com<p>[4]: https:&#x2F;&#x2F;www.trackingplan.com<p>[5]: https:&#x2F;&#x2F;www.avo.app<p>[6]: https:&#x2F;&#x2F;posthog.com<p>[7]: https:&#x2F;&#x2F;www.freshpaint.io",
+      "title": "Ask HN: What’s your startup’s analytics setup? (2023)",
+      "updated_at": "2024-12-22T04:10:11Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mifydev"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "Hi HN! I’m Ivan, one of the founders of Sourcewizard.<p>It’s a CLI tool that works with AI coding agents (like Cursor and Claude) to install and set up SDKs correctly including middleware, pages, env vars, everything.<p>Similar to the PostHog Install AI Wizard: <a href=\"https://posthog.com/docs/ai-engineering/ai-wizard\">https://<em>posthog.com</em>/docs/ai-engineering/ai-wizard</a>\nBut for more packages.<p>Run this to try it:<p>npx ai-setup clerk<p>We built it after watching agents fail basic installs.\nWrong packages, deprecated methods, half-finished setups.<p>Sourcewizard uses package-specific prompts that complete clean installs ~90% of the time on Next.js apps.<p>Currently we support:<p>A Few Auth Providers: Clerk and WorkOS<p>Search APIs, Emails and Notifications: Firecrawl, Resend, Knock<p>Quickstart: <a href=\"https://docs.sourcewizard.ai/quickstart\" rel=\"nofollow\">https://docs.sourcewizard.ai/quickstart</a><p>More context: <a href=\"https://sourcewizard.ai/blog/why-your-sdk-breaks-in-cursor\" rel=\"nofollow\">https://sourcewizard.ai/blog/why-your-sdk-breaks-in-cursor</a><p>Notes:\n- The client code is open source: <a href=\"https://github.com/sourcewizard-ai/sourcewizard\" rel=\"nofollow\">https://github.com/sourcewizard-ai/sourcewizard</a>\n- We explicitly ignore existing Env Files: <a href=\"https://github.com/sourcewizard-ai/sourcewizard/blob/main/install-agent/new-agent.ts#L500\" rel=\"nofollow\">https://github.com/sourcewizard-ai/sourcewizard/blob/main/in...</a><p>Would love feedback!<p>— Lukas &amp; Ivan"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Sourcewizard – AI installs SDKs in your codebase"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://sourcewizard.ai"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mifydev",
+        "story_45987702",
+        "show_hn"
+      ],
+      "author": "mifydev",
+      "children": [
+        45987713,
+        45987756,
+        45987808,
+        45988092,
+        45988958
+      ],
+      "created_at": "2025-11-20T01:33:07Z",
+      "created_at_i": 1763602387,
+      "num_comments": 23,
+      "objectID": "45987702",
+      "points": 15,
+      "story_id": 45987702,
+      "story_text": "Hi HN! I’m Ivan, one of the founders of Sourcewizard.<p>It’s a CLI tool that works with AI coding agents (like Cursor and Claude) to install and set up SDKs correctly including middleware, pages, env vars, everything.<p>Similar to the PostHog Install AI Wizard: <a href=\"https:&#x2F;&#x2F;posthog.com&#x2F;docs&#x2F;ai-engineering&#x2F;ai-wizard\">https:&#x2F;&#x2F;posthog.com&#x2F;docs&#x2F;ai-engineering&#x2F;ai-wizard</a>\nBut for more packages.<p>Run this to try it:<p>npx ai-setup clerk<p>We built it after watching agents fail basic installs.\nWrong packages, deprecated methods, half-finished setups.<p>Sourcewizard uses package-specific prompts that complete clean installs ~90% of the time on Next.js apps.<p>Currently we support:<p>A Few Auth Providers: Clerk and WorkOS<p>Search APIs, Emails and Notifications: Firecrawl, Resend, Knock<p>Quickstart: <a href=\"https:&#x2F;&#x2F;docs.sourcewizard.ai&#x2F;quickstart\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.sourcewizard.ai&#x2F;quickstart</a><p>More context: <a href=\"https:&#x2F;&#x2F;sourcewizard.ai&#x2F;blog&#x2F;why-your-sdk-breaks-in-cursor\" rel=\"nofollow\">https:&#x2F;&#x2F;sourcewizard.ai&#x2F;blog&#x2F;why-your-sdk-breaks-in-cursor</a><p>Notes:\n- The client code is open source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sourcewizard-ai&#x2F;sourcewizard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;sourcewizard-ai&#x2F;sourcewizard</a>\n- We explicitly ignore existing Env Files: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;sourcewizard-ai&#x2F;sourcewizard&#x2F;blob&#x2F;main&#x2F;install-agent&#x2F;new-agent.ts#L500\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;sourcewizard-ai&#x2F;sourcewizard&#x2F;blob&#x2F;main&#x2F;in...</a><p>Would love feedback!<p>— Lukas &amp; Ivan",
+      "title": "Show HN: Sourcewizard – AI installs SDKs in your codebase",
+      "updated_at": "2026-03-05T23:03:22Z",
+      "url": "https://sourcewizard.ai"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "udit_50"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "Since vibe coding came into existence, I have been experimenting with building products a lot. Some of my products were consumer facing and some.. well, internal clones of expensive software. However, since beginning, I knew one big thing - the vibe stack was expensive.<p>I initially tried a lot of tools - Bolt, v0, Replit, Lovable, etc. out of which Replit game me the best results (yes, I can be biased due to my selection of applications). But I often paid anywhere from $25-$200/mo. Other costs like API, models, etc. made monthly bills upward of $300/mo. Was it cost effective when compared to hiring a developer? Yes. Was it value for money? NO.<p>So, over the months, I optimised by complete stack to be either free (or minimal cost) for internal use or stay at a much lean cost for consumer-facing products.<p>Here's how the whole stack looks today -<p>- IDE - Google's AntiGravity (100% free + higher access if you use student ID) --&gt; https://antigravity.google/<p>AI Documentation - SuperDocs (100% free &amp; open source) --&gt; https://superdocs.cloud/<p>Database - Supabase (Nano plan free, enough for basic needs) --&gt; http://supabase.com/<p>Authentication - Stack Auth (Free upto 10K users) --&gt; http://stack-auth.com/<p>LLM (AI Model) - OpenRouter or Gemini via AI Studio for testing and a custom tuned model by Unsloth AI for production. (You can fine-tune models using Unsloth literal in a Google Colab Notebook) --&gt; http://openrouter.ai/ OR http://unsloth.ai/ OR http://aistudio.google.com/<p>Version Maintenance/Distribution - Github/Gitlab (both totally free and open source) --&gt; http://github.com/ OR http://gitlab.com/<p>Faster Deployment - Vercel (Free Tier Enough for Hobbyists) --&gt; https://vercel.com<p>Analytics - PostHog, Microsoft Clarity &amp; Google Analytics (All 3 are free and independent for different tracking, I recommend using all of them) --&gt; Https://<em>posthog.com</em> OR http://clarity.microsoft.com/ OR http://analytics.google.com/<p>That's the list devs! I know I might have missed something. If yes, just ask me up or list them up in the comments. If you have any questions related to something specific, ask me up as well."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "I optimised my vibe coding tech stack cost to $0"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_udit_50",
+        "story_46463216",
+        "ask_hn"
+      ],
+      "author": "udit_50",
+      "children": [
+        46463246,
+        46463389,
+        46463451,
+        46463665,
+        46472571,
+        46478868,
+        46483332,
+        46484549,
+        46497117
+      ],
+      "created_at": "2026-01-02T09:54:42Z",
+      "created_at_i": 1767347682,
+      "num_comments": 14,
+      "objectID": "46463216",
+      "points": 12,
+      "story_id": 46463216,
+      "story_text": "Since vibe coding came into existence, I have been experimenting with building products a lot. Some of my products were consumer facing and some.. well, internal clones of expensive software. However, since beginning, I knew one big thing - the vibe stack was expensive.<p>I initially tried a lot of tools - Bolt, v0, Replit, Lovable, etc. out of which Replit game me the best results (yes, I can be biased due to my selection of applications). But I often paid anywhere from $25-$200&#x2F;mo. Other costs like API, models, etc. made monthly bills upward of $300&#x2F;mo. Was it cost effective when compared to hiring a developer? Yes. Was it value for money? NO.<p>So, over the months, I optimised by complete stack to be either free (or minimal cost) for internal use or stay at a much lean cost for consumer-facing products.<p>Here&#x27;s how the whole stack looks today -<p>- IDE - Google&#x27;s AntiGravity (100% free + higher access if you use student ID) --&gt; https:&#x2F;&#x2F;antigravity.google&#x2F;<p>AI Documentation - SuperDocs (100% free &amp; open source) --&gt; https:&#x2F;&#x2F;superdocs.cloud&#x2F;<p>Database - Supabase (Nano plan free, enough for basic needs) --&gt; http:&#x2F;&#x2F;supabase.com&#x2F;<p>Authentication - Stack Auth (Free upto 10K users) --&gt; http:&#x2F;&#x2F;stack-auth.com&#x2F;<p>LLM (AI Model) - OpenRouter or Gemini via AI Studio for testing and a custom tuned model by Unsloth AI for production. (You can fine-tune models using Unsloth literal in a Google Colab Notebook) --&gt; http:&#x2F;&#x2F;openrouter.ai&#x2F; OR http:&#x2F;&#x2F;unsloth.ai&#x2F; OR http:&#x2F;&#x2F;aistudio.google.com&#x2F;<p>Version Maintenance&#x2F;Distribution - Github&#x2F;Gitlab (both totally free and open source) --&gt; http:&#x2F;&#x2F;github.com&#x2F; OR http:&#x2F;&#x2F;gitlab.com&#x2F;<p>Faster Deployment - Vercel (Free Tier Enough for Hobbyists) --&gt; https:&#x2F;&#x2F;vercel.com<p>Analytics - PostHog, Microsoft Clarity &amp; Google Analytics (All 3 are free and independent for different tracking, I recommend using all of them) --&gt; Https:&#x2F;&#x2F;posthog.com OR http:&#x2F;&#x2F;clarity.microsoft.com&#x2F; OR http:&#x2F;&#x2F;analytics.google.com&#x2F;<p>That&#x27;s the list devs! I know I might have missed something. If yes, just ask me up or list them up in the comments. If you have any questions related to something specific, ask me up as well.",
+      "title": "I optimised my vibe coding tech stack cost to $0",
+      "updated_at": "2026-03-11T12:50:02Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "roskoalexey"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "I know many of us use a really excellent PostHog service, but it seems their latest version of `posthog-js` NPM package contains malware.<p>Reported to their security channel, also reported to NPM, but also wanted to raise awareness here.<p>Update: It seems all their NPM packages have the same problem<p>Update 2: https://status.<em>posthog.com</em>/"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Malware in PostHog NPM packages"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_roskoalexey",
+        "story_46031776",
+        "ask_hn"
+      ],
+      "author": "roskoalexey",
+      "children": [
+        46031839,
+        46031847,
+        46031864,
+        46032114,
+        46032165,
+        46032295,
+        46032529,
+        46057174
+      ],
+      "created_at": "2025-11-24T08:49:30Z",
+      "created_at_i": 1763974170,
+      "num_comments": 9,
+      "objectID": "46031776",
+      "points": 11,
+      "story_id": 46031776,
+      "story_text": "I know many of us use a really excellent PostHog service, but it seems their latest version of `posthog-js` NPM package contains malware.<p>Reported to their security channel, also reported to NPM, but also wanted to raise awareness here.<p>Update: It seems all their NPM packages have the same problem<p>Update 2: https:&#x2F;&#x2F;status.posthog.com&#x2F;",
+      "title": "Malware in PostHog NPM packages",
+      "updated_at": "2026-03-05T23:06:22Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "leggetter"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "I built a collection of webhook skills because AI coding agents are surprisingly bad at webhook integrations. The generated code looks reasonable until you run it, then signature verification fails, raw body handling is wrong, or the middleware order breaks everything.<p>PostHog's research on LLM code generation (<a href=\"https://posthog.com/blog/correct-llm-code-generation\" rel=\"nofollow\">https://<em>posthog.com</em>/blog/correct-llm-code-generation</a>) found that agents produce more reliable code when referencing known-working examples rather than reconstructing from training data. That's the approach here.<p>`webhook-skills` is a collection of provider-specific webhook implementations and best practices guides built on the Agent Skills spec (agentskills.io):<p><pre><code>  - Runnable examples (currently Express, Next.js, FastAPI, with more frameworks coming)\n  - Signature verification with provider-specific gotchas documented\n  - Best-practice patterns: idempotency, error handling, retry logic\n  - 11 providers at launch (Stripe, Shopify, GitHub, OpenAI, Clerk, Paddle, others), expanding based on my needs or requests.\n</code></pre>\nExample:<p><pre><code>  # list skills\n  npx skills add hookdeck/webhook-skills --list\n\n  # install skills\n  npx skills add hookdeck/webhook-skills --skill stripe-webhooks --skill webhook-handler-patterns\n</code></pre>\nWorks with Claude Code, Cursor, Copilot. The examples are useful even without an agent: minimal, tested handlers you can copy directly.<p>PRs welcome for new providers and frameworks. I also built an AI-powered generator that automatically creates new provider skills. Point it at webhook docs, and it researches the signature scheme, generates verification code for each framework, writes tests, and opens a PR."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Webhook Skills – Agent skills for webhook providers and best practices"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/hookdeck/webhook-skills"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_leggetter",
+        "story_46885065",
+        "show_hn"
+      ],
+      "author": "leggetter",
+      "children": [
+        46885180,
+        47033642,
+        47033661
+      ],
+      "created_at": "2026-02-04T12:32:02Z",
+      "created_at_i": 1770208322,
+      "num_comments": 1,
+      "objectID": "46885065",
+      "points": 9,
+      "story_id": 46885065,
+      "story_text": "I built a collection of webhook skills because AI coding agents are surprisingly bad at webhook integrations. The generated code looks reasonable until you run it, then signature verification fails, raw body handling is wrong, or the middleware order breaks everything.<p>PostHog&#x27;s research on LLM code generation (<a href=\"https:&#x2F;&#x2F;posthog.com&#x2F;blog&#x2F;correct-llm-code-generation\" rel=\"nofollow\">https:&#x2F;&#x2F;posthog.com&#x2F;blog&#x2F;correct-llm-code-generation</a>) found that agents produce more reliable code when referencing known-working examples rather than reconstructing from training data. That&#x27;s the approach here.<p>`webhook-skills` is a collection of provider-specific webhook implementations and best practices guides built on the Agent Skills spec (agentskills.io):<p><pre><code>  - Runnable examples (currently Express, Next.js, FastAPI, with more frameworks coming)\n  - Signature verification with provider-specific gotchas documented\n  - Best-practice patterns: idempotency, error handling, retry logic\n  - 11 providers at launch (Stripe, Shopify, GitHub, OpenAI, Clerk, Paddle, others), expanding based on my needs or requests.\n</code></pre>\nExample:<p><pre><code>  # list skills\n  npx skills add hookdeck&#x2F;webhook-skills --list\n\n  # install skills\n  npx skills add hookdeck&#x2F;webhook-skills --skill stripe-webhooks --skill webhook-handler-patterns\n</code></pre>\nWorks with Claude Code, Cursor, Copilot. The examples are useful even without an agent: minimal, tested handlers you can copy directly.<p>PRs welcome for new providers and frameworks. I also built an AI-powered generator that automatically creates new provider skills. Point it at webhook docs, and it researches the signature scheme, generates verification code for each framework, writes tests, and opens a PR.",
+      "title": "Show HN: Webhook Skills – Agent skills for webhook providers and best practices",
+      "updated_at": "2026-03-05T23:31:18Z",
+      "url": "https://github.com/hookdeck/webhook-skills"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jasonwcfan"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "We’ve spent the last 2 months diving deep into enterprise use cases for large language models, and the one that many companies are thinking about is building a chatbot for searching through a company’s internal knowledge base.<p>The typical architecture goes something like this:<p>1. Connect to a knowledge base (Notion, Confluence, etc) and extract pages from it<p>2. Generate embeddings from the content and index the content based on these embeddings using a vector database like Pinecone, Weaviate, Chroma, etc<p>3. When someone has a query, run an approximate nearest neighbor (ANN) search on the vector database and get back ~1000  tokens of content<p>4. Insert the content in the context window of a prompt, and use a LLM like GPT to respond to the query based on information from the content.<p>A few years ago it was ridiculous to even consider building your own internal search product. Now, with libraries like LangChain (https://github.com/hwchase17/langchain), LlamaIndex (https://github.com/jerryjliu/llama_index), and open sources tools like Sidekick (https://github.com/ai-sidekick/sidekick), it’s possible to build a product that works just as well as most workplace search vendors in a matter of days, with the added benefit of being free + fully customizable. (Disclaimer: I am one of the cofounders at Sidekick)<p>It’s also not hard to find developers who would love to get their hands dirty with emerging technologies like vector databases, LLMs, and GPT agents. The economic incentive structure for internal search products (and maybe all SaaS product) has been flipped on its head. Why spend $100k+ year on a vendor that comes with 1-3 month implementation when you can spend half that time building something in-house that plugs in to where your team already works like Teams or Slack?<p>Examples:\n- Supabase built GPT powered search right into their docs ([https://supabase.com/docs](https://supabase.com/docs))\n- PostHog built and deployed their own slackbot to answer questions about PostHog ([https://<em>posthog.com</em>/blog/aruba-hackathon](https://<em>posthog.com</em>/blog/aruba-hackathon))<p>Would you consider building internal semantic search in-house at your company?"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Why it finally makes sense to build, not buy, a workplace search product"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jasonwcfan",
+        "story_35714635",
+        "ask_hn"
+      ],
+      "author": "jasonwcfan",
+      "children": [
+        35715098,
+        35716175,
+        35794314
+      ],
+      "created_at": "2023-04-26T14:55:34Z",
+      "created_at_i": 1682520934,
+      "num_comments": 5,
+      "objectID": "35714635",
+      "points": 6,
+      "story_id": 35714635,
+      "story_text": "We’ve spent the last 2 months diving deep into enterprise use cases for large language models, and the one that many companies are thinking about is building a chatbot for searching through a company’s internal knowledge base.<p>The typical architecture goes something like this:<p>1. Connect to a knowledge base (Notion, Confluence, etc) and extract pages from it<p>2. Generate embeddings from the content and index the content based on these embeddings using a vector database like Pinecone, Weaviate, Chroma, etc<p>3. When someone has a query, run an approximate nearest neighbor (ANN) search on the vector database and get back ~1000  tokens of content<p>4. Insert the content in the context window of a prompt, and use a LLM like GPT to respond to the query based on information from the content.<p>A few years ago it was ridiculous to even consider building your own internal search product. Now, with libraries like LangChain (https:&#x2F;&#x2F;github.com&#x2F;hwchase17&#x2F;langchain), LlamaIndex (https:&#x2F;&#x2F;github.com&#x2F;jerryjliu&#x2F;llama_index), and open sources tools like Sidekick (https:&#x2F;&#x2F;github.com&#x2F;ai-sidekick&#x2F;sidekick), it’s possible to build a product that works just as well as most workplace search vendors in a matter of days, with the added benefit of being free + fully customizable. (Disclaimer: I am one of the cofounders at Sidekick)<p>It’s also not hard to find developers who would love to get their hands dirty with emerging technologies like vector databases, LLMs, and GPT agents. The economic incentive structure for internal search products (and maybe all SaaS product) has been flipped on its head. Why spend $100k+ year on a vendor that comes with 1-3 month implementation when you can spend half that time building something in-house that plugs in to where your team already works like Teams or Slack?<p>Examples:\n- Supabase built GPT powered search right into their docs ([https:&#x2F;&#x2F;supabase.com&#x2F;docs](https:&#x2F;&#x2F;supabase.com&#x2F;docs))\n- PostHog built and deployed their own slackbot to answer questions about PostHog ([https:&#x2F;&#x2F;posthog.com&#x2F;blog&#x2F;aruba-hackathon](https:&#x2F;&#x2F;posthog.com&#x2F;blog&#x2F;aruba-hackathon))<p>Would you consider building internal semantic search in-house at your company?",
+      "title": "Why it finally makes sense to build, not buy, a workplace search product",
+      "updated_at": "2024-09-20T13:56:32Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "andreacavagna"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "Hello everyone, I'm the maintainer of an open-source DeveloperTool (https://github.com/Noovolari/leapp)<p>With a heuristic of 7000 users daily, I started feeling the need to have more information on how Users are using the project to improve it.<p>Is it the right thing to do to create a better Developer Experience and gain feedback for the end users?<p>On a side: \n&quot;it's acceptable for open source software not to work is a great thing. This makes it easy for anyone to contribute because there are no hurdles from what your work must include or not include - it's up to you. Mistakes, or half-baked projects included. You can't have innovation without a lot of people being able to contribute and make mistakes, or give up.&quot;<p>As pointed out in the PostHog article below, I extracted some important passage:<p>&quot;From a utilitarian perspective, We believe that tracking the minimum data possible to build useful technology, in a way that doesn't share that data with 3rd parties, means that you have the right approach to product analytics in your open source project.&quot;<p>In most cases tracking user data to enrich functionalities means you have to deal with an opt-out/opt-in setting (like VSCode does) to get data to the open-source project's maintainers; developers are the most sensitive people regarding data.<p>I've never added this tracking on the Desktop App since I'm worried about the community's reaction. And this is a direct message to them.<p>Is it right to have people helping the growth of the open-source project by tracking only fewer data to improve stability and functionality?<p>&quot;All tracking is bad, many say. We disagree. Done right, it enables more and better software in the world. When it's applied to open source, it often enables more free software for anyone to use.&quot;<p>P.S. I'm not yet a user of PostHog, but I want to congrats with them on the article, and the best way (if it is a good thing) to track open-source data is to do it with an open-source project too.<p>All the references are from the below blog post.\nGreat article, guys! =&gt; https://<em>posthog.com</em>/blog/open-source-telemetry-ethical"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Should open source projects track you?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_andreacavagna",
+        "story_35358384",
+        "ask_hn"
+      ],
+      "author": "andreacavagna",
+      "children": [
+        35358513,
+        35358591,
+        35358634
+      ],
+      "created_at": "2023-03-29T15:10:12Z",
+      "created_at_i": 1680102612,
+      "num_comments": 9,
+      "objectID": "35358384",
+      "points": 3,
+      "story_id": 35358384,
+      "story_text": "Hello everyone, I&#x27;m the maintainer of an open-source DeveloperTool (https:&#x2F;&#x2F;github.com&#x2F;Noovolari&#x2F;leapp)<p>With a heuristic of 7000 users daily, I started feeling the need to have more information on how Users are using the project to improve it.<p>Is it the right thing to do to create a better Developer Experience and gain feedback for the end users?<p>On a side: \n&quot;it&#x27;s acceptable for open source software not to work is a great thing. This makes it easy for anyone to contribute because there are no hurdles from what your work must include or not include - it&#x27;s up to you. Mistakes, or half-baked projects included. You can&#x27;t have innovation without a lot of people being able to contribute and make mistakes, or give up.&quot;<p>As pointed out in the PostHog article below, I extracted some important passage:<p>&quot;From a utilitarian perspective, We believe that tracking the minimum data possible to build useful technology, in a way that doesn&#x27;t share that data with 3rd parties, means that you have the right approach to product analytics in your open source project.&quot;<p>In most cases tracking user data to enrich functionalities means you have to deal with an opt-out&#x2F;opt-in setting (like VSCode does) to get data to the open-source project&#x27;s maintainers; developers are the most sensitive people regarding data.<p>I&#x27;ve never added this tracking on the Desktop App since I&#x27;m worried about the community&#x27;s reaction. And this is a direct message to them.<p>Is it right to have people helping the growth of the open-source project by tracking only fewer data to improve stability and functionality?<p>&quot;All tracking is bad, many say. We disagree. Done right, it enables more and better software in the world. When it&#x27;s applied to open source, it often enables more free software for anyone to use.&quot;<p>P.S. I&#x27;m not yet a user of PostHog, but I want to congrats with them on the article, and the best way (if it is a good thing) to track open-source data is to do it with an open-source project too.<p>All the references are from the below blog post.\nGreat article, guys! =&gt; https:&#x2F;&#x2F;posthog.com&#x2F;blog&#x2F;open-source-telemetry-ethical",
+      "title": "Ask HN: Should open source projects track you?",
+      "updated_at": "2024-09-20T13:39:42Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "gajus"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "No clue how I am learning this only now, but better later than never: HTTPS `keepAlive` is not enabled by default in Node.js, and it has severe performance implications to network-intense applications.<p>Just to illustrate the impact, assuming that your server is hosted in `us-central1` and it is talking to a service in `us-east1`, just the network latency is ~20ms. Since a TCP handshake is a 3-packet event, this means that ~60ms are going to be allocated just to establish TLS handshake.<p>You can test that with a simple script:<p><pre><code>    const got = require('got');\n\n    const main = async () =&gt; {\n      const response0 = await got('https://<em>posthog.com</em>/');\n\n      console.log(response0.timings.phases);\n\n      const response1 = await got('https://<em>posthog.com</em>/');\n\n      console.log(response1.timings.phases);\n    };\n\n    main();\n</code></pre>\nIn this scenario, the above will produce:<p><pre><code>    {\n      wait: 1,\n      dns: 20,\n      tcp: 72,\n      tls: 74,\n      request: 0,\n      firstByte: 79,\n      download: 222,\n      total: 468\n    }\n    {\n      wait: 0,\n      dns: 1,\n      tcp: 67,\n      tls: 69,\n      request: 1,\n      firstByte: 73,\n      download: 234,\n      total: 445\n    }\n</code></pre>\nHowever, watch the `total` time if we enable `keepAlive`:<p><pre><code>    const got = require('got');\n    const https = require('https');\n\n    https.globalAgent = new https.Agent({ keepAlive:true });\n\n    const main = async () =&gt; {\n      const response0 = await got('https://<em>posthog.com</em>/');\n\n      console.log(response0.timings.phases);\n\n      const response1 = await got('https://<em>posthog.com</em>/');\n\n      console.log(response1.timings.phases);\n    };\n\n    main();\n\n    {\n      wait: 1,\n      dns: 27,\n      tcp: 77,\n      tls: 75,\n      request: 0,\n      firstByte: 75,\n      download: 220,\n      total: 475\n    }\n    {\n      wait: 0,\n      dns: 0,\n      tcp: 0,\n      tls: 0,\n      request: 0,\n      firstByte: 77,\n      download: 83,\n      total: 160\n    }\n</code></pre>\nThe second request is 70% faster than the first request!<p>If your application relies on making many HTTPS calls, then simply enabling `keepAlive` is going to result in a significant performance improvement."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Enable HTTPS keepAlive in Node.js to increase request speed by up to 70%"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_gajus",
+        "story_32075715",
+        "ask_hn"
+      ],
+      "author": "gajus",
+      "created_at": "2022-07-12T21:08:51Z",
+      "created_at_i": 1657660131,
+      "num_comments": 0,
+      "objectID": "32075715",
+      "points": 3,
+      "story_id": 32075715,
+      "story_text": "No clue how I am learning this only now, but better later than never: HTTPS `keepAlive` is not enabled by default in Node.js, and it has severe performance implications to network-intense applications.<p>Just to illustrate the impact, assuming that your server is hosted in `us-central1` and it is talking to a service in `us-east1`, just the network latency is ~20ms. Since a TCP handshake is a 3-packet event, this means that ~60ms are going to be allocated just to establish TLS handshake.<p>You can test that with a simple script:<p><pre><code>    const got = require(&#x27;got&#x27;);\n\n    const main = async () =&gt; {\n      const response0 = await got(&#x27;https:&#x2F;&#x2F;posthog.com&#x2F;&#x27;);\n\n      console.log(response0.timings.phases);\n\n      const response1 = await got(&#x27;https:&#x2F;&#x2F;posthog.com&#x2F;&#x27;);\n\n      console.log(response1.timings.phases);\n    };\n\n    main();\n</code></pre>\nIn this scenario, the above will produce:<p><pre><code>    {\n      wait: 1,\n      dns: 20,\n      tcp: 72,\n      tls: 74,\n      request: 0,\n      firstByte: 79,\n      download: 222,\n      total: 468\n    }\n    {\n      wait: 0,\n      dns: 1,\n      tcp: 67,\n      tls: 69,\n      request: 1,\n      firstByte: 73,\n      download: 234,\n      total: 445\n    }\n</code></pre>\nHowever, watch the `total` time if we enable `keepAlive`:<p><pre><code>    const got = require(&#x27;got&#x27;);\n    const https = require(&#x27;https&#x27;);\n\n    https.globalAgent = new https.Agent({ keepAlive:true });\n\n    const main = async () =&gt; {\n      const response0 = await got(&#x27;https:&#x2F;&#x2F;posthog.com&#x2F;&#x27;);\n\n      console.log(response0.timings.phases);\n\n      const response1 = await got(&#x27;https:&#x2F;&#x2F;posthog.com&#x2F;&#x27;);\n\n      console.log(response1.timings.phases);\n    };\n\n    main();\n\n    {\n      wait: 1,\n      dns: 27,\n      tcp: 77,\n      tls: 75,\n      request: 0,\n      firstByte: 75,\n      download: 220,\n      total: 475\n    }\n    {\n      wait: 0,\n      dns: 0,\n      tcp: 0,\n      tls: 0,\n      request: 0,\n      firstByte: 77,\n      download: 83,\n      total: 160\n    }\n</code></pre>\nThe second request is 70% faster than the first request!<p>If your application relies on making many HTTPS calls, then simply enabling `keepAlive` is going to result in a significant performance improvement.",
+      "title": "Enable HTTPS keepAlive in Node.js to increase request speed by up to 70%",
+      "updated_at": "2024-09-20T11:34:39Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "adarshd"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "I’m looking for hardware like DeskHog (https://<em>posthog.com</em>/deskhog) : open‑source, hackable, budget‑friendly developer toys that I can customize with code.<p>Ideally I’d like something:<p>- Easy to program (Python, C++, or via SDK)\n- Open for hardware tinkering (add sensors, swap modules)\n- Affordable for hobby/prototyping use<p>Anyone have recommendations or experience with similar platforms?"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: Programmable, affordable developer toys similar to DeskHog?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_adarshd",
+        "story_44655934",
+        "ask_hn"
+      ],
+      "author": "adarshd",
+      "created_at": "2025-07-23T05:19:29Z",
+      "created_at_i": 1753247969,
+      "num_comments": 0,
+      "objectID": "44655934",
+      "points": 2,
+      "story_id": 44655934,
+      "story_text": "I’m looking for hardware like DeskHog (https:&#x2F;&#x2F;posthog.com&#x2F;deskhog) : open‑source, hackable, budget‑friendly developer toys that I can customize with code.<p>Ideally I’d like something:<p>- Easy to program (Python, C++, or via SDK)\n- Open for hardware tinkering (add sensors, swap modules)\n- Affordable for hobby&#x2F;prototyping use<p>Anyone have recommendations or experience with similar platforms?",
+      "title": "Ask HN: Programmable, affordable developer toys similar to DeskHog?",
+      "updated_at": "2025-07-23T06:05:27Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "dhaus"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "[Openfeature](<a href=\"https://openfeature.dev/\" rel=\"nofollow\">https://openfeature.dev/</a>) provider in Go for [PostHog](<a href=\"https://posthog.com/\">https://<em>posthog.com</em>/</a>)"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Openfeature PostHog Provider in Go"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://github.com/dhaus67/openfeature-posthog-go"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_dhaus",
+        "story_42021792",
+        "show_hn"
+      ],
+      "author": "dhaus",
+      "created_at": "2024-11-01T21:36:20Z",
+      "created_at_i": 1730496980,
+      "num_comments": 0,
+      "objectID": "42021792",
+      "points": 1,
+      "story_id": 42021792,
+      "story_text": "[Openfeature](<a href=\"https:&#x2F;&#x2F;openfeature.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openfeature.dev&#x2F;</a>) provider in Go for [PostHog](<a href=\"https:&#x2F;&#x2F;posthog.com&#x2F;\">https:&#x2F;&#x2F;posthog.com&#x2F;</a>)",
+      "title": "Show HN: Openfeature PostHog Provider in Go",
+      "updated_at": "2024-11-01T21:37:27Z",
+      "url": "https://github.com/dhaus67/openfeature-posthog-go"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "bnc319"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Why our website looks like an operating system"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>posthog.com</em>/blog/why-os"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_bnc319",
+        "story_45217269"
+      ],
+      "author": "bnc319",
+      "children": [
+        45217667,
+        45217692,
+        45217695,
+        45217714,
+        45217718,
+        45217725,
+        45217727,
+        45217788,
+        45217847,
+        45217857,
+        45217880,
+        45217885,
+        45217894,
+        45217905,
+        45217933,
+        45217985,
+        45218030,
+        45218073,
+        45218091,
+        45218094,
+        45218100,
+        45218200,
+        45218208,
+        45218213,
+        45218215,
+        45218259,
+        45218260,
+        45218339,
+        45218349,
+        45218399,
+        45218422,
+        45218433,
+        45218484,
+        45218507,
+        45218559,
+        45218663,
+        45218666,
+        45218711,
+        45218793,
+        45218817,
+        45218865,
+        45218893,
+        45218900,
+        45218906,
+        45218923,
+        45218942,
+        45218946,
+        45218948,
+        45218967,
+        45218994,
+        45219055,
+        45219084,
+        45219104,
+        45219126,
+        45219150,
+        45219232,
+        45219239,
+        45219242,
+        45219259,
+        45219409,
+        45219411,
+        45219477,
+        45219513,
+        45219534,
+        45219547,
+        45219604,
+        45219609,
+        45219626,
+        45219644,
+        45219718,
+        45219789,
+        45219815,
+        45219832,
+        45219965,
+        45219993,
+        45220167,
+        45220248,
+        45220297,
+        45220476,
+        45220514,
+        45220573,
+        45220610,
+        45220672,
+        45220735,
+        45220795,
+        45220816,
+        45220868,
+        45220890,
+        45220906,
+        45220931,
+        45220946,
+        45220987,
+        45221030,
+        45221081,
+        45221131,
+        45221220,
+        45221240,
+        45221351,
+        45221398,
+        45221441,
+        45221448,
+        45221599,
+        45221780,
+        45221869,
+        45221919,
+        45221928,
+        45221935,
+        45221940,
+        45222038,
+        45222106,
+        45222240,
+        45222294,
+        45222365,
+        45222492,
+        45222494,
+        45222609,
+        45222763,
+        45222793,
+        45222823,
+        45222825,
+        45222878,
+        45222890,
+        45222958,
+        45223217,
+        45223242,
+        45223313,
+        45223409,
+        45223506,
+        45223663,
+        45223887,
+        45224020,
+        45224050,
+        45224085,
+        45224267,
+        45224730,
+        45224819,
+        45224969,
+        45225129,
+        45225266,
+        45225858,
+        45226480,
+        45228188,
+        45230302,
+        45230362,
+        45232124,
+        45238574,
+        45254116
+      ],
+      "created_at": "2025-09-11T23:45:36Z",
+      "created_at_i": 1757634336,
+      "num_comments": 487,
+      "objectID": "45217269",
+      "points": 684,
+      "story_id": 45217269,
+      "title": "Why our website looks like an operating system",
+      "updated_at": "2026-08-16T17:27:28Z",
+      "url": "https://posthog.com/blog/why-os"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "fmerian"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Burning money on paid ads for a dev tool – what we've learned"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>posthog.com</em>/blog/dev-marketing-paid-ads"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_fmerian",
+        "story_37700847"
+      ],
+      "author": "fmerian",
+      "children": [
+        37701352,
+        37701354,
+        37701413,
+        37701425,
+        37701456,
+        37701501,
+        37701541,
+        37701575,
+        37701596,
+        37701635,
+        37701655,
+        37701663,
+        37701668,
+        37701669,
+        37701703,
+        37701733,
+        37701754,
+        37701763,
+        37701816,
+        37701849,
+        37701850,
+        37701944,
+        37701973,
+        37701974,
+        37702415,
+        37702546,
+        37702703,
+        37703135,
+        37703247,
+        37703355,
+        37703449,
+        37703748,
+        37704245,
+        37704778,
+        37705034,
+        37705086,
+        37705179,
+        37705227,
+        37705329,
+        37706309,
+        37706676,
+        37707063,
+        37707161,
+        37707202,
+        37707312,
+        37708700,
+        37709621,
+        37709627,
+        37710492,
+        37710967,
+        37712983,
+        37713875,
+        37719196,
+        37725146,
+        37728800,
+        37737155
+      ],
+      "created_at": "2023-09-29T08:30:03Z",
+      "created_at_i": 1695976203,
+      "num_comments": 273,
+      "objectID": "37700847",
+      "points": 679,
+      "story_id": 37700847,
+      "title": "Burning money on paid ads for a dev tool – what we've learned",
+      "updated_at": "2026-02-21T23:36:48Z",
+      "url": "https://posthog.com/blog/dev-marketing-paid-ads"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "james_impliu"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Job interview questions engineers should ask, but don't"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>posthog.com</em>/blog/what-to-ask-in-interviews"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_james_impliu",
+        "story_31906933"
+      ],
+      "author": "james_impliu",
+      "children": [
+        31907558,
+        31907563,
+        31907604,
+        31907684,
+        31907708,
+        31907736,
+        31907745,
+        31907784,
+        31907786,
+        31907812,
+        31907834,
+        31907840,
+        31907858,
+        31907877,
+        31907911,
+        31907917,
+        31907960,
+        31907979,
+        31908034,
+        31908096,
+        31908135,
+        31908191,
+        31908194,
+        31908425,
+        31908489,
+        31908620,
+        31908622,
+        31908783,
+        31908885,
+        31909144,
+        31909225,
+        31909242,
+        31909311,
+        31909313,
+        31909632,
+        31909904,
+        31910329,
+        31910373,
+        31910421,
+        31910594,
+        31910670,
+        31911339,
+        31911576,
+        31911706,
+        31911930,
+        31912058,
+        31912321,
+        31913352,
+        31914186,
+        31914219,
+        31914359,
+        31914571,
+        31914810,
+        31915870,
+        31915977,
+        31916366,
+        31916573,
+        31916998,
+        31926122
+      ],
+      "created_at": "2022-06-28T12:45:43Z",
+      "created_at_i": 1656420343,
+      "num_comments": 223,
+      "objectID": "31906933",
+      "points": 524,
+      "story_id": 31906933,
+      "title": "Job interview questions engineers should ask, but don't",
+      "updated_at": "2026-05-09T10:01:20Z",
+      "url": "https://posthog.com/blog/what-to-ask-in-interviews"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Kinrany"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Collaboration sucks"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://newsletter.<em>posthog.com</em>/p/collaboration-sucks"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Kinrany",
+        "story_45892394"
+      ],
+      "author": "Kinrany",
+      "children": [
+        45892601,
+        45892648,
+        45892656,
+        45892673,
+        45892683,
+        45892718,
+        45892733,
+        45892743,
+        45892749,
+        45892751,
+        45892754,
+        45892766,
+        45892796,
+        45892798,
+        45892837,
+        45892865,
+        45892889,
+        45892912,
+        45892919,
+        45892929,
+        45892931,
+        45892939,
+        45892960,
+        45892963,
+        45892968,
+        45892991,
+        45893006,
+        45893016,
+        45893020,
+        45893056,
+        45893076,
+        45893080,
+        45893083,
+        45893093,
+        45893108,
+        45893113,
+        45893118,
+        45893119,
+        45893134,
+        45893162,
+        45893212,
+        45893255,
+        45893290,
+        45893300,
+        45893303,
+        45893308,
+        45893310,
+        45893324,
+        45893354,
+        45893378,
+        45893397,
+        45893401,
+        45893410,
+        45893411,
+        45893414,
+        45893427,
+        45893440,
+        45893668,
+        45893699,
+        45893831,
+        45893881,
+        45894137,
+        45894582,
+        45894710,
+        45894823,
+        45894856,
+        45894970,
+        45895202,
+        45895214,
+        45895235,
+        45895322,
+        45895379,
+        45895564,
+        45896021,
+        45896068,
+        45896285,
+        45896434,
+        45896818,
+        45897038,
+        45897248,
+        45897423,
+        45897612,
+        45897643,
+        45897775,
+        45897913,
+        45897932,
+        45898083,
+        45898565,
+        45900129,
+        45901276,
+        45902410
+      ],
+      "created_at": "2025-11-11T20:27:38Z",
+      "created_at_i": 1762892858,
+      "num_comments": 248,
+      "objectID": "45892394",
+      "points": 486,
+      "story_id": 45892394,
+      "title": "Collaboration sucks",
+      "updated_at": "2026-07-28T10:58:50Z",
+      "url": "https://newsletter.posthog.com/p/collaboration-sucks"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "vmatsiiako"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Posthog is closing their Slack community in favor of forum"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>posthog.com</em>/blog/slack-closure"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_vmatsiiako",
+        "story_38987383"
+      ],
+      "author": "vmatsiiako",
+      "children": [
+        38987918,
+        38987931,
+        38987943,
+        38987953,
+        38987972,
+        38987999,
+        38988102,
+        38988115,
+        38988119,
+        38988121,
+        38988166,
+        38988195,
+        38988449,
+        38988452,
+        38988568,
+        38988658,
+        38988659,
+        38988865,
+        38988919,
+        38988957,
+        38989123,
+        38989322,
+        38989394,
+        38989962,
+        38990031,
+        38990674,
+        38990978,
+        38991198,
+        38991623,
+        38991695,
+        38991966,
+        38991970,
+        38992627,
+        38993652,
+        38997251,
+        38998062,
+        39001888,
+        39009744
+      ],
+      "created_at": "2024-01-14T04:12:56Z",
+      "created_at_i": 1705205576,
+      "num_comments": 216,
+      "objectID": "38987383",
+      "points": 396,
+      "story_id": 38987383,
+      "title": "Posthog is closing their Slack community in favor of forum",
+      "updated_at": "2026-02-13T02:48:03Z",
+      "url": "https://posthog.com/blog/slack-closure"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "fmerian"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Things we've learned about building products"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://newsletter.<em>posthog.com</em>/p/50-things-weve-learned-about-building"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_fmerian",
+        "story_43267095"
+      ],
+      "author": "fmerian",
+      "children": [
+        43268498,
+        43268523,
+        43268539,
+        43268551,
+        43268756,
+        43268938,
+        43269249,
+        43269473,
+        43269502,
+        43269556,
+        43269982,
+        43270082,
+        43270611,
+        43271201,
+        43274010,
+        43275990,
+        43276228,
+        43276560,
+        43277318,
+        43278269,
+        43280841,
+        43283002,
+        43283078,
+        43283325,
+        43283676,
+        43287799,
+        43300185,
+        43303217,
+        43305752
+      ],
+      "created_at": "2025-03-05T14:44:04Z",
+      "created_at_i": 1741185844,
+      "num_comments": 110,
+      "objectID": "43267095",
+      "points": 313,
+      "story_id": 43267095,
+      "title": "Things we've learned about building products",
+      "updated_at": "2026-06-10T22:21:11Z",
+      "url": "https://newsletter.posthog.com/p/50-things-weve-learned-about-building"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Twixes"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Annoying A/B testing mistakes"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "posthog",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>posthog.com</em>/blog/ab-testing-mistakes"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Twixes",
+        "story_36354280"
+      ],
+      "author": "Twixes",
+      "children": [
+        36354511,
+        36354559,
+        36354582,
+        36354748,
+        36354755,
+        36354834,
+        36355769,
+        36355976,
+        36355992,
+        36356140,
+        36356377,
+        36356472,
+        36356610,
+        36356735,
+        36356884,
+        36356931,
+        36357504,
+        36357731,
+        36358619,
+        36359146,
+        36360307,
+        36360347,
+        36364135,
+        36365247,
+        36365491,
+        36368451
+      ],
+      "created_at": "2023-06-16T10:30:41Z",
+      "created_at_i": 1686911441,
+      "num_comments": 149,
+      "objectID": "36354280",
+      "points": 292,
+      "story_id": 36354280,
+      "title": "Annoying A/B testing mistakes",
+      "updated_at": "2025-10-06T20:40:51Z",
+      "url": "https://posthog.com/blog/ab-testing-mistakes"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 230,
+  "nbPages": 12,
+  "page": 0,
+  "params": "query=posthog.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 34,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 1,
+        "total": 2
+      },
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 8,
+      "scanning": 23,
+      "total": 32
+    },
+    "total": 34
+  },
+  "query": "posthog.com",
+  "serverTimeMS": 36
+}

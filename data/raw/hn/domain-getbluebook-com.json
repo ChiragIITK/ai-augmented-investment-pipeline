@@ -1,0 +1,71 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "phiand"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Open Source Finance Integrations"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "getbluebook",
+            ".",
+            "com"
+          ],
+          "value": "https://integrations.<em>getbluebook.com</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_phiand",
+        "story_46058733"
+      ],
+      "author": "phiand",
+      "children": [
+        46058734
+      ],
+      "created_at": "2025-11-26T15:59:44Z",
+      "created_at_i": 1764172784,
+      "num_comments": 2,
+      "objectID": "46058733",
+      "points": 2,
+      "story_id": 46058733,
+      "title": "Open Source Finance Integrations",
+      "updated_at": "2026-03-05T23:08:11Z",
+      "url": "https://integrations.getbluebook.com"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=getbluebook.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 11,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 15,
+      "roundTrip": 17
+    },
+    "fetch": {
+      "query": 9,
+      "total": 10
+    },
+    "total": 11
+  },
+  "query": "getbluebook.com",
+  "serverTimeMS": 26
+}

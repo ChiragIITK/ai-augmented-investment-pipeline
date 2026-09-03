@@ -1,0 +1,167 @@
+{
+  "candidate": {
+    "name": "SafetyKit",
+    "website": "https://www.safetykit.com/",
+    "description": "AI agents for risk, compliance, and safety",
+    "long_description": "SafetyKit's AI agents do the dirty work for big tech and finance companies so humans don't have to.\r\n\r\nToday companies rely on armies of low-paid outsourced humans to protect their platforms from fraud, harassment, and crime. It’s super important work, but the jobs are difficult and sometimes traumatizing, and it’s impossible to keep up. Our mission is to end this manual toil.\r\n\r\nWe learned this domain first-hand at Stripe and Airbnb, where first we built software for human reviewers, and then built models to replace them.\r\n\r\nWe’re a group of engineers from Stripe, Meta, Netflix, MIT, and Princeton that love language models and unironically love B2B SaaS. We know the economy is going to be rearranged over the next 4 years and we want to be in the driver’s seat.\r\n\r\nWe build vertical AI that works and have some of the world’s largest companies as paying customers. Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, along with a $10B+ marketplace, a $100B+ payments company, and more rely on SafetyKit in production.",
+    "founders": [
+      {
+        "name": "David Graunke",
+        "title": "Founder",
+        "bio": "David led engineering for risk reviews at Stripe for fraud, credit, content moderation, and financial crimes. He built the policy and workflow engine that scaled Stripe from internal reviewers to thousands of outsourced vendor agents.",
+        "linkedin_url": "https://linkedin.com/in/david-graunke-46790429"
+      },
+      {
+        "name": "Steven Guichard",
+        "title": "Founder",
+        "bio": "Steven is a cofounder of SafetyKit, working to replace human risk reviewers with language models.\n\nPreviously he worked at Carbic as the first software engineer and later as the CEO. There he helped build ultrasonic flow sensors which were installed on oil pipelines and offshore rigs around the world.\n\nSteven also cofounded Thomas Street, a software design and engineering consultancy, where he worked with companies like Cisco, Roche, and DirecTV.",
+        "linkedin_url": "https://linkedin.com/in/stevenguichard"
+      }
+    ],
+    "team_size": 10,
+    "batch": "Summer 2023",
+    "location": "San Francisco, CA, USA",
+    "industries": [
+      "B2B"
+    ],
+    "tags": [
+      "Fintech",
+      "Compliance",
+      "Trust & Safety"
+    ],
+    "signals": [
+      {
+        "kind": "yc_batch",
+        "description": "Y Combinator Summer 2023 batch",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/safetykit",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "yc_hiring",
+        "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/safetykit",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "recent_launch",
+        "description": "Launched 2023-06-27",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/safetykit",
+        "observed_at": "2023-06-27T01:02:54Z",
+        "metadata": {
+          "launched_at": 1687827774
+        }
+      }
+    ],
+    "discovery": {
+      "source": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies/safetykit"
+    }
+  },
+  "score": {
+    "total": 34,
+    "components": [
+      {
+        "name": "AI centrality",
+        "points": 14.0,
+        "max_points": 20.0,
+        "reason": "Agent/AI language present but not tagged AI on YC."
+      },
+      {
+        "name": "Workflow ownership",
+        "points": 0.0,
+        "max_points": 30.0,
+        "reason": "No clear workflow-ownership language in the description."
+      },
+      {
+        "name": "Autonomy",
+        "points": 0.0,
+        "max_points": 15.0,
+        "reason": "No explicit autonomy language (may still be autonomous — see analysis)."
+      },
+      {
+        "name": "Freshness",
+        "points": 4.0,
+        "max_points": 15.0,
+        "reason": "Recent launch (launched over 15 months ago, 2023-06-27)."
+      },
+      {
+        "name": "Momentum",
+        "points": 6.0,
+        "max_points": 10.0,
+        "reason": "Actively hiring per YC listing (has capital and is scaling)."
+      },
+      {
+        "name": "Team",
+        "points": 10.0,
+        "max_points": 10.0,
+        "reason": "2 founder(s) — David Graunke, Steven Guichard. pedigree (stripe); technical depth; prior founder experience."
+      }
+    ],
+    "thesis": "AI-native autonomous agents owning high-value business workflows"
+  },
+  "analysis": {
+    "team": "Two named founders with directly relevant domain and technical depth. David Graunke led engineering for risk reviews at Stripe covering fraud, credit, content moderation, and financial crimes, and built the policy and workflow engine that scaled Stripe from internal reviewers to thousands of outsourced vendor agents (Founder bio: David Graunke). Steven Guichard was first software engineer and later CEO at Carbic, building ultrasonic flow sensors deployed on oil pipelines and offshore rigs, and cofounded Thomas Street, a software design/engineering consultancy that worked with Cisco, Roche, and DirecTV (Founder bio: Steven Guichard). The broader team of 10 is described as engineers from Stripe, Meta, Netflix, MIT, and Princeton (YC long description). The founders explicitly learned this domain first-hand at Stripe and Airbnb, first building tools for human reviewers and then models to replace them (YC long description).",
+    "product": "SafetyKit builds AI agents for risk, compliance, and safety — automating the review work that big tech and finance companies currently staff with large teams of outsourced human reviewers protecting platforms from fraud, harassment, and crime (One-liner; YC long description). The stated mission is to replace manual review toil with language models (YC long description). It is positioned as vertical AI already in production with paying customers (YC long description).",
+    "market": "The target buyers are large tech, fintech, marketplace, and payments companies with substantial trust-and-safety and compliance review needs (Industries/tags; YC long description). Customer traction cited includes Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, plus an unnamed $10B+ marketplace and an unnamed $100B+ payments company in production (YC long description). No explicit market size (TAM/SAM), pricing, revenue, or growth figures are provided in the sources — these are unknown. No named competitors are provided; the implicit incumbent is 'armies of low-paid outsourced humans' doing this work today (YC long description). Why-now is asserted by the founders — a belief that language models will rearrange this economy over the next four years — but is a founder claim rather than external evidence (YC long description).",
+    "risks": [
+      "Buyer-critical accuracy and liability: automating fraud, financial-crime, and content-moderation decisions carries regulatory and error-cost exposure; the sources give no data on model accuracy, false-positive/negative rates, or how compliance sign-off is handled.",
+      "Customer concentration and durability unknown: named logos are impressive but revenue, contract size, and whether these are pilots vs. production-scale commitments are not disclosed beyond a general 'in production' claim (YC long description).",
+      "Small team (size 10) selling into very large enterprises (a $100B+ payments company) implies long, demanding sales and integration cycles that could strain a lean org (Team size; YC long description).",
+      "Defensibility is unstated: no moat, data advantage, or switching-cost detail is provided, and the incumbent workflow (human reviewers) may be replicated by larger AI vendors."
+    ],
+    "what_would_change_our_mind": [
+      "Evidence of production autonomy and outcomes — e.g. share of review decisions made without a human, accuracy benchmarks, and volume handled — which would directly address the zero scores on workflow ownership and autonomy.",
+      "Hard commercial metrics: ARR, contract values, and expansion from the named logos (Patreon, Upwork, the $100B+ payments company) confirming these are scaled paid deployments rather than trials (YC long description).",
+      "A clear defensibility story: proprietary policy/workflow data or integration depth that would be hard for incumbents or general AI vendors to replicate."
+    ],
+    "recommendation_rationale": "Pass, consistent with the 34/100 (weak) score. Despite a strong, domain-expert founding team and marquee customer logos, the YC description lacks explicit workflow-ownership and autonomy language, which drove zero scores on the two most heavily weighted thesis dimensions (30 and 15 points). The company also launched over 15 months ago, weighing on freshness. There is a plausible upside case — the product may in fact be autonomously owning high-value review workflows — but the sources do not evidence it, so on the material available this does not clear the bar.",
+    "citations": [
+      {
+        "claim": "SafetyKit builds AI agents for risk, compliance, and safety",
+        "source": "One-liner",
+        "url": null
+      },
+      {
+        "claim": "Companies today rely on outsourced human reviewers to protect platforms from fraud, harassment, and crime, which SafetyKit aims to automate",
+        "source": "YC long description",
+        "url": "https://www.ycombinator.com/companies/safetykit"
+      },
+      {
+        "claim": "Founders learned the domain first-hand at Stripe and Airbnb, building tools for human reviewers then models to replace them",
+        "source": "YC long description",
+        "url": "https://www.ycombinator.com/companies/safetykit"
+      },
+      {
+        "claim": "Named production/paying customers include Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, a $10B+ marketplace, and a $100B+ payments company",
+        "source": "YC long description",
+        "url": "https://www.ycombinator.com/companies/safetykit"
+      },
+      {
+        "claim": "David Graunke led engineering for risk reviews at Stripe and built the policy/workflow engine scaling from internal reviewers to thousands of outsourced vendor agents",
+        "source": "Founder bio: David Graunke",
+        "url": null
+      },
+      {
+        "claim": "Steven Guichard was first engineer then CEO at Carbic building ultrasonic flow sensors, and cofounded consultancy Thomas Street (clients Cisco, Roche, DirecTV)",
+        "source": "Founder bio: Steven Guichard",
+        "url": null
+      },
+      {
+        "claim": "Team of 10 including engineers from Stripe, Meta, Netflix, MIT, and Princeton",
+        "source": "YC long description; Team size",
+        "url": "https://www.ycombinator.com/companies/safetykit"
+      },
+      {
+        "claim": "Y Combinator Summer 2023 batch; launched 2023-06-27; actively hiring",
+        "source": "Y Combinator signals",
+        "url": null
+      }
+    ]
+  },
+  "recommendation": "Pass"
+}

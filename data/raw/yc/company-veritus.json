@@ -1,0 +1,24 @@
+{
+  "name": "Veritus",
+  "year_founded": 2025,
+  "founders": [
+    {
+      "full_name": "Joshua March",
+      "title": "Founder/CEO",
+      "founder_bio": "I’m the Founder & CEO of Veritus Agent, an AI agent platform the consumer lending industry. I’ve been a serial founder with multiple exits, including enterprise SaaS company Conversocial, acquired by Verint (VRNT), and I was the co-founder & CEO of a16z-backed SCiFi Foods. I’m also the author of Message Me, a book about the future of customer service in the era of AI and social media. ",
+      "linkedin_url": "https://www.linkedin.com/in/joshuamarch/"
+    },
+    {
+      "full_name": "David Schlesinger",
+      "title": "Founder",
+      "founder_bio": "Co-founder at Veritus Agent. 10+ experience in startups including Divvy Homes and Cloudflare.",
+      "linkedin_url": "https://www.linkedin.com/in/davidschles/"
+    },
+    {
+      "full_name": "Joseph Stein",
+      "title": "Founder",
+      "founder_bio": "Co-founder of Veritus Agent, an AI-powered debt buyer and collections platform. 10+ years in startups, including one acquired by Fitbit → Google",
+      "linkedin_url": "https://www.linkedin.com/in/josephstein1"
+    }
+  ]
+}

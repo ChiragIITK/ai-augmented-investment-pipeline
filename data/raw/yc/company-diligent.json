@@ -1,0 +1,18 @@
+{
+  "name": "Diligent",
+  "year_founded": 2023,
+  "founders": [
+    {
+      "full_name": "Edoardo Maschio",
+      "title": "Founder",
+      "founder_bio": "I was an investment associate and chief of staff @ Rocket Internet early-stage team. Incubated and invested multiple ventures with the fintech team. Previously worked as Junior associate @ Boston Consulting Group.",
+      "linkedin_url": "https://linkedin.com/in/edoardo-maschio-704"
+    },
+    {
+      "full_name": "Ahmed Gaber",
+      "title": "Founder",
+      "founder_bio": "I'm Co-founder and CTO at Diligent and I worked in Fintech for more than a decade.\nMost recently I was VP of engineering at Billie (Europe’s largest B2B BNPL) and led multiple engineering teams on various domains: business identification, fraud, credit, and AML risk. Previously I was a technical PM and software engineer at Funding Circle.",
+      "linkedin_url": "https://linkedin.com/in/ahmedsamygaber"
+    }
+  ]
+}

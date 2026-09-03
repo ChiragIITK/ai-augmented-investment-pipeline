@@ -1,0 +1,18 @@
+{
+  "name": "Concourse",
+  "year_founded": 2023,
+  "founders": [
+    {
+      "full_name": "Matthieu Hafemeister",
+      "title": "Founder",
+      "founder_bio": "Ex- Head of Growth @Jeeves (YC S20) & Fintech investor at Andreessen Horowitz",
+      "linkedin_url": "https://www.linkedin.com/in/matthafemeister/"
+    },
+    {
+      "full_name": "Ted Michaels",
+      "title": "Founder",
+      "founder_bio": "",
+      "linkedin_url": "https://www.linkedin.com/in/ted-michaels/"
+    }
+  ]
+}

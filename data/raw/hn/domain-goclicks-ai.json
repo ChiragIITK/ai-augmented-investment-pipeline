@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=goclicks.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 25,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 19,
+      "scanning": 4,
+      "total": 24
+    },
+    "total": 25
+  },
+  "query": "goclicks.ai",
+  "serverTimeMS": 25
+}

@@ -1,0 +1,1219 @@
+{
+  "topic": "AI agents for Fintech",
+  "count": 20,
+  "candidates": [
+    {
+      "name": "Diligent",
+      "website": "https://godiligent.ai/",
+      "description": "AI agents for fintech risk and compliance operations",
+      "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+      "founders": [
+        {
+          "name": "Edoardo Maschio",
+          "title": "Founder",
+          "bio": "I was an investment associate and chief of staff @ Rocket Internet early-stage team. Incubated and invested multiple ventures with the fintech team. Previously worked as Junior associate @ Boston Consulting Group.",
+          "linkedin_url": "https://linkedin.com/in/edoardo-maschio-704"
+        },
+        {
+          "name": "Ahmed Gaber",
+          "title": "Founder",
+          "bio": "I'm Co-founder and CTO at Diligent and I worked in Fintech for more than a decade.\nMost recently I was VP of engineering at Billie (Europe’s largest B2B BNPL) and led multiple engineering teams on various domains: business identification, fraud, credit, and AML risk. Previously I was a technical PM and software engineer at Funding Circle.",
+          "linkedin_url": "https://linkedin.com/in/ahmedsamygaber"
+        }
+      ],
+      "team_size": 10,
+      "batch": "Summer 2023",
+      "location": "London, England, United Kingdom",
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [
+        "Fintech",
+        "Compliance",
+        "Fraud Prevention",
+        "Regtech",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2023 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/diligent",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/diligent",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2024-02-01",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/diligent",
+          "observed_at": "2024-02-01T15:02:14Z",
+          "metadata": {
+            "launched_at": 1706799734
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/diligent"
+      }
+    },
+    {
+      "name": "Accend",
+      "website": "https://www.withaccend.com/",
+      "description": "AI agents for commercial underwriting at banks and fintechs",
+      "long_description": "Accend helps commercial banks and fintechs underwrite business customers faster, win more deals and increase revenue. We provide an end-to-end platform to automate document intake, financial statement / tax spreading, cash flow modeling, credit memos and portfolio management, with audit-ready AI and human-in-the-loop accuracy. Companies like Corpay, Brex, Rippling, Rho, Column, Settle, and many others have reduced application processing time by 80% with Accend, significantly enhancing their credit underwriting efficiency\r\n\r\nBefore starting Accend, the founders led Product & Engineering on the Risk team at Brex as well as at Deutsche Bank and Credit Suisse so they have firsthand experienced issues with operational efficiency in credit/underwriting teams. Accend has raised a $3.2M seed round from Y Combinator, Adverb Ventures, General Catalyst and 645 Ventures.",
+      "founders": [
+        {
+          "name": "Pranjal Daga",
+          "title": "Founder",
+          "bio": "Currently, Cofounder of Accend. Previously, I led Product for AI initiatives, particularly in Risk at Brex. Before that, I dropped out of my PhD in AI/ML at Purdue University to help set up Cisco Innovation Labs where I grew the team from 1 to 35 in 4 years.",
+          "linkedin_url": "https://linkedin.com/in/pranjaldaga"
+        },
+        {
+          "name": "Yutong Pei",
+          "title": "Founder",
+          "bio": "Yutong Pei was most recently the Engineering Manager on the Fraud Risk team at Brex where he built the Disputes service, worked on fraud controls by managing engineers and data scientists. Previously, he has led Fraud Engineering and Security for IoTeX, Uber and Amazon.",
+          "linkedin_url": "https://linkedin.com/in/yutong-pei-81006842"
+        },
+        {
+          "name": "Joseph Zhou",
+          "title": "Founder",
+          "bio": "I'm one of the Co-Founders of Accend. Previously, I served as the CFO of a mobile gaming startup with a 50M ARR. I established the company’s operation in Europe and scaled the team from 0 to 80 members.",
+          "linkedin_url": null
+        }
+      ],
+      "team_size": 18,
+      "batch": "Summer 2023",
+      "location": null,
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [
+        "Fintech",
+        "Generative AI",
+        "Finance",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2023 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/accend",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/accend",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2023-08-09",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/accend",
+          "observed_at": "2023-08-09T05:37:52Z",
+          "metadata": {
+            "launched_at": 1691559472
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/accend"
+      }
+    },
+    {
+      "name": "Veritus",
+      "website": "https://www.veritus.com/",
+      "description": "AI agents for the consumer lending industry",
+      "long_description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates.",
+      "founders": [
+        {
+          "name": "Joshua March",
+          "title": "Founder/CEO",
+          "bio": "I’m the Founder & CEO of Veritus Agent, an AI agent platform the consumer lending industry. I’ve been a serial founder with multiple exits, including enterprise SaaS company Conversocial, acquired by Verint (VRNT), and I was the co-founder & CEO of a16z-backed SCiFi Foods. I’m also the author of Message Me, a book about the future of customer service in the era of AI and social media.",
+          "linkedin_url": "https://www.linkedin.com/in/joshuamarch/"
+        },
+        {
+          "name": "David Schlesinger",
+          "title": "Founder",
+          "bio": "Co-founder at Veritus Agent. 10+ experience in startups including Divvy Homes and Cloudflare.",
+          "linkedin_url": "https://www.linkedin.com/in/davidschles/"
+        },
+        {
+          "name": "Joseph Stein",
+          "title": "Founder",
+          "bio": "Co-founder of Veritus Agent, an AI-powered debt buyer and collections platform. 10+ years in startups, including one acquired by Fitbit → Google",
+          "linkedin_url": "https://www.linkedin.com/in/josephstein1"
+        }
+      ],
+      "team_size": 10,
+      "batch": "Summer 2025",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "tags": [
+        "Fintech",
+        "Lending",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2025 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/veritus",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/veritus",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2025-07-28",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/veritus",
+          "observed_at": "2025-07-28T20:38:29Z",
+          "metadata": {
+            "launched_at": 1753735109
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/veritus"
+      }
+    },
+    {
+      "name": "Bluebook",
+      "website": "https://getbluebook.com/",
+      "description": "AI for accounting",
+      "long_description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. LLMs enables software that can understand context, adapt to new scenarios, and handle complex accounting tasks with human-like reasoning - capabilities that traditional rule-based software lacks.",
+      "founders": [
+        {
+          "name": "Philip Andersson",
+          "title": "Founder/CEO",
+          "bio": "Self-taught AI builder and seasoned founder. Developed my first webpage at age 8, founded my first company at 17, built a software consultancy generating millions in revenue, exited a product company, launched many failures. Last years spent as engineering leader at startups such as FirstVet, Mindler and Epidemic Sound.",
+          "linkedin_url": "https://linkedin.com/in/phiandersson"
+        },
+        {
+          "name": "Filip Stål",
+          "title": "Founder/CTO",
+          "bio": "Happy guy that loves to build, exercise & cook food.",
+          "linkedin_url": "https://www.linkedin.com/in/filip-st%C3%A5l-464849229/"
+        }
+      ],
+      "team_size": 4,
+      "batch": "Winter 2025",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "tags": [
+        "Fintech",
+        "B2B",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2025 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/bluebook",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2025-02-13",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/bluebook",
+          "observed_at": "2025-02-13T12:34:23Z",
+          "metadata": {
+            "launched_at": 1739450063
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/bluebook"
+      }
+    },
+    {
+      "name": "Clarum",
+      "website": "https://clarum.ai/",
+      "description": "AI agents for private market diligence, monitoring, and reporting",
+      "long_description": "Clarum automates diligence, monitoring, and reporting for private market investors. Our AI agents learn how each firm works and automate their process end to end. Everything is individualized (checklists, templates, scoring models) and adapts as your process changes.\r\n\r\nClarum also acts as a self-updating knowledge base across every document your firm has ever seen, connecting dots no analyst could.",
+      "founders": [
+        {
+          "name": "Anton Otaner",
+          "title": "Founder/CEO",
+          "bio": "Anton Otaner is the co-founder and CEO of Clarum. Before Clarum, he worked on blockchain infrastructure at Mint and led augmented reality product development at EPHAS, an Ericsson One startup. He also enjoys marathon running.",
+          "linkedin_url": "https://linkedin.com/in/antonotaner"
+        }
+      ],
+      "team_size": 2,
+      "batch": "Winter 2024",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Finance",
+        "B2B",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2024 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/clarum",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2024-03-11",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/clarum",
+          "observed_at": "2024-03-11T16:29:56Z",
+          "metadata": {
+            "launched_at": 1710174596
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/clarum"
+      }
+    },
+    {
+      "name": "SafetyKit",
+      "website": "https://www.safetykit.com/",
+      "description": "AI agents for risk, compliance, and safety",
+      "long_description": "SafetyKit's AI agents do the dirty work for big tech and finance companies so humans don't have to.\r\n\r\nToday companies rely on armies of low-paid outsourced humans to protect their platforms from fraud, harassment, and crime. It’s super important work, but the jobs are difficult and sometimes traumatizing, and it’s impossible to keep up. Our mission is to end this manual toil.\r\n\r\nWe learned this domain first-hand at Stripe and Airbnb, where first we built software for human reviewers, and then built models to replace them.\r\n\r\nWe’re a group of engineers from Stripe, Meta, Netflix, MIT, and Princeton that love language models and unironically love B2B SaaS. We know the economy is going to be rearranged over the next 4 years and we want to be in the driver’s seat.\r\n\r\nWe build vertical AI that works and have some of the world’s largest companies as paying customers. Patreon, Eventbrite, Upwork, Character.ai, Substack, Faire, along with a $10B+ marketplace, a $100B+ payments company, and more rely on SafetyKit in production.",
+      "founders": [
+        {
+          "name": "David Graunke",
+          "title": "Founder",
+          "bio": "David led engineering for risk reviews at Stripe for fraud, credit, content moderation, and financial crimes. He built the policy and workflow engine that scaled Stripe from internal reviewers to thousands of outsourced vendor agents.",
+          "linkedin_url": "https://linkedin.com/in/david-graunke-46790429"
+        },
+        {
+          "name": "Steven Guichard",
+          "title": "Founder",
+          "bio": "Steven is a cofounder of SafetyKit, working to replace human risk reviewers with language models.\n\nPreviously he worked at Carbic as the first software engineer and later as the CEO. There he helped build ultrasonic flow sensors which were installed on oil pipelines and offshore rigs around the world.\n\nSteven also cofounded Thomas Street, a software design and engineering consultancy, where he worked with companies like Cisco, Roche, and DirecTV.",
+          "linkedin_url": "https://linkedin.com/in/stevenguichard"
+        }
+      ],
+      "team_size": 10,
+      "batch": "Summer 2023",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Fintech",
+        "Compliance",
+        "Trust & Safety"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2023 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/safetykit",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/safetykit",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2023-06-27",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/safetykit",
+          "observed_at": "2023-06-27T01:02:54Z",
+          "metadata": {
+            "launched_at": 1687827774
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/safetykit"
+      }
+    },
+    {
+      "name": "Complif",
+      "website": "https://complif.com/",
+      "description": "Compliance tools & AI agents for financial companies",
+      "long_description": "Complif automates compliance processes for financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
+      "founders": [
+        {
+          "name": "Lucas Ranallo",
+          "title": "Founder",
+          "bio": null,
+          "linkedin_url": "https://www.linkedin.com/in/lucasranallo/"
+        },
+        {
+          "name": "Mathias Caramutti",
+          "title": "Founder",
+          "bio": null,
+          "linkedin_url": "https://www.linkedin.com/in/mcaramutti/"
+        }
+      ],
+      "team_size": 45,
+      "batch": "Winter 2022",
+      "location": "Buenos Aires, CABA, Argentina",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "B2B",
+        "Compliance",
+        "Regtech"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2022 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/complif",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2021-12-30",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/complif",
+          "observed_at": "2021-12-30T17:40:31Z",
+          "metadata": {
+            "launched_at": 1640886031
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/complif"
+      }
+    },
+    {
+      "name": "Prodigal",
+      "website": "https://prodigaltech.com/",
+      "description": "Lending Intelligence Software",
+      "long_description": "We build AI agents for loan servicing and collections\r\n\r\nProdigal has AI agents for loan servicing and collections. Our AI agents and apps help teams improve margins, run leaner operations, and maximize payments.\r\n\r\nWe are working towards an Agentic vision for consumer finance wherein our AI agents automate critical roles, enhance operations, and drive revenue. \r\n\r\nHeadquartered in Mountain View, California, Prodigal's global team combines deep expertise in financial services, AI research, and product innovation, driving efficiency and transformative results across the consumer finance landscape.",
+      "founders": [
+        {
+          "name": "Shantanu Gangal",
+          "title": "Founder",
+          "bio": null,
+          "linkedin_url": "https://www.linkedin.com/in/shantanugangal"
+        },
+        {
+          "name": "Sangram Raje",
+          "title": "Founder",
+          "bio": null,
+          "linkedin_url": "https://www.linkedin.com/in/sangramraje"
+        }
+      ],
+      "team_size": 99,
+      "batch": "Summer 2018",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Consumer Finance",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2018 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/prodigal",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/prodigal",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2018-05-08",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/prodigal",
+          "observed_at": "2018-05-08T02:05:54Z",
+          "metadata": {
+            "launched_at": 1525745154
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/prodigal"
+      }
+    },
+    {
+      "name": "Argovox",
+      "website": "https://www.argovox.com/",
+      "description": "Voice AI agents for patient billing and collections",
+      "long_description": "We help healthcare providers increase profitability and cashflow by automating their patient billing and collections processes.\r\n\r\nToday, healthcare providers in the US are leaving up to 20% of their profit margins on the table due to subpar patient billing and collections processes. Billing patients and collecting their payments is a complex process that requires specialized skills and a lot of effort. Traditionally, healthcare providers have done this manually, with limited automation around one-way reminders. This leads to limited engagement with payers and subpar collection results.\r\n\r\nArgovox changes this by making new levels of payer engagement possible at scale. Through both voice and text conversations, our AI agents can engage in complex, multi-turn patient billing and collection conversation. This leads higher engagement with payers and optimal collection results.",
+      "founders": [
+        {
+          "name": "Noe Branagan",
+          "title": "Founder",
+          "bio": "Engineering leader with over 10yrs leading engineering efforts for companies in different stages; Passionate about knowledge sharing and education, especially those that help other developers grow or get people into software development; likes to mentor/coach. If you have anything in mind, send me a message @noeBranagan. Currently, co-founder & CTO @ Ruffo making cross-border real estate transactions easy for everyone.",
+          "linkedin_url": "https://www.linkedin.com/in/noebranagan/"
+        },
+        {
+          "name": "Luis Pellerano",
+          "title": "Founder",
+          "bio": "Founder of Ruffo/Argovox (YC S22). Built AI voice agent for patient billing support (Argovox) and app for signature and apostille of cross-border real estate transaction documents (Ruffo).\n\nM&A and capital markets attorney for 8+ years at Simpson Thacher (NYC and Palo Alto).",
+          "linkedin_url": "https://www.linkedin.com/in/luis-r-pellerano/"
+        }
+      ],
+      "team_size": 3,
+      "batch": "Summer 2022",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [
+        "Fintech",
+        "Healthcare",
+        "LegalTech",
+        "Call Center",
+        "AI Assistant"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2022 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/argovox",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2022-06-14",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/argovox",
+          "observed_at": "2022-06-14T04:16:15Z",
+          "metadata": {
+            "launched_at": 1655180175
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/argovox"
+      }
+    },
+    {
+      "name": "TovenAI",
+      "website": "https://toven.ai/",
+      "description": "AI agents for compliance at institutional trading firms",
+      "long_description": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+      "founders": [
+        {
+          "name": "Batu Balci",
+          "title": "Founder/CEO",
+          "bio": "Founder at TovenAI. Previously Quantitative Research Engineer at Citadel's Global Quantitative Strategies group. Senior Software Engineer at Salesforce. Stanford CS.",
+          "linkedin_url": "https://www.linkedin.com/in/batuhan-balci-7a3589114/"
+        },
+        {
+          "name": "Sam Turchetta",
+          "title": "Founder/CTO",
+          "bio": "Cofounder at TovenAI. Previously worked on ML at Meta. Stanford Men’s Varsity Tennis and CS ’21.",
+          "linkedin_url": "https://www.linkedin.com/in/sam-turchetta-b14311166/"
+        }
+      ],
+      "team_size": 2,
+      "batch": "Summer 2026",
+      "location": "New York City, NY, USA",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Compliance",
+        "Regtech"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2026 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/tovenai",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2026-08-12",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/tovenai",
+          "observed_at": "2026-08-12T18:45:17Z",
+          "metadata": {
+            "launched_at": 1786560317
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/tovenai"
+      }
+    },
+    {
+      "name": "Fenrock AI",
+      "website": "https://fenrock.ai/",
+      "description": "AI agents for banks",
+      "long_description": "We're building the Legora for traditional financial services, working closely with US bank CEOs to transform their businesses.",
+      "founders": [
+        {
+          "name": "Charu Sharma",
+          "title": "Founder/CEO",
+          "bio": "We're building specialized AI agents for banks to 10x back office functions.\n\nI previously founded and scaled 2 VC-backed companies to millions of users, hundreds of employees, and tens of millions raised from top-tier VCs, including General Catalyst's Hemant Taneja.\n\nFun fact: Fought goons in a train robbery in Mumbai and got the National Bravery Award from the Indian Prime Minister & President.",
+          "linkedin_url": "https://www.linkedin.com/in/charusharma1/"
+        },
+        {
+          "name": "Michael M",
+          "title": "Founder/CTO",
+          "bio": "We're building specialized AI agents for banks to 10x back office functions.\n\nI previously spent 10 years building cutting-edge ML at Google and Apple for billions of users. I invented ways to train ML models without exposing private data, built Apple's first privacy-preserving ML at scale, and designed ML that helped a startup go public.",
+          "linkedin_url": "https://www.linkedin.com/in/fiveseventyeleven/"
+        }
+      ],
+      "team_size": 2,
+      "batch": "Winter 2026",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech",
+        "Banking and Exchange"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2026 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/fenrock-ai",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/fenrock-ai",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2026-01-26",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/fenrock-ai",
+          "observed_at": "2026-01-26T05:51:44Z",
+          "metadata": {
+            "launched_at": 1769406704
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/fenrock-ai"
+      }
+    },
+    {
+      "name": "Concourse",
+      "website": "https://concourse.co/",
+      "description": "AI Agents for corporate finance teams",
+      "long_description": "Concourse is building AI agents for corporate finance teams. Concourse works alongside finances teams to assist in day-to-day operations by taking on the most manual and time consuming work. Core to the platform is an AI analyst tailor-built for finance teams that is available at any hour of the day, accessible via natural language, and built with full connectivity to a company’s existing financial systems. Concourse enables team members to more effectively retrieve and analyze data, generate charts and reports, and answer ad-hoc questions.",
+      "founders": [
+        {
+          "name": "Matthieu Hafemeister",
+          "title": "Founder",
+          "bio": "Ex- Head of Growth @Jeeves (YC S20) & Fintech investor at Andreessen Horowitz",
+          "linkedin_url": "https://www.linkedin.com/in/matthafemeister/"
+        },
+        {
+          "name": "Ted Michaels",
+          "title": "Founder",
+          "bio": null,
+          "linkedin_url": "https://www.linkedin.com/in/ted-michaels/"
+        }
+      ],
+      "team_size": 7,
+      "batch": "Winter 2023",
+      "location": "New York City, NY, USA",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "SaaS",
+        "B2B",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2023 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/concourse",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/concourse",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2023-04-01",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/concourse",
+          "observed_at": "2023-04-01T08:39:56Z",
+          "metadata": {
+            "launched_at": 1680338396
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/concourse"
+      }
+    },
+    {
+      "name": "Covera",
+      "website": "https://www.covera-agents.com/",
+      "description": "AI-native OS for insurance brokers",
+      "long_description": "Covera builds AI agents for insurance brokers. Our ready-to-use agents take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",
+      "founders": [
+        {
+          "name": "Tiphaine Venet",
+          "title": "Founder/CEO",
+          "bio": "Founder & CEO at Covera. Previously founded Simio, a conversational AI platform for retail enterprises (Samsung, Carrefour, Air France), and sold it in 2024. Before that, VC at Serena, co-leading investments. Educated at HEC Paris and École Polytechnique.",
+          "linkedin_url": "https://www.linkedin.com/in/tiphaine-venet/"
+        }
+      ],
+      "team_size": 2,
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [
+        "AIOps"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Fall 2026 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/covera",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/covera",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2026-08-21",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/covera",
+          "observed_at": "2026-08-21T14:58:58Z",
+          "metadata": {
+            "launched_at": 1787324338
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/covera"
+      }
+    },
+    {
+      "name": "Zolvo",
+      "website": "https://zolvo.com/",
+      "description": "AI Back-Office Automation for Commercial Lenders",
+      "long_description": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+      "founders": [
+        {
+          "name": "Isabela Rodriguez",
+          "title": "Founder/CEO",
+          "bio": "Co-founder and CEO @Zolvo (YCP26). First GTM hire at Domu (YC S24), closed their first $1M in revenue bringing clients like Chubb. Came to SF with $3K, quit my job a week later to build Zolvo, hustler by nature I execute fast and show results to clients not fluff.",
+          "linkedin_url": "https://www.linkedin.com/in/isabela-rodriguez-438785170/"
+        },
+        {
+          "name": "Tony Montes",
+          "title": "Founder/CTO",
+          "bio": "Co-founder and CTO @ Zolvo (YCP26). Founding AI engineer at Domu (YC S24), built voice AI infrastructure that scaled to 100K+ calls per day for enterprise fintech clients. Background in AI research with publications at ACL and EMNLP and work on generative models at Cornell. Builds Zolvo’s product and infrastructure end to end for commercial lenders.",
+          "linkedin_url": "https://www.linkedin.com/in/t-montes"
+        }
+      ],
+      "team_size": 3,
+      "batch": "Spring 2026",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech",
+        "Credit and Lending"
+      ],
+      "tags": [],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Spring 2026 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/zolvo",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2026-03-13",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/zolvo",
+          "observed_at": "2026-03-13T01:07:42Z",
+          "metadata": {
+            "launched_at": 1773364062
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/zolvo"
+      }
+    },
+    {
+      "name": "Tesora",
+      "website": "https://tesora.ai/",
+      "description": "Frontier AI for Actuaries",
+      "long_description": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change.\r\n\r\nThe part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
+      "founders": [
+        {
+          "name": "Vivek Rao",
+          "title": "Founder/CEO",
+          "bio": "Co-founder and CEO of Tesora\nMcKinsey, Sycamore Partners (~$14B AUM), UChicago / Booth Alum",
+          "linkedin_url": "https://www.linkedin.com/in/vivek-r-928871173/"
+        },
+        {
+          "name": "Federico Reyes Gomez",
+          "title": "Founder/CTO",
+          "bio": "Federico Reyes Gómez, Co-founder & CTO | Stanford BS/MS in CS & Philosophy | Google Document AI alum who turned down Stripe to join his professor’s Sequoia-backed startup Kumo, deploying graph neural networks on relational data. AI researcher and forward-deployed engineer, side-project junkie, and indie music producer (PICO).",
+          "linkedin_url": "https://www.linkedin.com/in/federico-reyes-gomez"
+        }
+      ],
+      "team_size": 5,
+      "batch": "Summer 2025",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [
+        "API",
+        "Insurance",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2025 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/tesora",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/tesora",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2025-08-19",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/tesora",
+          "observed_at": "2025-08-19T02:52:16Z",
+          "metadata": {
+            "launched_at": 1755571936
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/tesora"
+      }
+    },
+    {
+      "name": "Avallon AI",
+      "website": "https://www.avallon.ai/",
+      "description": "AI agents for insurance claims operations",
+      "long_description": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing.",
+      "founders": [
+        {
+          "name": "Cornelius Schramm",
+          "title": "Founder/CEO",
+          "bio": "CEO of Avallon. Before Avallon, Cornelius was the founding U.S. engineer at FINN, building the fleet operations platform behind $15M ARR and witnessing firsthand how broken fleet claims processes are.",
+          "linkedin_url": "https://www.linkedin.com/in/cornelius-schramm-450759150/"
+        },
+        {
+          "name": "Bryan Guin",
+          "title": "Founder/CPO",
+          "bio": "Bryan was previously a machine learning researcher at Cornell and a software engineer at Agentive (YC S23) where he built AI systems for auditors. He also led product consulting teams at EY, advising Fortune 500 clients on new product development and deployment.",
+          "linkedin_url": "https://www.linkedin.com/in/bryan-guin/"
+        }
+      ],
+      "team_size": 7,
+      "batch": "Spring 2025",
+      "location": "New York City, NY, USA",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Spring 2025 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/avallon-ai",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/avallon-ai",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2025-04-10",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/avallon-ai",
+          "observed_at": "2025-04-10T20:57:43Z",
+          "metadata": {
+            "launched_at": 1744318663
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/avallon-ai"
+      }
+    },
+    {
+      "name": "Powder",
+      "website": "https://www.powderfi.com/",
+      "description": "AI Agents for precise document analysis",
+      "long_description": "Powder is an AI tool that helps wealth advisors rapidly create sales proposals that are personalized for each prospective client.  Using LLMs, Powder is able to automate a series of manual tasks such as understanding documents and conversations to create mind-blowing analysis that builds immediate trust.\r\n\r\n\r\nPowder has 3 main features to automate sales workflows -\r\n\r\n1. Brokerage, tax and estate document parser thats fast and accurate.\r\n2. Meeting notetaker thats able to capture personalized insights.\r\n3. Portfolio analysis tool that optimizes portfolio returns, risk and fees.\r\n\r\nOur app saves hours of time and creates a pinpoint proposal that lifts a firm's ability to win new business.",
+      "founders": [
+        {
+          "name": "Kanishk Parashar",
+          "title": "Founder/CEO",
+          "bio": "cofounder/CEO Powder - AI growth platform for wealth advisors.  Previously, I was cofounder/CEO of RCI Navigator.  Navigator helps asset and wealth managers to pace into private assets such as VC, PE, Infra, etc. while taking risks into account.  It was acquired by Addepar in Jan 2021.  Navigator is used by 150+ firms including UBS and Morgan Stanley.  Before that I was cofounder/CEO of Coin (YCW13).  Coin was a all-in-one digital credit card that combined all your cards into one.",
+          "linkedin_url": "https://linkedin.com/in/diamondk"
+        },
+        {
+          "name": "Soo Yung Cho",
+          "title": "Founder/CTO",
+          "bio": "Sooyung is the co-founder and CTO of Powder, AI sales copilot for wealth advisors. Prior to founding Powder, Sooyung was a founding team member of RCI which was acquired by Addepar in 2021. Sooyung graduated from Johns Hopkins with a BS degree in Computer Science. Out of work, he enjoys playing lacrosse.",
+          "linkedin_url": "https://linkedin.com/in/soo-yung-cho-53643811"
+        },
+        {
+          "name": "David Goerz",
+          "title": "Founder",
+          "bio": "Co-founder & Chief Investment Officer for Powder Finance, which is building an AI Sales co-Pilot for wealth advisors to automate gathering financial holdings, analyze portfolios, assess risk tolerance, and summarize data to engage faster and efficiently.\n\nHe managed portfolio strategies for institutional asset owners for 33 yrs on mandates up to $30B in assets with pioneering innovations in quantitative equity and return forecasting, optimization and risk management. Chair, Investment Committees",
+          "linkedin_url": "https://linkedin.com/in/davidgoerz3"
+        },
+        {
+          "name": "Dominic Tully",
+          "title": "Founder",
+          "bio": "I am currently the co-founder and Head of Sales and Operations at Powder. Prior to Powder, I work at the fintech firm, Addepar, as both a Senior Account Executive and Senior Account Manager. I started my career at Goldman Sachs, where I worked in the Private Wealth Management division in San Francisco.",
+          "linkedin_url": "https://linkedin.com/in/dominic-tully-b9418292"
+        }
+      ],
+      "team_size": 6,
+      "batch": "Winter 2024",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "Fintech",
+        "Asset Management"
+      ],
+      "tags": [],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2024 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/powder",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/powder",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2024-01-22",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/powder",
+          "observed_at": "2024-01-22T04:45:35Z",
+          "metadata": {
+            "launched_at": 1705898735
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/powder"
+      }
+    },
+    {
+      "name": "Pasito",
+      "website": "https://pasito.ai/",
+      "description": "AI agents for insurance and benefits",
+      "long_description": "Pasito builds AI agents for insurance and benefits—transforming how benefits are built, delivered, and experienced.\r\n\r\nOur Core AI ingests and understands plan documents and employee census data to build structured benefit intelligence.\r\n\r\nOur Engagement AI Agents orchestrate complex workflows—powering decision support, plan comparisons, guides, highlight sheets, microsites, communications, claims reminders, RFP management, document audits, translations, and more—all from a single intelligent database.\r\n\r\nWith Pasito, carriers, brokers, and benefits vendors eliminate manual work, accelerate growth, and deliver the personalized benefits experiences employees deserve—all powered by compliant, scalable AI systems.\r\n\r\nBacked by Y Combinator, Core Innovation Capital, and other leading investors.",
+      "founders": [
+        {
+          "name": "Pauline Roteta",
+          "title": "Founder",
+          "bio": "Pauline is the co-founder and CEO of Pasito (YC S22). Before Pasito, she was a Senior Investor & Portfolio Manager at BlackRock. Pauline is a Certified Financial Planner®, CFA, Fulbright Scholar, and holds a B.Eng. from Vanderbilt University.",
+          "linkedin_url": "https://www.linkedin.com/in/paulineroteta/"
+        }
+      ],
+      "team_size": 20,
+      "batch": "Summer 2022",
+      "location": "New York City, NY, USA; Remote",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [
+        "Health Tech",
+        "Insurance",
+        "AI"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Summer 2022 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/pasito",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "yc_hiring",
+          "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/pasito",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2022-07-06",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/pasito",
+          "observed_at": "2022-07-06T21:25:10Z",
+          "metadata": {
+            "launched_at": 1657142710
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/pasito"
+      }
+    },
+    {
+      "name": "Armilla AI",
+      "website": "http://www.armilla.ai/",
+      "description": "Liability insurance for generative AI and AI Agents",
+      "long_description": "Armilla AI (YC W22) is the first YC-backed MGA and Lloyd's Coverholder dedicated to insuring AI-related risks. Armilla's insurance policies cover developers and deployers of generative AI and AI agents for performance and liability -- from errors and hallucinations, to incorrect decisions, data leakage, regulatory violations and more.",
+      "founders": [
+        {
+          "name": "Karthik Ramakrishnan",
+          "title": "Founder",
+          "bio": "Karthik is the President and Chief Business Officer for Armilla AI. He previously led go-to-market teams at Element AI as VP. He led the AI  solutions and strategy for financial institutions and regulators globally. Previously he co-founded Blu Trumpet (CTO) and Gallop Labs (CEO). At Deloitte, he helped set up the global product factory and AI offerings. He has authored and published one of the widely cited whitepapers on Fairness evaluation of AI models and AI Enterprise strategy.",
+          "linkedin_url": "https://www.linkedin.com/in/karthikramki/"
+        }
+      ],
+      "team_size": 14,
+      "batch": "Winter 2022",
+      "location": "Toronto, ON, Canada",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Insurance"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2022 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/armilla-ai",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2022-01-14",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/armilla-ai",
+          "observed_at": "2022-01-14T03:44:43Z",
+          "metadata": {
+            "launched_at": 1642131883
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/armilla-ai"
+      }
+    },
+    {
+      "name": "Basepilot",
+      "website": "https://www.basepilot.com/",
+      "description": "AI agents for insurance claims",
+      "long_description": "Basepilot helps insurers, TPAs and MGAs streamline claims operations with line-of-business-specific AI agents. Companies like Old Republic International, Zurich & others use Basepilot to make claims operations more efficient, less costly and more intelligent.\r\n\r\nBasepilot is founded by Ken Hendricks and Pascal Wieler.\r\n\r\nInterested to try it out? Get started here: https://www.basepilot.com/",
+      "founders": [
+        {
+          "name": "Ken Hendricks",
+          "title": "Founder/CEO",
+          "bio": "I’m Ken, co-founder and CEO of Basepilot. We build AI coworkers that collaborate with humans to automate work. \n\nPrior to Basepilot, I led product at a B2B fintech startup and grew it to 3M users in <12 months, with customers like Visa and Bank of America. Before that, I built a computer vision startup out of university that reached $250K ARR with partnerships like Deloitte, KPMG, EY and BMW. \n\nBorn in Mumbai, brought up in New Zealand, before moving to SF. Studied Mechatronics eng.",
+          "linkedin_url": "https://linkedin.com/in/ken-hendricks-96181611a"
+        },
+        {
+          "name": "Pascal Wieler",
+          "title": "Founder/CTO",
+          "bio": "Hi! I'm Pascal, Co-founder of Basepilot. I grew up in Germany.\n\nPassionate about AI agents, robotics & outdoor sports 🤖🚵. Studied CS MSc. @CMU MLD & KIT. Previously, I co-founded a robotics startup, did research in robotic manipulation & imitation learning at Carnegie Mellon, and worked on self-driving cars at Mercedes-Benz. Excited to be a part of YC, let's chat!",
+          "linkedin_url": "https://linkedin.com/in/pascal-wieler"
+        }
+      ],
+      "team_size": 2,
+      "batch": "Winter 2024",
+      "location": "San Francisco, CA, USA",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Insurance",
+        "No-code",
+        "Automation",
+        "AI Assistant"
+      ],
+      "signals": [
+        {
+          "kind": "yc_batch",
+          "description": "Y Combinator Winter 2024 batch",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/basepilot",
+          "observed_at": null,
+          "metadata": {}
+        },
+        {
+          "kind": "recent_launch",
+          "description": "Launched 2024-01-04",
+          "source": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies/basepilot",
+          "observed_at": "2024-01-04T15:10:24Z",
+          "metadata": {
+            "launched_at": 1704381024
+          }
+        }
+      ],
+      "discovery": {
+        "source": "Y Combinator",
+        "source_url": "https://www.ycombinator.com/companies/basepilot"
+      }
+    }
+  ]
+}

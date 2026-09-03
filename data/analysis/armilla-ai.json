@@ -1,0 +1,144 @@
+{
+  "candidate": {
+    "name": "Armilla AI",
+    "website": "http://www.armilla.ai/",
+    "description": "Liability insurance for generative AI and AI Agents",
+    "long_description": "Armilla AI (YC W22) is the first YC-backed MGA and Lloyd's Coverholder dedicated to insuring AI-related risks. Armilla's insurance policies cover developers and deployers of generative AI and AI agents for performance and liability -- from errors and hallucinations, to incorrect decisions, data leakage, regulatory violations and more.",
+    "founders": [
+      {
+        "name": "Karthik Ramakrishnan",
+        "title": "Founder",
+        "bio": "Karthik is the President and Chief Business Officer for Armilla AI. He previously led go-to-market teams at Element AI as VP. He led the AI  solutions and strategy for financial institutions and regulators globally. Previously he co-founded Blu Trumpet (CTO) and Gallop Labs (CEO). At Deloitte, he helped set up the global product factory and AI offerings. He has authored and published one of the widely cited whitepapers on Fairness evaluation of AI models and AI Enterprise strategy.",
+        "linkedin_url": "https://www.linkedin.com/in/karthikramki/"
+      }
+    ],
+    "team_size": 14,
+    "batch": "Winter 2022",
+    "location": "Toronto, ON, Canada",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Insurance"
+    ],
+    "signals": [
+      {
+        "kind": "yc_batch",
+        "description": "Y Combinator Winter 2022 batch",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/armilla-ai",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "recent_launch",
+        "description": "Launched 2022-01-14",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/armilla-ai",
+        "observed_at": "2022-01-14T03:44:43Z",
+        "metadata": {
+          "launched_at": 1642131883
+        }
+      }
+    ],
+    "discovery": {
+      "source": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies/armilla-ai"
+    }
+  },
+  "score": {
+    "total": 24,
+    "components": [
+      {
+        "name": "AI centrality",
+        "points": 14.0,
+        "max_points": 20.0,
+        "reason": "Agent/AI language present but not tagged AI on YC."
+      },
+      {
+        "name": "Workflow ownership",
+        "points": 0.0,
+        "max_points": 30.0,
+        "reason": "No clear workflow-ownership language in the description."
+      },
+      {
+        "name": "Autonomy",
+        "points": 0.0,
+        "max_points": 15.0,
+        "reason": "No explicit autonomy language (may still be autonomous — see analysis)."
+      },
+      {
+        "name": "Freshness",
+        "points": 4.0,
+        "max_points": 15.0,
+        "reason": "Recent launch (launched over 15 months ago, 2022-01-14)."
+      },
+      {
+        "name": "Momentum",
+        "points": 0.0,
+        "max_points": 10.0,
+        "reason": "No momentum signal (not hiring / not YC-flagged in available data)."
+      },
+      {
+        "name": "Team",
+        "points": 6.0,
+        "max_points": 10.0,
+        "reason": "1 founder(s) — Karthik Ramakrishnan. technical depth; prior founder experience."
+      }
+    ],
+    "thesis": "AI-native autonomous agents owning high-value business workflows"
+  },
+  "analysis": {
+    "team": "Solo founder listed: Karthik Ramakrishnan, President and Chief Business Officer, with substantial AI go-to-market and strategy experience. He previously led GTM teams as VP at Element AI, leading AI solutions and strategy for financial institutions and regulators globally (Founder bio: Karthik Ramakrishnan). He is a repeat founder, having co-founded Blu Trumpet (CTO) and Gallop Labs (CEO), and helped set up Deloitte's global product factory and AI offerings (Founder bio: Karthik Ramakrishnan). He authored a widely cited whitepaper on fairness evaluation of AI models and AI enterprise strategy (Founder bio: Karthik Ramakrishnan). Note: the bio describes him as President/CBO, implying other executives (e.g., a CEO) exist who are not listed in the sources — a gap in the founding-team picture. Team size is 14 (YC profile).",
+    "product": "Armilla AI sells liability insurance for generative AI and AI agents (One-liner). It operates as an MGA and Lloyd's Coverholder dedicated to insuring AI-related risks, positioning itself as the first YC-backed entity of this kind (YC long description). Policies cover both developers and deployers of generative AI and AI agents for performance and liability — spanning errors, hallucinations, incorrect decisions, data leakage and regulatory violations (YC long description). In plain terms, this is an insurance/risk-transfer business for AI systems, not itself an autonomous agent product.",
+    "market": "The sources indicate the company sits at the intersection of Fintech, Insurance, Artificial Intelligence and Generative AI (YC tags), and claims to be the first YC-backed MGA and Lloyd's Coverholder focused on AI risk (YC long description). No market size, TAM, customer counts, revenue, competitors, or funding figures are provided in the sources — these are unknown and should not be assumed. The implicit why-now is the rise of generative AI and AI agents creating new performance and liability exposures (errors, hallucinations, regulatory violations) that need insuring (YC long description), but the sources give no traction or demand evidence to validate timing.",
+    "risks": [
+      "Thesis mismatch: the thesis targets AI-native autonomous agents that own high-value business workflows, but Armilla is an insurance provider for AI risk, not an agent that autonomously executes a workflow (One-liner; YC long description). The rule-based score reflects this with 0/30 on workflow ownership and 0/15 on autonomy.",
+      "Regulatory and underwriting dependency: as an MGA and Lloyd's Coverholder, the business depends on capacity providers and regulatory standing that are not detailed in the sources (YC long description) — an open question on durability.",
+      "Single named founder in a specialized insurance domain: only Karthik Ramakrishnan is listed, and his background is AI GTM/strategy rather than insurance underwriting (Founder bio: Karthik Ramakrishnan); the broader team's insurance expertise is unknown.",
+      "No momentum or traction signal in the sources — no hiring flag, customer, or revenue data (Score breakdown: momentum 0/10), leaving demand unproven."
+    ],
+    "what_would_change_our_mind": [
+      "Evidence that Armilla is building an AI-native autonomous product (e.g., agents that autonomously assess, underwrite, or manage AI risk end-to-end) rather than a traditional insurance MGA — which would raise the workflow-ownership and autonomy scores.",
+      "Concrete traction: bound policies, premium volume, named enterprise customers, or capacity commitments (none present in sources).",
+      "A clearer picture of the full founding/executive team, especially insurance underwriting depth, given only one non-CEO founder is listed."
+    ],
+    "recommendation_rationale": "Pass. While the founder has strong AI strategy and repeat-founder credentials (Founder bio: Karthik Ramakrishnan), Armilla is fundamentally an insurance MGA for AI risk, not an AI-native autonomous agent owning a high-value workflow, which is the core of the thesis (One-liner; YC long description). This is reflected in the rule-based score of 24/100, with zero credit for workflow ownership and autonomy. The sources also provide no market-size, traction, or momentum evidence to offset the thesis mismatch.",
+    "citations": [
+      {
+        "claim": "Armilla AI offers liability insurance for generative AI and AI agents",
+        "source": "One-liner",
+        "url": null
+      },
+      {
+        "claim": "Armilla is the first YC-backed MGA and Lloyd's Coverholder dedicated to insuring AI-related risks, covering developers and deployers for errors, hallucinations, incorrect decisions, data leakage and regulatory violations",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "Karthik Ramakrishnan is President and CBO, previously VP of GTM at Element AI, co-founded Blu Trumpet (CTO) and Gallop Labs (CEO), worked at Deloitte, and authored a cited whitepaper on AI fairness",
+        "source": "Founder bio: Karthik Ramakrishnan",
+        "url": "https://www.linkedin.com/in/karthikramki/hidden"
+      },
+      {
+        "claim": "Company is in YC Winter 2022 batch, based in Toronto, with team size of 14 and tags Fintech, Insurance, AI, Generative AI",
+        "source": "YC profile",
+        "url": "https://www.ycombinator.com/companies/armilla-ai"
+      },
+      {
+        "claim": "Launched 2022-01-14",
+        "source": "Signal (Y Combinator)",
+        "url": null
+      },
+      {
+        "claim": "Rule-based score of 24/100 with 0/30 workflow ownership, 0/15 autonomy, and 0/10 momentum",
+        "source": "Thesis & Score breakdown",
+        "url": null
+      }
+    ]
+  },
+  "recommendation": "Pass"
+}

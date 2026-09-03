@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=atrisa.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 16,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 29,
+      "roundTrip": 18
+    },
+    "fetch": {
+      "query": 15,
+      "total": 16
+    },
+    "total": 16
+  },
+  "query": "atrisa.ai",
+  "serverTimeMS": 46
+}

@@ -1,0 +1,29 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=tesora.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 16,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 30,
+      "roundTrip": 17
+    },
+    "fetch": {
+      "query": 11,
+      "scanning": 3,
+      "total": 15
+    },
+    "total": 16
+  },
+  "query": "tesora.ai",
+  "serverTimeMS": 46
+}

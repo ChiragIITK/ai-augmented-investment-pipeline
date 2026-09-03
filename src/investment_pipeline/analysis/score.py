@@ -11,9 +11,12 @@ first-pass triage signal, not ground truth — the LLM analysis stage adds the
 nuance. Where a heuristic is weak we say so in the reason rather than hiding it.
 """
 
+import json
 from datetime import UTC, datetime
 
+from .. import config
 from ..models import Score, ScoreComponent, ScoredCandidate, StartupCandidate
+from ..sourcing import pipeline as sourcing
 
 THESIS_LABEL = "AI-native autonomous agents owning high-value business workflows"
 
@@ -233,3 +236,28 @@ def score(candidate: StartupCandidate) -> Score:
 
 def score_candidate(candidate: StartupCandidate) -> ScoredCandidate:
     return ScoredCandidate(candidate=candidate, score=score(candidate))
+
+
+# --- Stage 2 orchestration (reads candidates.json, writes scored.json) ---
+
+SCORED_PATH = config.DATA_DIR / "scored.json"
+
+
+def run() -> list[ScoredCandidate]:
+    """Score all sourced candidates, highest first, and persist to scored.json."""
+    scored = [score_candidate(c) for c in sourcing.load()]
+    scored.sort(key=lambda s: s.score.total, reverse=True)
+    config.DATA_DIR.mkdir(parents=True, exist_ok=True)
+    SCORED_PATH.write_text(
+        json.dumps(
+            {"thesis": THESIS_LABEL,
+             "scored": [json.loads(s.model_dump_json()) for s in scored]},
+            indent=2, ensure_ascii=False,
+        )
+    )
+    return scored
+
+
+def load_scored() -> list[ScoredCandidate]:
+    payload = json.loads(SCORED_PATH.read_text())
+    return [ScoredCandidate.model_validate(s) for s in payload["scored"]]

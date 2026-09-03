@@ -1,0 +1,174 @@
+{
+  "candidate": {
+    "name": "Prodigal",
+    "website": "https://prodigaltech.com/",
+    "description": "Lending Intelligence Software",
+    "long_description": "We build AI agents for loan servicing and collections\r\n\r\nProdigal has AI agents for loan servicing and collections. Our AI agents and apps help teams improve margins, run leaner operations, and maximize payments.\r\n\r\nWe are working towards an Agentic vision for consumer finance wherein our AI agents automate critical roles, enhance operations, and drive revenue. \r\n\r\nHeadquartered in Mountain View, California, Prodigal's global team combines deep expertise in financial services, AI research, and product innovation, driving efficiency and transformative results across the consumer finance landscape.",
+    "founders": [
+      {
+        "name": "Shantanu Gangal",
+        "title": "Founder",
+        "bio": null,
+        "linkedin_url": "https://www.linkedin.com/in/shantanugangal"
+      },
+      {
+        "name": "Sangram Raje",
+        "title": "Founder",
+        "bio": null,
+        "linkedin_url": "https://www.linkedin.com/in/sangramraje"
+      }
+    ],
+    "team_size": 99,
+    "batch": "Summer 2018",
+    "location": "San Francisco, CA, USA",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Consumer Finance",
+      "AI"
+    ],
+    "signals": [
+      {
+        "kind": "yc_batch",
+        "description": "Y Combinator Summer 2018 batch",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/prodigal",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "yc_hiring",
+        "description": "Actively hiring (YC listing) — a capital/momentum proxy",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/prodigal",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "recent_launch",
+        "description": "Launched 2018-05-08",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/prodigal",
+        "observed_at": "2018-05-08T02:05:54Z",
+        "metadata": {
+          "launched_at": 1525745154
+        }
+      }
+    ],
+    "discovery": {
+      "source": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies/prodigal"
+    }
+  },
+  "score": {
+    "total": 56,
+    "components": [
+      {
+        "name": "AI centrality",
+        "points": 20.0,
+        "max_points": 20.0,
+        "reason": "Positions as AI/agent-native (AI tag + agent language)."
+      },
+      {
+        "name": "Workflow ownership",
+        "points": 24.0,
+        "max_points": 30.0,
+        "reason": "Owns a workflow: automate, operations, run."
+      },
+      {
+        "name": "Autonomy",
+        "points": 0.0,
+        "max_points": 15.0,
+        "reason": "No explicit autonomy language (may still be autonomous — see analysis)."
+      },
+      {
+        "name": "Freshness",
+        "points": 4.0,
+        "max_points": 15.0,
+        "reason": "Recent launch (launched over 15 months ago, 2018-05-08)."
+      },
+      {
+        "name": "Momentum",
+        "points": 6.0,
+        "max_points": 10.0,
+        "reason": "Actively hiring per YC listing (has capital and is scaling)."
+      },
+      {
+        "name": "Team",
+        "points": 2.0,
+        "max_points": 10.0,
+        "reason": "2 founder(s) — Shantanu Gangal, Sangram Raje. bios available, no standout markers."
+      }
+    ],
+    "thesis": "AI-native autonomous agents owning high-value business workflows"
+  },
+  "analysis": {
+    "team": "Two founders, Shantanu Gangal and Sangram Raje, both listed simply as \"Founder\" with LinkedIn profiles available but no roles, prior companies, or technical background stated in the sources. The company's own description claims the broader team combines expertise in financial services, AI research, and product innovation, but no specifics on the founders' individual track records are provided. Team size is now 99, indicating meaningful scaling since founding.",
+    "product": "Prodigal builds AI agents and apps for loan servicing and collections in consumer finance. The stated goal is to help lending teams improve margins, run leaner operations, and maximize payments, with an explicit \"Agentic vision\" in which AI agents automate critical roles, enhance operations, and drive revenue.",
+    "market": "The company targets consumer finance / credit and lending, tagged Fintech, SaaS, and AI. No market size, customer count, revenue, or named competitors are provided in the sources, so the size and competitive intensity of the loan-servicing and collections software market are unknown. The why-now is implied by the shift toward \"agentic\" AI automating finance roles, but the sources give no quantitative demand or adoption evidence to substantiate timing.",
+    "risks": [
+      "Autonomy is unclear: the product is described as \"AI agents\" but the sources give no evidence of how autonomously they actually operate versus assisting human teams, which is central to the thesis.",
+      "Collections and loan servicing are heavily regulated (consumer finance); compliance and legal exposure around automated debtor contact could constrain product scope, though the sources say nothing about how this is handled.",
+      "No market sizing, customer, revenue, or competitive data is provided, making it impossible to assess traction or defensibility from the sources.",
+      "Founder backgrounds are opaque — no prior experience, technical depth, or domain credibility is documented in the sources."
+    ],
+    "what_would_change_our_mind": [
+      "Evidence that the AI agents operate autonomously end-to-end on loan servicing/collections workflows rather than as human-assist tools.",
+      "Concrete traction data — named lenders as customers, revenue, or payment-volume outcomes — that the sources currently lack.",
+      "Founder or team track record demonstrating deep fintech or AI-research credibility beyond the general claim in the company description."
+    ],
+    "recommendation_rationale": "Prodigal scores 56 (Watch): it is strongly AI-/agent-native and clearly owns a high-value workflow (loan servicing and collections), which aligns tightly with the thesis. However, the scoring flags no explicit autonomy language, a launch over 15 months (now years) old with limited freshness, and thin founder signal. Until autonomy depth and traction are verifiable, it merits monitoring rather than an active pursuit.",
+    "citations": [
+      {
+        "claim": "Prodigal builds AI agents for loan servicing and collections",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "AI agents and apps help teams improve margins, run leaner operations, and maximize payments",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "Company states an \"Agentic vision\" wherein AI agents automate critical roles, enhance operations, and drive revenue",
+        "source": "YC long description",
+        "url": null
+      },
+      {
+        "claim": "Founders are Shantanu Gangal and Sangram Raje, both listed as Founder with LinkedIn profiles",
+        "source": "YC profile (Founders section)",
+        "url": "https://www.ycombinator.com/companies/prodigal"
+      },
+      {
+        "claim": "Team size is 99",
+        "source": "YC profile",
+        "url": "https://www.ycombinator.com/companies/prodigal"
+      },
+      {
+        "claim": "Tagged Fintech, Credit and Lending, SaaS, Consumer Finance, and AI",
+        "source": "YC profile (Industries/tags)",
+        "url": "https://www.ycombinator.com/companies/prodigal"
+      },
+      {
+        "claim": "Y Combinator Summer 2018 batch",
+        "source": "Y Combinator",
+        "url": null
+      },
+      {
+        "claim": "Actively hiring per YC listing",
+        "source": "Y Combinator",
+        "url": null
+      },
+      {
+        "claim": "Launched 2018-05-08",
+        "source": "Y Combinator",
+        "url": null
+      }
+    ]
+  },
+  "recommendation": "Watch"
+}

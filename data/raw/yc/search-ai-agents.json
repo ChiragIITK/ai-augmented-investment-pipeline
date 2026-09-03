@@ -1,0 +1,2172 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "id": 33283,
+          "name": "Locke",
+          "slug": "locke",
+          "former_names": [
+            "Overton",
+            "Justinian"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef45315b5a753af3ca5decc639d785a08eb897be.png",
+          "website": "https://locke.inc",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Locke builds AI agents that help companies and governments work together.\r\n\r\nOur agents power Locke Government Affairs, the first AI-native government affairs firm, and are being deployed to government agencies across America.\r\n\r\nEvery consequential American company in the 21st century will need to work with the government: AI labs, data centers, healthcare, defense, robotics, the list goes on. Locke is building the AI infrastructure to power the next era of public-private collaboration.\r\n\r\nLocke's team comes from The White House, Deloitte, the US Congress, and the Pentagon.",
+          "one_liner": "AI agents that help companies and governments work together.",
+          "team_size": 2,
+          "industry": "B2B",
+          "subindustry": "B2B",
+          "launched_at": 1783293519,
+          "tags": [
+            "GovTech",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2026",
+          "status": "Active",
+          "industries": [
+            "B2B"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "33283",
+          "_highlightResult": {
+            "name": {
+              "value": "Locke",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Overton",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Justinian",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://locke.inc",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Locke builds <em>AI</em> <em>agents</em> that help companies and governments work together.\r\n\r\nOur <em>agents</em> power Locke Government Affairs, the first <em>AI</em>-native government affairs firm, and are being deployed to government agencies across America.\r\n\r\nEvery consequential American company in the 21st century will need to work with the government: <em>AI</em> labs, data centers, healthcare, defense, robotics, the list goes on. Locke is building the <em>AI</em> infrastructure to power the next era of public-private collaboration.\r\n\r\nLocke's team comes from The White House, Deloitte, the US Congress, and the Pentagon.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> that help companies and governments work together.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "GovTech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 33178,
+          "name": "TovenAI",
+          "slug": "tovenai",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b832a1e965bc59dfbc18a9817802870d7264332.png",
+          "website": "https://toven.ai",
+          "all_locations": "New York City, NY, USA",
+          "long_description": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+          "one_liner": "AI agents for compliance at institutional trading firms",
+          "team_size": 2,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Banking and Exchange",
+          "launched_at": 1786560317,
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Compliance",
+            "Regtech"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Summer 2026",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Banking and Exchange"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "33178",
+          "_highlightResult": {
+            "name": {
+              "value": "TovenAI",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://toven.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "New York City, NY, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "TovenAI builds a platform of <em>AI</em> <em>agents</em> that handle manual, data-intensive work for compliance teams at institutional trading firms, with six <em>agents</em> currently live. Our customers range from specialist firms to large global institutions, with our <em>agents</em> supporting multiple compliance workflows at a top-10 institutional brokerage.\r\n\r\nWith prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for compliance at institutional trading firms",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Compliance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Regtech",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Banking and Exchange",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 33021,
+          "name": "Care GP",
+          "slug": "care-gp",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f871fa8c32b501e71ef06d881893d564e003fbd.png",
+          "website": "https://caregp.com.au/",
+          "all_locations": "Sydney, NSW, Australia",
+          "long_description": "Care GP is building AI agents to run operations for primary healthcare clinics",
+          "one_liner": "AI agents to run primary healthcare operations",
+          "team_size": 10,
+          "industry": "Healthcare",
+          "subindustry": "Healthcare",
+          "launched_at": 1780569041,
+          "tags": [
+            "SaaS",
+            "Healthcare",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Summer 2026",
+          "status": "Active",
+          "industries": [
+            "Healthcare"
+          ],
+          "regions": [
+            "Australia",
+            "Oceania"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "33021",
+          "_highlightResult": {
+            "name": {
+              "value": "Care GP",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://caregp.com.au/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "Sydney, NSW, Australia",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Care GP is building <em>AI</em> <em>agents</em> to run operations for primary healthcare clinics",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> to run primary healthcare operations",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "SaaS",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Healthcare",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "Healthcare",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31428,
+          "name": "Ontora",
+          "slug": "ontora",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51ba58b94e0a45c3a3cc270067fe72dcf1f9027e.png",
+          "website": "https://ontora.com",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Ontora is an AI Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.\r\n\r\n",
+          "one_liner": "AI agents that interviews every employee to hand context to AI tools. ",
+          "team_size": 3,
+          "industry": "B2B",
+          "subindustry": "B2B -> Operations",
+          "launched_at": 1773487694,
+          "tags": [
+            "Robotic Process Automation",
+            "Enterprise",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Spring 2026",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Operations"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": true,
+          "objectID": "31428",
+          "_highlightResult": {
+            "name": {
+              "value": "Ontora",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://ontora.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Ontora is an <em>AI</em> Agent that interviews every employee to map how work actually gets done and identify bottlenecks. Consultants spend months doing this manually; Ontora does it in hours.\r\n\r\n",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> that interviews every employee to hand context to <em>AI</em> tools. ",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Robotic Process Automation",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Enterprise",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Operations",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31373,
+          "name": "Atrisa",
+          "slug": "atrisa",
+          "former_names": [
+            "RefortifAI",
+            "Refortifai",
+            "Atrisa (formerly Refortifai)"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4617548496dbefec602196f4a8fd1a7cc44bc632.png",
+          "website": "https://atrisa.ai",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "AI Agents to build, debug and automate analog circuit design",
+          "one_liner": "AI Agents for Analog Circuit Design",
+          "team_size": 3,
+          "industry": "B2B",
+          "subindustry": "B2B -> Engineering, Product and Design",
+          "launched_at": 1774743443,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Spring 2026",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31373",
+          "_highlightResult": {
+            "name": {
+              "value": "Atrisa",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "RefortifAI",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Refortifai",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Atrisa (formerly Refortifai)",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://atrisa.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "<em>AI</em> <em>Agents</em> to build, debug and automate analog circuit design",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>Agents</em> for Analog Circuit Design",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Engineering, Product and Design",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31247,
+          "name": "Fed10",
+          "slug": "fed10",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed78fd7caa59335d26e6924d7cd9e597c6f6f2a8.png",
+          "website": "https://www.fed10.ai",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
+          "one_liner": "AI Agents for Government Affairs",
+          "team_size": 3,
+          "industry": "B2B",
+          "subindustry": "B2B -> Legal",
+          "launched_at": 1768118288,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Legal"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31247",
+          "_highlightResult": {
+            "name": {
+              "value": "Fed10",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.fed10.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Fed10 is a legislative consulting firm staffed by <em>AI</em> <em>agents</em>. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>Agents</em> for Government Affairs",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Legal",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31245,
+          "name": "Squid",
+          "slug": "squid",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93fe1704e4703d232c51eb59b83175a7dcf288f7.png",
+          "website": "https://squid.energy",
+          "all_locations": "London, England, United Kingdom",
+          "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
+          "one_liner": "AI agents for power grid planning  🦑 ",
+          "team_size": 3,
+          "industry": "Industrials",
+          "subindustry": "Industrials -> Energy",
+          "launched_at": 1768422882,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "Industrials",
+            "Energy"
+          ],
+          "regions": [
+            "United Kingdom",
+            "Europe"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31245",
+          "_highlightResult": {
+            "name": {
+              "value": "Squid",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://squid.energy",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "London, England, United Kingdom",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is <em>AI</em> powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for power grid planning  🦑 ",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "Industrials",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Energy",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31201,
+          "name": "Robby",
+          "slug": "robby",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d0e4c250082b6d92fda2c96cf3af7a535c03a5.png",
+          "website": "https://tryrobby.com",
+          "all_locations": "New York City, NY, USA",
+          "long_description": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour.\r\n\r\nOur team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves.\r\n\r\nVineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+          "one_liner": "AI agents that grow revenue for home services businesses",
+          "team_size": 3,
+          "industry": "B2B",
+          "subindustry": "B2B -> Productivity",
+          "launched_at": 1770411161,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Productivity"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31201",
+          "_highlightResult": {
+            "name": {
+              "value": "Robby",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://tryrobby.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "New York City, NY, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Robby is an <em>AI</em> growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our <em>AI</em> combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour.\r\n\r\nOur team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves.\r\n\r\nVineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> that grow revenue for home services businesses",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Productivity",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31187,
+          "name": "Fenrock AI",
+          "slug": "fenrock-ai",
+          "former_names": [
+            "new co",
+            "Fenrock.AI",
+            "Fenrock AI",
+            "Fenrock AI (YC W26)"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
+          "website": "https://fenrock.ai/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "We're building the Legora for traditional financial services, working closely with US bank CEOs to transform their businesses.",
+          "one_liner": "AI agents for banks",
+          "team_size": 2,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Banking and Exchange",
+          "launched_at": 1769406704,
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Banking and Exchange"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31187",
+          "_highlightResult": {
+            "name": {
+              "value": "Fenrock <em>AI</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "former_names": [
+              {
+                "value": "new co",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Fenrock.<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Fenrock <em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Fenrock <em>AI</em> (YC W26)",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "website": {
+              "value": "https://fenrock.<em>ai</em>/",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "We're building the Legora for traditional financial services, working closely with US bank CEOs to transform their businesses.",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for banks",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Banking and Exchange",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31166,
+          "name": "Unisson",
+          "slug": "unisson",
+          "former_names": [
+            "InUnison",
+            "Unisson",
+            "unisson"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
+          "website": "https://www.unisson.ai",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours. ",
+          "one_liner": "AI agents that automate B2B software implementation",
+          "team_size": 2,
+          "industry": "B2B",
+          "subindustry": "B2B -> Productivity",
+          "launched_at": 1770359134,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Productivity"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31166",
+          "_highlightResult": {
+            "name": {
+              "value": "Unisson",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "InUnison",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Unisson",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "unisson",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://www.unisson.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Unisson is building trusted <em>AI</em> subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our <em>agents</em> learn to use any product and can be used by teams in Slack, text, or email. Our <em>agents</em> gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an <em>AI</em> SME, allowing them to scale and save thousands of hours. ",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> that automate B2B software implementation",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Productivity",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31089,
+          "name": "Lance",
+          "slug": "lance",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png",
+          "website": "https://www.lance.live",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Autonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
+          "one_liner": "AI Agents That Run Hotel Operations.",
+          "team_size": 10,
+          "industry": "B2B",
+          "subindustry": "B2B",
+          "launched_at": 1768895498,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "B2B"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31089",
+          "_highlightResult": {
+            "name": {
+              "value": "Lance",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.lance.live",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Autonomous <em>AI</em> <em>agents</em> that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance <em>agents</em> can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>Agents</em> That Run Hotel Operations.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31048,
+          "name": "FullSeam",
+          "slug": "fullseam",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
+          "website": "https://fullseam.com",
+          "all_locations": "",
+          "long_description": "FullSeam builds agents for corporate accounting. Our agents replace manual accounting tasks that typically happen outside of our customers’ accounting software, like accounts payable, accounts receivable, and reconciliation.",
+          "one_liner": "AI agents for corporate accounting teams",
+          "team_size": 3,
+          "industry": "B2B",
+          "subindustry": "B2B -> Finance and Accounting",
+          "launched_at": 1769713322,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2026",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Finance and Accounting"
+          ],
+          "regions": [
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31048",
+          "_highlightResult": {
+            "name": {
+              "value": "FullSeam",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://fullseam.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "FullSeam builds <em>agents</em> for corporate accounting. Our <em>agents</em> replace manual accounting tasks that typically happen outside of our customers’ accounting software, like accounts payable, accounts receivable, and reconciliation.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for corporate accounting teams",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Finance and Accounting",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 31002,
+          "name": "Clicks Health",
+          "slug": "clicks-health",
+          "former_names": [
+            "Clicks"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
+          "website": "https://www.goclicks.ai/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Clicks Health builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
+          "one_liner": "AI agents for your healthcare back-office operations.",
+          "team_size": 8,
+          "industry": "B2B",
+          "subindustry": "B2B -> Productivity",
+          "launched_at": 1759173987,
+          "tags": [
+            "Artificial Intelligence",
+            "Health Tech",
+            "Healthcare",
+            "Health Insurance"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Fall 2025",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Productivity"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "31002",
+          "_highlightResult": {
+            "name": {
+              "value": "Clicks Health",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Clicks",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://www.goclicks.<em>ai</em>/",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Clicks Health builds <em>AI</em> <em>agents</em> that automate back-office operations for RCM companies and healthcare providers. Our <em>agents</em> work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for your healthcare back-office operations.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Health Tech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Healthcare",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Health Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Productivity",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30982,
+          "name": "Boom AI",
+          "slug": "boom-ai",
+          "former_names": [
+            "BOOM"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e240d7b6e048d06c397f1f72707e3cd4fc0ad63d.png",
+          "website": "https://useboom.ai",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Boom reaches out to your customers before you lose them.\r\n\r\nWe run proactive outbound conversations at scale: recovering churned users, re-engaging drop-offs, and protecting revenue you thought was gone. AI agents hold real conversations with your customers over SMS, email, WhatsApp, or phone, in their language, on the channel they actually answer.\r\n\r\nEvery month, companies lose 5-15% of revenue to churn, and more walks out through abandoned signups and failed onboarding. The tools built to fix this don't work. Win-back emails get ignored. Cancel flows only catch people at the door. Hiring humans doesn't scale. Boom does the one thing that works: a real conversation. 1,000x the reach of manual outreach, and the customer can reply.",
+          "one_liner": "AI agents that recover lost revenue through real conversations.",
+          "team_size": 3,
+          "industry": "B2B",
+          "subindustry": "B2B",
+          "launched_at": 1760834768,
+          "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "E-commerce",
+            "SMB",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Fall 2025",
+          "status": "Active",
+          "industries": [
+            "B2B"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30982",
+          "_highlightResult": {
+            "name": {
+              "value": "Boom <em>AI</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "former_names": [
+              {
+                "value": "BOOM",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://useboom.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Boom reaches out to your customers before you lose them.\r\n\r\nWe run proactive outbound conversations at scale: recovering churned users, re-engaging drop-offs, and protecting revenue you thought was gone. <em>AI</em> <em>agents</em> hold real conversations with your customers over SMS, email, WhatsApp, or phone, in their language, on the channel they actually answer.\r\n\r\nEvery month, companies lose 5-15% of revenue to churn, and more walks out through abandoned signups and failed onboarding. The tools built to fix this don't work. Win-back emails get ignored. Cancel flows only catch people at the door. Hiring humans doesn't scale. Boom does the one thing that works: a real conversation. 1,000x the reach of manual outreach, and the customer can reply.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> that recover lost revenue through real conversations.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "E-commerce",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "SMB",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30903,
+          "name": "Kestrel AI",
+          "slug": "kestrel-ai",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
+          "website": "https://usekestrel.ai/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Kestrel is the AI automation layer for platform engineering teams.\r\n\r\nPlatform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack.\r\n\r\nKestrel turns natural-language prompts into deterministic, production-ready workflows with 40+ integrations, 200+ pre-built actions, and support for custom HTTP and webhook actions.\r\n\r\nDeveloper-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
+          "one_liner": "AI Agents for Platform Engineering",
+          "team_size": 2,
+          "industry": "B2B",
+          "subindustry": "B2B -> Security",
+          "launched_at": 1761187283,
+          "tags": [
+            "AIOps",
+            "Developer Tools",
+            "DevOps",
+            "Infrastructure"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Fall 2025",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Security"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30903",
+          "_highlightResult": {
+            "name": {
+              "value": "Kestrel <em>AI</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "website": {
+              "value": "https://usekestrel.<em>ai</em>/",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Kestrel is the <em>AI</em> automation layer for platform engineering teams.\r\n\r\nPlatform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack.\r\n\r\nKestrel turns natural-language prompts into deterministic, production-ready workflows with 40+ integrations, 200+ pre-built actions, and support for custom HTTP and webhook actions.\r\n\r\nDeveloper-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>Agents</em> for Platform Engineering",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "AIOps",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Developer Tools",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "DevOps",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Infrastructure",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Security",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30873,
+          "name": "Tell if AI",
+          "slug": "tell-if-ai",
+          "former_names": [
+            "Pando Technologies",
+            "Tellif",
+            "Tellif AI",
+            "Tell if AI",
+            "Land.dev"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da77fda94e244c20522deac6fb0556be091b2804.png",
+          "website": "https://tellif.ai",
+          "all_locations": "Austin, TX, USA",
+          "long_description": "An AI-run performance marketing agency. We deploy autonomous agents on a fleet of real mobile phones that create, post, and grow content across YouTube, TikTok, Instagram, X, Reddit and more operating hundreds of accounts in parallel, indistinguishable from human creators. Brands hire us the way they'd hire a growth agency, but instead of a team of marketers we run the entire pipeline autonomously: ideation, video production, posting, engagement, and audience building. We get paid on revenue share, so our incentives are aligned with our partners' growth. Our first partnership is revenue sharing with a telehealth clinic, where we're driving patient acquisition across dozens of channels we built and operate end-to-end.",
+          "one_liner": "AI agents on real phones, growing brands across every platform.",
+          "team_size": 2,
+          "industry": "B2B",
+          "subindustry": "B2B -> Marketing",
+          "launched_at": 1760060442,
+          "tags": [
+            "Artificial Intelligence",
+            "Telehealth",
+            "Social Media",
+            "Marketing",
+            "Advertising"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Fall 2025",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Marketing"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30873",
+          "_highlightResult": {
+            "name": {
+              "value": "Tell if <em>AI</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "former_names": [
+              {
+                "value": "Pando Technologies",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Tellif",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Tellif <em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Tell if <em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": false,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Land.dev",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://tellif.<em>ai</em>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "Austin, TX, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "An <em>AI</em>-run performance marketing agency. We deploy autonomous <em>agents</em> on a fleet of real mobile phones that create, post, and grow content across YouTube, TikTok, Instagram, X, Reddit and more operating hundreds of accounts in parallel, indistinguishable from human creators. Brands hire us the way they'd hire a growth agency, but instead of a team of marketers we run the entire pipeline autonomously: ideation, video production, posting, engagement, and audience building. We get paid on revenue share, so our incentives are aligned with our partners' growth. Our first partnership is revenue sharing with a telehealth clinic, where we're driving patient acquisition across dozens of channels we built and operate end-to-end.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> on real phones, growing brands across every platform.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Telehealth",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Social Media",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Marketing",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Advertising",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Marketing",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30858,
+          "name": "Deeptrace",
+          "slug": "deeptrace",
+          "former_names": [
+            "Pyda"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ff25b7c4b471648245dcc565a8d35be62b42ef0.png",
+          "website": "https://deeptrace.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "At Deeptrace, we’re building AI agents that investigate and resolve production alerts end-to-end. Deeptrace cuts through the noise, pinpoints root causes instantly, and gives engineering teams back what they need most: the freedom to build instead of firefighting.\r\n\r\nIn production, we're already seeing a reduction in time spent triaging, investigating, and resolving alerts with some of the fastest growing companies in the world.",
+          "one_liner": "AI agents for on-call",
+          "team_size": 4,
+          "industry": "B2B",
+          "subindustry": "B2B",
+          "launched_at": 1759160221,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Fall 2025",
+          "status": "Active",
+          "industries": [
+            "B2B"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30858",
+          "_highlightResult": {
+            "name": {
+              "value": "Deeptrace",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Pyda",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://deeptrace.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "At Deeptrace, we’re building <em>AI</em> <em>agents</em> that investigate and resolve production alerts end-to-end. Deeptrace cuts through the noise, pinpoints root causes instantly, and gives engineering teams back what they need most: the freedom to build instead of firefighting.\r\n\r\nIn production, we're already seeing a reduction in time spent triaging, investigating, and resolving alerts with some of the fastest growing companies in the world.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for on-call",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30849,
+          "name": "MOVEdot",
+          "slug": "movedot",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff366b5cf4ba792d472cf1af716e033566ff24ff.png",
+          "website": "https://www.movedot.ai/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Our agents run hardware engineering tasks that normally take hours or days in just a few minutes, allowing engineers to process 100x more data and information. Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards.",
+          "one_liner": "AI Agents for Hardware Engineering",
+          "team_size": 10,
+          "industry": "B2B",
+          "subindustry": "B2B -> Engineering, Product and Design",
+          "launched_at": 1759431340,
+          "tags": [
+            "Hardware",
+            "Manufacturing",
+            "AI",
+            "Automotive",
+            "Industrial"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Fall 2025",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Engineering, Product and Design"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30849",
+          "_highlightResult": {
+            "name": {
+              "value": "MOVEdot",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.movedot.<em>ai</em>/",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai"
+              ]
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Our <em>agents</em> run hardware engineering tasks that normally take hours or days in just a few minutes, allowing engineers to process 100x more data and information. Our platform allows hardware engineers to orchestrate <em>agents</em> for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards.",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>Agents</em> for Hardware Engineering",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Hardware",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Manufacturing",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              },
+              {
+                "value": "Automotive",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Industrial",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Engineering, Product and Design",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30799,
+          "name": "Avent",
+          "slug": "avent",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1db65d6a1bb5d7e7c777ac05121880f5ead05061.png",
+          "website": "https://www.aventindustrial.com",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
+          "one_liner": "AI agents for industrial commerce",
+          "team_size": 5,
+          "industry": "B2B",
+          "subindustry": "B2B",
+          "launched_at": 1755109512,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2025",
+          "status": "Active",
+          "industries": [
+            "B2B"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30799",
+          "_highlightResult": {
+            "name": {
+              "value": "Avent",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.aventindustrial.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur <em>AI</em> <em>agents</em> manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for industrial commerce",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30797,
+          "name": "Veritus",
+          "slug": "veritus",
+          "former_names": [
+            "Veritus Agent"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a784e9084818b8c7af26cd462448e7fd4415c18b.png",
+          "website": "https://www.veritus.com",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+          "one_liner": "AI agents for the consumer lending industry",
+          "team_size": 10,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Credit and Lending",
+          "launched_at": 1753735109,
+          "tags": [
+            "Fintech",
+            "Lending",
+            "AI"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Summer 2025",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Credit and Lending"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada",
+            "Remote",
+            "Partly Remote"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30797",
+          "_highlightResult": {
+            "name": {
+              "value": "Veritus",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Veritus Agent",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://www.veritus.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Veritus is a omni-channel platform for deploying <em>AI</em> <em>agents</em> for loan servicing and collections, including inbound and outbound voice <em>agents</em>. Our <em>agents</em> negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice <em>AI</em> with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "one_liner": {
+              "value": "<em>AI</em> <em>agents</em> for the consumer lending industry",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": [
+                "ai",
+                "agents"
+              ]
+            },
+            "tags": [
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Lending",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "<em>AI</em>",
+                "matchLevel": "partial",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                  "ai"
+                ]
+              }
+            ],
+            "industries": [
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Credit and Lending",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        }
+      ],
+      "nbHits": 969,
+      "page": 0,
+      "nbPages": 49,
+      "hitsPerPage": 20,
+      "exhaustiveNbHits": true,
+      "exhaustiveTypo": true,
+      "exhaustive": {
+        "nbHits": true,
+        "typo": true
+      },
+      "query": "AI agents",
+      "params": "query=AI+agents&hitsPerPage=20&analyticsTags=ycdc&restrictIndices=YCCompany_production%2CYCCompany_By_Launch_Date_production&tagFilters=%5B%22ycdc_public%22%5D",
+      "index": "YCCompany_production",
+      "renderingContent": {},
+      "extensions": {
+        "queryCategorization": {}
+      },
+      "processingTimeMS": 3,
+      "processingTimingsMS": {
+        "_request": {
+          "roundTrip": 175
+        },
+        "afterFetch": {
+          "format": {
+            "total": 1
+          }
+        },
+        "extensions": 1,
+        "fetch": {
+          "total": 1
+        },
+        "total": 3
+      },
+      "serverTimeMS": 5
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=basepilot.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 10,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "fetch": {
+      "query": 9,
+      "total": 10
+    },
+    "total": 10
+  },
+  "query": "basepilot.com",
+  "serverTimeMS": 11
+}

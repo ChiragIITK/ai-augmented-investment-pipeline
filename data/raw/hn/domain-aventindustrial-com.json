@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=aventindustrial.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 8,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 1,
+      "roundTrip": 13
+    },
+    "fetch": {
+      "query": 6,
+      "total": 7
+    },
+    "total": 8
+  },
+  "query": "aventindustrial.com",
+  "serverTimeMS": 9
+}

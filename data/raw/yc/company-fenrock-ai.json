@@ -1,0 +1,18 @@
+{
+  "name": "Fenrock AI",
+  "year_founded": 2026,
+  "founders": [
+    {
+      "full_name": "Charu Sharma",
+      "title": "Founder/CEO",
+      "founder_bio": "We're building specialized AI agents for banks to 10x back office functions.\n\nI previously founded and scaled 2 VC-backed companies to millions of users, hundreds of employees, and tens of millions raised from top-tier VCs, including General Catalyst's Hemant Taneja.\n\nFun fact: Fought goons in a train robbery in Mumbai and got the National Bravery Award from the Indian Prime Minister & President.",
+      "linkedin_url": "https://www.linkedin.com/in/charusharma1/"
+    },
+    {
+      "full_name": "Michael M",
+      "title": "Founder/CTO",
+      "founder_bio": "We're building specialized AI agents for banks to 10x back office functions.\n\nI previously spent 10 years building cutting-edge ML at Google and Apple for billions of users. I invented ways to train ML models without exposing private data, built Apple's first privacy-preserving ML at scale, and designed ML that helped a startup go public.",
+      "linkedin_url": "https://www.linkedin.com/in/fiveseventyeleven/"
+    }
+  ]
+}

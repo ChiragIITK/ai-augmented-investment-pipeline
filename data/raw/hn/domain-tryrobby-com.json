@@ -1,0 +1,331 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cstrnt"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Open-Source TypeSafe Feature Flags for Next.js"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "tryrobby",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>tryabby.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cstrnt",
+        "story_37953982",
+        "show_hn"
+      ],
+      "author": "cstrnt",
+      "created_at": "2023-10-20T09:29:23Z",
+      "created_at_i": 1697794163,
+      "num_comments": 0,
+      "objectID": "37953982",
+      "points": 2,
+      "story_id": 37953982,
+      "title": "Show HN: Open-Source TypeSafe Feature Flags for Next.js",
+      "updated_at": "2024-09-20T15:26:10Z",
+      "url": "https://www.tryabby.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cstrnt"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Hey Hackernews,<p>my name is Tim and I've built a solution for Feature Flags &amp; Remote Config for Next.js (and other JS/TS Frameworks).<p>My goal was to built a solution which satisfies the needs of modern development teams in the JS world: amazing type safety and awesome DX.<p>Abby ticks those boxes by having static types (no generation step needed) and devtools which allow you to easily debug your feature flags during development (and production if you're feeling funky).<p>Would love to hear about your experience with feature flags &amp; existing solutions you've used so far. Especially with Next.js.<p>Cheers\nTim"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Open-Source TypeSafe Feature Flags for Next.js"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "tryrobby",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>tryabby.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cstrnt",
+        "story_37854662",
+        "show_hn"
+      ],
+      "author": "cstrnt",
+      "created_at": "2023-10-12T08:09:44Z",
+      "created_at_i": 1697098184,
+      "num_comments": 0,
+      "objectID": "37854662",
+      "points": 2,
+      "story_id": 37854662,
+      "story_text": "Hey Hackernews,<p>my name is Tim and I&#x27;ve built a solution for Feature Flags &amp; Remote Config for Next.js (and other JS&#x2F;TS Frameworks).<p>My goal was to built a solution which satisfies the needs of modern development teams in the JS world: amazing type safety and awesome DX.<p>Abby ticks those boxes by having static types (no generation step needed) and devtools which allow you to easily debug your feature flags during development (and production if you&#x27;re feeling funky).<p>Would love to hear about your experience with feature flags &amp; existing solutions you&#x27;ve used so far. Especially with Next.js.<p>Cheers\nTim",
+      "title": "Show HN: Open-Source TypeSafe Feature Flags for Next.js",
+      "updated_at": "2024-09-20T15:25:16Z",
+      "url": "https://www.tryabby.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "nilofer99"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Hi, Fellow researcher from Yale, I was frustrated with Overleaf and google docs not able to write and collaborate on documents the way I wanted to. I write my research in Latex but since Cursor came out, I thought this has to change, I'm wasting too much time and having mental fog all the time, kinda going through writer's block and hence I decided to create this latex writing assistant for myself but now used by a ton of researchers, I wanted your feedback, what you like, what you don't like, alternatives you've seen, what you would like to have, nice to have, you'd definitely pay to have, etc. This would genuinely help researchers write papers faster and save more time to do actual research. Would love your thoughts"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Vibe code your scientific papers with an assistant I built(open source)"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "tryrobby",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>trybibby.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_nilofer99",
+        "story_47214315",
+        "show_hn"
+      ],
+      "author": "nilofer99",
+      "children": [
+        47214383
+      ],
+      "created_at": "2026-03-02T05:51:34Z",
+      "created_at_i": 1772430694,
+      "num_comments": 1,
+      "objectID": "47214315",
+      "points": 1,
+      "story_id": 47214315,
+      "story_text": "Hi, Fellow researcher from Yale, I was frustrated with Overleaf and google docs not able to write and collaborate on documents the way I wanted to. I write my research in Latex but since Cursor came out, I thought this has to change, I&#x27;m wasting too much time and having mental fog all the time, kinda going through writer&#x27;s block and hence I decided to create this latex writing assistant for myself but now used by a ton of researchers, I wanted your feedback, what you like, what you don&#x27;t like, alternatives you&#x27;ve seen, what you would like to have, nice to have, you&#x27;d definitely pay to have, etc. This would genuinely help researchers write papers faster and save more time to do actual research. Would love your thoughts",
+      "title": "Show HN: Vibe code your scientific papers with an assistant I built(open source)",
+      "updated_at": "2026-03-05T23:39:30Z",
+      "url": "https://trybibby.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "nilofer99"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "OpenClaw for Research Writing"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "tryrobby",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>trybibby.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_nilofer99",
+        "story_47435492"
+      ],
+      "author": "nilofer99",
+      "children": [
+        47435493
+      ],
+      "created_at": "2026-03-19T05:59:52Z",
+      "created_at_i": 1773899992,
+      "num_comments": 0,
+      "objectID": "47435492",
+      "points": 1,
+      "story_id": 47435492,
+      "title": "OpenClaw for Research Writing",
+      "updated_at": "2026-03-19T06:02:18Z",
+      "url": "https://trybibby.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cstrnt"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Feature Flags in Next.js (2023)"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "tryrobby",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>tryabby.com</em>/tips-and-insights/feature-flags-next"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cstrnt",
+        "story_38023220"
+      ],
+      "author": "cstrnt",
+      "created_at": "2023-10-26T08:40:12Z",
+      "created_at_i": 1698309612,
+      "num_comments": 0,
+      "objectID": "38023220",
+      "points": 1,
+      "story_id": 38023220,
+      "title": "Feature Flags in Next.js (2023)",
+      "updated_at": "2024-09-20T15:25:46Z",
+      "url": "https://www.tryabby.com/tips-and-insights/feature-flags-next"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cstrnt"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Open-Source Feature Flags and Remote Config for Next.js"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "tryrobby",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>tryabby.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cstrnt",
+        "story_37775309",
+        "show_hn"
+      ],
+      "author": "cstrnt",
+      "created_at": "2023-10-05T05:54:24Z",
+      "created_at_i": 1696485264,
+      "num_comments": 0,
+      "objectID": "37775309",
+      "points": 1,
+      "story_id": 37775309,
+      "title": "Show HN: Open-Source Feature Flags and Remote Config for Next.js",
+      "updated_at": "2024-09-20T15:18:42Z",
+      "url": "https://www.tryabby.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "cstrnt"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Feature Flags and Remote Config with TypeScript"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "tryrobby",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>tryabby.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_cstrnt",
+        "story_37764321",
+        "show_hn"
+      ],
+      "author": "cstrnt",
+      "created_at": "2023-10-04T12:48:43Z",
+      "created_at_i": 1696423723,
+      "num_comments": 0,
+      "objectID": "37764321",
+      "points": 1,
+      "story_id": 37764321,
+      "title": "Show HN: Feature Flags and Remote Config with TypeScript",
+      "updated_at": "2024-09-20T15:17:31Z",
+      "url": "https://www.tryabby.com/"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 7,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=tryrobby.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 28,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "afterFetch": {
+      "merge": {
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 8,
+      "scanning": 17,
+      "total": 26
+    },
+    "total": 28
+  },
+  "query": "tryrobby.com",
+  "serverTimeMS": 29
+}

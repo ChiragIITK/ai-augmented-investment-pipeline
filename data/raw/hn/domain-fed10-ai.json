@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=fed10.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 16,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 6,
+      "scanning": 8,
+      "total": 15
+    },
+    "total": 16
+  },
+  "query": "fed10.ai",
+  "serverTimeMS": 16
+}

@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=pasito.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 20,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 16
+    },
+    "fetch": {
+      "query": 8,
+      "scanning": 10,
+      "total": 19
+    },
+    "total": 20
+  },
+  "query": "pasito.ai",
+  "serverTimeMS": 20
+}

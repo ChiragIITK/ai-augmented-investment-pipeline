@@ -1,0 +1,24 @@
+{
+  "name": "Accend",
+  "year_founded": 2023,
+  "founders": [
+    {
+      "full_name": "Pranjal Daga",
+      "title": "Founder",
+      "founder_bio": "Currently, Cofounder of Accend. Previously, I led Product for AI initiatives, particularly in Risk at Brex. Before that, I dropped out of my PhD in AI/ML at Purdue University to help set up Cisco Innovation Labs where I grew the team from 1 to 35 in 4 years.  ",
+      "linkedin_url": "https://linkedin.com/in/pranjaldaga"
+    },
+    {
+      "full_name": "Yutong Pei",
+      "title": "Founder",
+      "founder_bio": "Yutong Pei was most recently the Engineering Manager on the Fraud Risk team at Brex where he built the Disputes service, worked on fraud controls by managing engineers and data scientists. Previously, he has led Fraud Engineering and Security for IoTeX, Uber and Amazon.",
+      "linkedin_url": "https://linkedin.com/in/yutong-pei-81006842"
+    },
+    {
+      "full_name": "Joseph Zhou",
+      "title": "Founder",
+      "founder_bio": "I'm one of the Co-Founders of Accend. Previously, I served as the CFO of a mobile gaming startup with a 50M ARR. I established the company’s operation in Europe and scaled the team from 0 to 80 members.",
+      "linkedin_url": ""
+    }
+  ]
+}

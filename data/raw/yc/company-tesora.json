@@ -1,0 +1,18 @@
+{
+  "name": "Tesora",
+  "year_founded": 2025,
+  "founders": [
+    {
+      "full_name": "Vivek Rao",
+      "title": "Founder/CEO",
+      "founder_bio": "Co-founder and CEO of Tesora\nMcKinsey, Sycamore Partners (~$14B AUM), UChicago / Booth Alum",
+      "linkedin_url": "https://www.linkedin.com/in/vivek-r-928871173/"
+    },
+    {
+      "full_name": "Federico Reyes Gomez",
+      "title": "Founder/CTO",
+      "founder_bio": "Federico Reyes Gómez, Co-founder & CTO | Stanford BS/MS in CS & Philosophy | Google Document AI alum who turned down Stripe to join his professor’s Sequoia-backed startup Kumo, deploying graph neural networks on relational data. AI researcher and forward-deployed engineer, side-project junkie, and indie music producer (PICO).",
+      "linkedin_url": "https://www.linkedin.com/in/federico-reyes-gomez"
+    }
+  ]
+}

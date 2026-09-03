@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=useboom.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 26,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 18
+    },
+    "fetch": {
+      "query": 19,
+      "scanning": 6,
+      "total": 26
+    },
+    "total": 26
+  },
+  "query": "useboom.ai",
+  "serverTimeMS": 27
+}

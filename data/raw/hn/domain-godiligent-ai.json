@@ -1,0 +1,27 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=godiligent.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 9,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 19
+    },
+    "fetch": {
+      "query": 7,
+      "total": 8
+    },
+    "total": 9
+  },
+  "query": "godiligent.ai",
+  "serverTimeMS": 9
+}

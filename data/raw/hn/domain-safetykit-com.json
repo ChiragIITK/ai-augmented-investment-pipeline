@@ -1,0 +1,28 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=safetykit.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 37,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 14
+    },
+    "fetch": {
+      "query": 26,
+      "scanning": 9,
+      "total": 36
+    },
+    "total": 37
+  },
+  "query": "safetykit.com",
+  "serverTimeMS": 38
+}

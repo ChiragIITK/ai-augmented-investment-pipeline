@@ -1,0 +1,874 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ghosh"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "fullyHighlighted": true,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "<em>Powerbi.com</em>"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://<em>powerbi.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ghosh",
+        "story_9211467"
+      ],
+      "author": "ghosh",
+      "created_at": "2015-03-16T14:07:36Z",
+      "created_at_i": 1426514856,
+      "num_comments": 0,
+      "objectID": "9211467",
+      "points": 1,
+      "story_id": 9211467,
+      "story_text": "",
+      "title": "Powerbi.com",
+      "updated_at": "2023-09-07T02:18:51Z",
+      "url": "https://powerbi.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "I am a policy guy who was once an engineer. And thus whenever, I find data, I try to visualize it. Of course, I also want it to be acknowledged. But I have done at least two projects in recent years and realized that no one liked them. To that end, I will like your opinion, how do you think what you will do will garner interest?<p>This is different from building a library / api / start up. I am just trying to put up data to make an impact.<p>A project I thought was deeply interesting was how mean quant GRE scored changed over the years as compared to PISA scores. I thought this was interesting, but it was clearly not, across HN and other places I shared it: https://app.<em>powerbi.com</em>/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&amp;pageName=ReportSection"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask HN: How do you know people will like your work?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_40680852",
+        "ask_hn"
+      ],
+      "author": "WasimBhai",
+      "children": [
+        40682868,
+        40766485
+      ],
+      "created_at": "2024-06-14T13:44:38Z",
+      "created_at_i": 1718372678,
+      "num_comments": 2,
+      "objectID": "40680852",
+      "points": 1,
+      "story_id": 40680852,
+      "story_text": "I am a policy guy who was once an engineer. And thus whenever, I find data, I try to visualize it. Of course, I also want it to be acknowledged. But I have done at least two projects in recent years and realized that no one liked them. To that end, I will like your opinion, how do you think what you will do will garner interest?<p>This is different from building a library &#x2F; api &#x2F; start up. I am just trying to put up data to make an impact.<p>A project I thought was deeply interesting was how mean quant GRE scored changed over the years as compared to PISA scores. I thought this was interesting, but it was clearly not, across HN and other places I shared it: https:&#x2F;&#x2F;app.powerbi.com&#x2F;view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&amp;pageName=ReportSection",
+      "title": "Ask HN: How do you know people will like your work?",
+      "updated_at": "2024-09-20T17:18:21Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "story_text": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "I can do this: https://app.<em>powerbi.com</em>/view?r=eyJrIjoiM2ViNzc5MmQtMDE0ZC00YzAwLWE2YjItYzQ4YWQ1NTdjMmNlIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&amp;pageName=ReportSectionfa5add9a419dcf6577d5<p>I can program in Python and use PowerBi and GIS. Its more than four years though since I left engineering and joined civil service.<p>I also have experience running civilian administration and have succesfully incorporated my technical skills to better public service delivery. Being in the bureaucracy, I have experience dealing with scenarios involving different private and public entities to solve complex issues.<p>What kind of roles can be there for me in the private sector?"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Civil servant, administrative experience, PowerBi, GIS and Python. Target roles?"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_32002274",
+        "ask_hn"
+      ],
+      "author": "WasimBhai",
+      "created_at": "2022-07-06T15:18:20Z",
+      "created_at_i": 1657120700,
+      "num_comments": 0,
+      "objectID": "32002274",
+      "points": 1,
+      "story_id": 32002274,
+      "story_text": "I can do this: https:&#x2F;&#x2F;app.powerbi.com&#x2F;view?r=eyJrIjoiM2ViNzc5MmQtMDE0ZC00YzAwLWE2YjItYzQ4YWQ1NTdjMmNlIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&amp;pageName=ReportSectionfa5add9a419dcf6577d5<p>I can program in Python and use PowerBi and GIS. Its more than four years though since I left engineering and joined civil service.<p>I also have experience running civilian administration and have succesfully incorporated my technical skills to better public service delivery. Being in the bureaucracy, I have experience dealing with scenarios involving different private and public entities to solve complex issues.<p>What kind of roles can be there for me in the private sector?",
+      "title": "Civil servant, administrative experience, PowerBi, GIS and Python. Target roles?",
+      "updated_at": "2024-09-20T11:26:58Z"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Consequence of Hospital Acquisition by PE"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiZmRjYzhjNWUtODYyNi00NGM0LTg5ODUtMmFkZmY5MmEzMmE5IiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_41760446"
+      ],
+      "author": "WasimBhai",
+      "children": [
+        41760688,
+        41761889
+      ],
+      "created_at": "2024-10-06T21:24:14Z",
+      "created_at_i": 1728249854,
+      "num_comments": 4,
+      "objectID": "41760446",
+      "points": 4,
+      "story_id": 41760446,
+      "title": "Consequence of Hospital Acquisition by PE",
+      "updated_at": "2024-10-07T05:00:47Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiZmRjYzhjNWUtODYyNi00NGM0LTg5ODUtMmFkZmY5MmEzMmE5IiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jeroenheijmans"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Advent of Code suvey results dashboard"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiZTQ3OTlmNDgtYmZlMS00ZTJmLTkwYTgtMWQyMTkxNWI5NGM1IiwidCI6IjQwOTEzYjA4LTQyZTYtNGMxOS05Y2FiLTRmOWZlM2U0YzJmZCIsImMiOjl9"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jeroenheijmans",
+        "story_25526365",
+        "show_hn"
+      ],
+      "author": "jeroenheijmans",
+      "children": [
+        25526366
+      ],
+      "created_at": "2020-12-24T10:19:45Z",
+      "created_at_i": 1608805185,
+      "num_comments": 1,
+      "objectID": "25526365",
+      "points": 4,
+      "story_id": 25526365,
+      "title": "Show HN: Advent of Code suvey results dashboard",
+      "updated_at": "2024-09-20T07:35:34Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiZTQ3OTlmNDgtYmZlMS00ZTJmLTkwYTgtMWQyMTkxNWI5NGM1IiwidCI6IjQwOTEzYjA4LTQyZTYtNGMxOS05Y2FiLTRmOWZlM2U0YzJmZCIsImMiOjl9"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "unionpivo"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Advent of Code 2020 Survey – (Python then Rust were most used languages)"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiZTQ3OTlmNDgtYmZlMS00ZTJmLTkwYTgtMWQyMTkxNWI5NGM1IiwidCI6IjQwOTEzYjA4LTQyZTYtNGMxOS05Y2FiLTRmOWZlM2U0YzJmZCIsImMiOjl9"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_unionpivo",
+        "story_25601949"
+      ],
+      "author": "unionpivo",
+      "created_at": "2021-01-01T09:22:29Z",
+      "created_at_i": 1609492949,
+      "num_comments": 0,
+      "objectID": "25601949",
+      "points": 4,
+      "story_id": 25601949,
+      "title": "Advent of Code 2020 Survey – (Python then Rust were most used languages)",
+      "updated_at": "2024-09-20T07:34:53Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiZTQ3OTlmNDgtYmZlMS00ZTJmLTkwYTgtMWQyMTkxNWI5NGM1IiwidCI6IjQwOTEzYjA4LTQyZTYtNGMxOS05Y2FiLTRmOWZlM2U0YzJmZCIsImMiOjl9"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Erlich_Bachman"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Coronavirus 2019-nCoV: Updated dashboard with raw stats: cases, deaths, geo, etc"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiZjIwYzc1M2UtNmZjMi00NmM2LWI1OGYtNDg1NjZhNTNjMGI5IiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9&fbclid=IwAR0VsnJ5piOYeI8V1S79-CxpkmQ2Hat4P2G795Z8LofuUVTnzaknz47hPU8"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Erlich_Bachman",
+        "story_22281938"
+      ],
+      "author": "Erlich_Bachman",
+      "created_at": "2020-02-09T13:17:49Z",
+      "created_at_i": 1581254269,
+      "num_comments": 0,
+      "objectID": "22281938",
+      "points": 4,
+      "story_id": 22281938,
+      "title": "Coronavirus 2019-nCoV: Updated dashboard with raw stats: cases, deaths, geo, etc",
+      "updated_at": "2024-09-20T05:43:44Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiZjIwYzc1M2UtNmZjMi00NmM2LWI1OGYtNDg1NjZhNTNjMGI5IiwidCI6IjYzNjBkMTZhLTk3MWQtNGQzMC1hOWE5LTdiY2I0ODUzMDhlMSIsImMiOjl9&fbclid=IwAR0VsnJ5piOYeI8V1S79-CxpkmQ2Hat4P2G795Z8LofuUVTnzaknz47hPU8"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Avalaxy"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Covid-19 Live Dashboard"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiNGZiMzEzMmEtOTA2MS00MGJmLTg2NWEtNzdmZmM1NzZlMjNhIiwidCI6ImJjMWIxOGIxLWM2ZjgtNDgyMy1hM2NjLWJjMzRkNmY1MzYxYSIsImMiOjh9"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Avalaxy",
+        "story_22632278",
+        "show_hn"
+      ],
+      "author": "Avalaxy",
+      "children": [
+        22632600
+      ],
+      "created_at": "2020-03-19T22:10:14Z",
+      "created_at_i": 1584655814,
+      "num_comments": 1,
+      "objectID": "22632278",
+      "points": 3,
+      "story_id": 22632278,
+      "title": "Show HN: Covid-19 Live Dashboard",
+      "updated_at": "2024-09-20T05:50:42Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNGZiMzEzMmEtOTA2MS00MGJmLTg2NWEtNzdmZmM1NzZlMjNhIiwidCI6ImJjMWIxOGIxLWM2ZjgtNDgyMy1hM2NjLWJjMzRkNmY1MzYxYSIsImMiOjh9"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Private Equity Hospital Takeovers' Impact on Patient Medical Debt"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiZmRjYzhjNWUtODYyNi00NGM0LTg5ODUtMmFkZmY5MmEzMmE5IiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_41766191",
+        "show_hn"
+      ],
+      "author": "WasimBhai",
+      "created_at": "2024-10-07T14:11:24Z",
+      "created_at_i": 1728310284,
+      "num_comments": 0,
+      "objectID": "41766191",
+      "points": 3,
+      "story_id": 41766191,
+      "title": "Show HN: Private Equity Hospital Takeovers' Impact on Patient Medical Debt",
+      "updated_at": "2024-10-07T17:25:20Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiZmRjYzhjNWUtODYyNi00NGM0LTg5ODUtMmFkZmY5MmEzMmE5IiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Mean GRE quant scores across years and countries"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_38741993"
+      ],
+      "author": "WasimBhai",
+      "children": [
+        38752015
+      ],
+      "created_at": "2023-12-23T05:54:21Z",
+      "created_at_i": 1703310861,
+      "num_comments": 2,
+      "objectID": "38741993",
+      "points": 2,
+      "story_id": 38741993,
+      "title": "Mean GRE quant scores across years and countries",
+      "updated_at": "2024-09-20T15:59:40Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "known"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Power BI"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "http://www.<em>powerbi.com</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_known",
+        "story_8977006"
+      ],
+      "author": "known",
+      "created_at": "2015-01-31T15:58:26Z",
+      "created_at_i": 1422719906,
+      "num_comments": 0,
+      "objectID": "8977006",
+      "points": 2,
+      "story_id": 8977006,
+      "story_text": "",
+      "title": "Power BI",
+      "updated_at": "2023-09-06T23:24:35Z",
+      "url": "http://www.powerbi.com/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Isa-514"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "From girl dinner to girl winter"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>powder.com</em>/news/girl-winter-women-ski-film-tour"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_Isa-514",
+        "story_45893515"
+      ],
+      "author": "Isa-514",
+      "created_at": "2025-11-11T22:04:39Z",
+      "created_at_i": 1762898679,
+      "num_comments": 0,
+      "objectID": "45893515",
+      "points": 2,
+      "story_id": 45893515,
+      "title": "From girl dinner to girl winter",
+      "updated_at": "2026-03-05T23:02:05Z",
+      "url": "https://www.powder.com/news/girl-winter-women-ski-film-tour"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "melenaboija"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Strava Turned Off Fatmap – What That Means for Skiers"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>powder.com</em>/gear/strava-is-turning-off-fatmap-what-that-means-for-skiers-"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_melenaboija",
+        "story_42751843"
+      ],
+      "author": "melenaboija",
+      "children": [
+        42751870
+      ],
+      "created_at": "2025-01-18T22:15:48Z",
+      "created_at_i": 1737238548,
+      "num_comments": 0,
+      "objectID": "42751843",
+      "points": 2,
+      "story_id": 42751843,
+      "title": "Strava Turned Off Fatmap – What That Means for Skiers",
+      "updated_at": "2025-01-19T06:50:55Z",
+      "url": "https://www.powder.com/gear/strava-is-turning-off-fatmap-what-that-means-for-skiers-"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mooreds"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Alterra Mountain Company to Purchase Colorado's Arapahoe Basin Ski Area"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://www.<em>powder.com</em>/trending-news/arapahoe-basin-sold-alterra"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mooreds",
+        "story_39268535"
+      ],
+      "author": "mooreds",
+      "created_at": "2024-02-05T23:16:15Z",
+      "created_at_i": 1707174975,
+      "num_comments": 0,
+      "objectID": "39268535",
+      "points": 2,
+      "story_id": 39268535,
+      "title": "Alterra Mountain Company to Purchase Colorado's Arapahoe Basin Ski Area",
+      "updated_at": "2024-09-20T16:19:27Z",
+      "url": "https://www.powder.com/trending-news/arapahoe-basin-sold-alterra"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: The Water Quality Dashboard: State Compliance over the Years"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiMDE1MWY4MjAtYzI5Yi00Yzk5LWJmZmEtNWI1NGNlMTExYjYyIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_37828870",
+        "show_hn"
+      ],
+      "author": "WasimBhai",
+      "created_at": "2023-10-10T05:40:09Z",
+      "created_at_i": 1696916409,
+      "num_comments": 0,
+      "objectID": "37828870",
+      "points": 2,
+      "story_id": 37828870,
+      "title": "Show HN: The Water Quality Dashboard: State Compliance over the Years",
+      "updated_at": "2024-09-20T15:21:49Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMDE1MWY4MjAtYzI5Yi00Yzk5LWJmZmEtNWI1NGNlMTExYjYyIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Visualizing Marital Status and Educational Attainment in Punjab, Pakistan"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiM2ViNzc5MmQtMDE0ZC00YzAwLWE2YjItYzQ4YWQ1NTdjMmNlIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSectionfa5add9a419dcf6577d5"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_28729170"
+      ],
+      "author": "WasimBhai",
+      "children": [
+        28729181
+      ],
+      "created_at": "2021-10-02T15:10:35Z",
+      "created_at_i": 1633187435,
+      "num_comments": 1,
+      "objectID": "28729170",
+      "points": 1,
+      "story_id": 28729170,
+      "title": "Visualizing Marital Status and Educational Attainment in Punjab, Pakistan",
+      "updated_at": "2024-09-20T09:28:35Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiM2ViNzc5MmQtMDE0ZC00YzAwLWE2YjItYzQ4YWQ1NTdjMmNlIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSectionfa5add9a419dcf6577d5"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: UMich Staff Salaries"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiYzk3Mzk3NDctNTQ3Mi00OGM2LWJlOGItZjM1NzRhZDg4YmIzIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_42030636",
+        "show_hn"
+      ],
+      "author": "WasimBhai",
+      "created_at": "2024-11-03T01:49:24Z",
+      "created_at_i": 1730598564,
+      "num_comments": 0,
+      "objectID": "42030636",
+      "points": 1,
+      "story_id": 42030636,
+      "title": "Show HN: UMich Staff Salaries",
+      "updated_at": "2024-11-03T05:20:47Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYzk3Mzk3NDctNTQ3Mi00OGM2LWJlOGItZjM1NzRhZDg4YmIzIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Across countries, across years.<p>India has had a significant jump in 2020."
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: I extracted and collated mean quant GRE scores"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_40603583",
+        "show_hn"
+      ],
+      "author": "WasimBhai",
+      "created_at": "2024-06-06T23:23:11Z",
+      "created_at_i": 1717716191,
+      "num_comments": 0,
+      "objectID": "40603583",
+      "points": 1,
+      "story_id": 40603583,
+      "story_text": "Across countries, across years.<p>India has had a significant jump in 2020.",
+      "title": "Show HN: I extracted and collated mean quant GRE scores",
+      "updated_at": "2024-09-20T17:09:55Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Quant GRE and PISA Math scores follow each other"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_37709583",
+        "show_hn"
+      ],
+      "author": "WasimBhai",
+      "created_at": "2023-09-29T20:14:52Z",
+      "created_at_i": 1696018492,
+      "num_comments": 0,
+      "objectID": "37709583",
+      "points": 1,
+      "story_id": 37709583,
+      "title": "Show HN: Quant GRE and PISA Math scores follow each other",
+      "updated_at": "2024-09-20T15:10:55Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "WasimBhai"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Interactive Mean GRE quant scores across year by country"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "powderfi",
+            ".",
+            "com"
+          ],
+          "value": "https://app.<em>powerbi.com</em>/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_WasimBhai",
+        "story_36620332"
+      ],
+      "author": "WasimBhai",
+      "created_at": "2023-07-06T18:10:54Z",
+      "created_at_i": 1688667054,
+      "num_comments": 0,
+      "objectID": "36620332",
+      "points": 1,
+      "story_id": 36620332,
+      "title": "Interactive Mean GRE quant scores across year by country",
+      "updated_at": "2024-09-20T14:32:42Z",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNjhiYmZmODktM2VhZC00NDNkLWJmZGUtMzYyZWQ3YzdlMWIwIiwidCI6Ijg4OWYxNTI3LWQ4MzYtNGFhNy1iMzE4LTIzYWYwMTUxMGQxYiIsImMiOjl9&pageName=ReportSection"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 28,
+  "nbPages": 2,
+  "page": 0,
+  "params": "query=powderfi.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 38,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 20
+    },
+    "afterFetch": {
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 12,
+      "scanning": 23,
+      "total": 36
+    },
+    "total": 38
+  },
+  "query": "powderfi.com",
+  "serverTimeMS": 39
+}

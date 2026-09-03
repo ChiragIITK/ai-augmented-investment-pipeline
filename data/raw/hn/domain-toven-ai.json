@@ -1,0 +1,29 @@
+{
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=toven.ai&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 20,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 1,
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 2,
+      "scanning": 16,
+      "total": 19
+    },
+    "total": 20
+  },
+  "query": "toven.ai",
+  "serverTimeMS": 21
+}

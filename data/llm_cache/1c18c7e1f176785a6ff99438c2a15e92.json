@@ -1,0 +1,54 @@
+{
+  "team": "Two-person founding team with strong pedigree. CEO Charu Sharma previously founded and scaled two VC-backed companies to millions of users, hundreds of employees, and tens of millions raised from top-tier VCs including General Catalyst's Hemant Taneja (Founder bio: Charu Sharma). CTO Michael M spent 10 years building ML at Google and Apple for billions of users, invented privacy-preserving ML training, built Apple's first privacy-preserving ML at scale, and designed ML that helped a startup go public (Founder bio: Michael M). The pairing of a repeat, fundraising-proven founder with deep ML engineering depth is a genuine strength.",
+  "product": "Fenrock AI builds specialized AI agents for banks to '10x' back office functions (Founder bios). They frame themselves as 'the Legora for traditional financial services,' working directly with US bank CEOs to transform their businesses (YC long description). In plain language: AI agents targeting the back-office workflows of US banks. The specific workflows owned and the degree of autonomy are not spelled out in the sources.",
+  "market": "The target market is US traditional financial services / banking back office (YC long description; tags: Fintech, Banking and Exchange). No market size, TAM, revenue, customer count, or named competitors are provided in the sources. The 'why-now' is implied by the AI-agent framing but not stated explicitly. Market size and competitive landscape are unknown from the provided material and should be treated as open questions.",
+  "risks": [
+    "Workflow ownership and autonomy are not described — the sources contain no explicit language about which bank workflows the agents own end-to-end or how autonomously they operate, leaving the core thesis fit unverified (Score breakdown: Workflow ownership 0/30, Autonomy 0/15).",
+    "Selling into US banks is a long, regulated, compliance-heavy sales cycle; the team is only 2 people (Team size) and the description offers no evidence of signed customers or deployments beyond 'working closely with' bank CEOs (YC long description).",
+    "No traction, revenue, or pilot data is provided in the sources, making commercial validation impossible to assess.",
+    "The 'Legora for financial services' analogy assumes a playbook the sources don't detail, and the competitive landscape in banking AI is undisclosed here."
+  ],
+  "what_would_change_our_mind": [
+    "Evidence that the agents autonomously own a specific high-value bank workflow end-to-end (e.g., a named back-office process) rather than assisting — this directly addresses the zeroed workflow-ownership and autonomy dimensions.",
+    "Signed bank customers, paid pilots, or deployment metrics demonstrating traction with regulated US banks.",
+    "A clear account of the competitive landscape and defensibility (e.g., how the CTO's privacy-preserving ML translates into a moat for regulated banking data)."
+  ],
+  "recommendation_rationale": "Watch is appropriate: the team is exceptional (repeat scaled founder plus deep Google/Apple ML background) and the AI-agent framing fits the thesis on centrality (Founder bios; AI/agent tags), but the sources provide no explicit workflow-ownership or autonomy language, which are the core of our thesis and scored zero. With no market data, customers, or traction disclosed, the opportunity is promising but unproven. We should track for evidence of autonomous workflow ownership and bank deployments before moving.",
+  "citations": [
+    {
+      "claim": "CEO Charu Sharma previously founded and scaled two VC-backed companies to millions of users, hundreds of employees, and tens of millions raised, including from General Catalyst's Hemant Taneja.",
+      "source": "Founder bio: Charu Sharma",
+      "url": null
+    },
+    {
+      "claim": "CTO Michael M spent 10 years building ML at Google and Apple for billions of users and built privacy-preserving ML at scale.",
+      "source": "Founder bio: Michael M",
+      "url": null
+    },
+    {
+      "claim": "Fenrock builds specialized AI agents for banks to 10x back office functions.",
+      "source": "Founder bios: Charu Sharma / Michael M",
+      "url": null
+    },
+    {
+      "claim": "Positions itself as 'the Legora for traditional financial services,' working closely with US bank CEOs.",
+      "source": "YC long description",
+      "url": null
+    },
+    {
+      "claim": "Two-person team based in San Francisco, tagged Fintech / Banking and Exchange / AI.",
+      "source": "YC profile (Fenrock AI)",
+      "url": null
+    },
+    {
+      "claim": "Y Combinator Winter 2026 batch; launched 2026-01-26; actively hiring.",
+      "source": "Y Combinator signals",
+      "url": null
+    },
+    {
+      "claim": "Workflow ownership and autonomy were scored 0 due to no explicit language in the description.",
+      "source": "Rule-based score breakdown",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "smcalvillo"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Space marketplace for makers, artists,& creatives to build cool shit."
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "concourse",
+            ".",
+            "co"
+          ],
+          "value": "http://<em>concourse.co</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_smcalvillo",
+        "story_13528421",
+        "show_hn"
+      ],
+      "author": "smcalvillo",
+      "children": [
+        13528467
+      ],
+      "created_at": "2017-01-31T07:05:20Z",
+      "created_at_i": 1485846320,
+      "num_comments": 3,
+      "objectID": "13528421",
+      "points": 2,
+      "story_id": 13528421,
+      "title": "Show HN: Space marketplace for makers, artists,& creatives to build cool shit.",
+      "updated_at": "2024-09-20T00:18:35Z",
+      "url": "http://concourse.co"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "smcalvillo"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Concourse – Airbnb for artists, makers, and hackers"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "concourse",
+            ".",
+            "co"
+          ],
+          "value": "https://www.<em>concourse.co</em>/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_smcalvillo",
+        "story_13547887",
+        "show_hn"
+      ],
+      "author": "smcalvillo",
+      "created_at": "2017-02-02T03:35:28Z",
+      "created_at_i": 1486006528,
+      "num_comments": 0,
+      "objectID": "13547887",
+      "points": 1,
+      "story_id": 13547887,
+      "title": "Show HN: Concourse – Airbnb for artists, makers, and hackers",
+      "updated_at": "2024-09-20T00:20:31Z",
+      "url": "https://www.concourse.co/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "jaysoncena"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ConcourseDB – self-tuning distributed DB"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "concourse",
+            ".",
+            "co"
+          ],
+          "value": "http://<em>concoursedb.co</em>m"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_jaysoncena",
+        "story_10846563"
+      ],
+      "author": "jaysoncena",
+      "created_at": "2016-01-05T22:27:15Z",
+      "created_at_i": 1452032835,
+      "num_comments": 0,
+      "objectID": "10846563",
+      "points": 2,
+      "story_id": 10846563,
+      "title": "ConcourseDB – self-tuning distributed DB",
+      "updated_at": "2023-09-07T00:29:14Z",
+      "url": "http://concoursedb.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "johnabela"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "[php] Roll your own event dispatcher"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "concourse",
+            ".",
+            "co"
+          ],
+          "value": "https://www.<em>codecourse.co</em>m/lessons/roll-your-own-event-dispatcher"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_johnabela",
+        "story_15340660"
+      ],
+      "author": "johnabela",
+      "created_at": "2017-09-26T17:16:46Z",
+      "created_at_i": 1506446206,
+      "num_comments": 0,
+      "objectID": "15340660",
+      "points": 1,
+      "story_id": 15340660,
+      "title": "[php] Roll your own event dispatcher",
+      "updated_at": "2024-09-20T01:24:54Z",
+      "url": "https://www.codecourse.com/lessons/roll-your-own-event-dispatcher"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 4,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=concourse.co&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 29,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 17
+    },
+    "afterFetch": {
+      "merge": {
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 7,
+      "scanning": 19,
+      "total": 27
+    },
+    "total": 29
+  },
+  "query": "concourse.co",
+  "serverTimeMS": 30
+}

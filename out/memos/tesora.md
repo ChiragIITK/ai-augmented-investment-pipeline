@@ -1,0 +1,65 @@
+# Tesora — 🟢 Take a meeting
+
+**Frontier AI for Actuaries**
+
+https://tesora.ai/ · YC Summer 2025 · San Francisco, CA, USA · team 5
+
+**Score: 73/100** (strong) · _Thesis: AI-native autonomous agents owning high-value business workflows_
+
+## Recommendation: Take a meeting
+
+The score of 73 (strong band) supports taking a meeting: the team is high-pedigree and technical (Google Document AI, Stanford, McKinsey, Kumo), and the product clearly owns a high-value business workflow (data assembly, method execution, rater deployment) in a regulated, high-margin insurance vertical (YC long description; founder bios). The main gaps are the absence of explicit autonomy — the human makes every call — and no visible traction or market data. A meeting is warranted to probe autonomy roadmap, early customer proof, and market size before deeper diligence.
+
+## Team
+
+Two co-founders with complementary profiles. Vivek Rao (Founder/CEO) comes from McKinsey and Sycamore Partners (~$14B AUM), and is a UChicago/Booth alum (Founder bio: Vivek Rao). Federico Reyes Gomez (Founder/CTO) has a Stanford BS/MS in CS & Philosophy, is a Google Document AI alum, and worked as a forward-deployed engineer at the Sequoia-backed startup Kumo deploying graph neural networks on relational data (Founder bio: Federico Reyes Gomez). The team is described as being built by AI technologists and actuaries, suggesting relevant domain expertise alongside technical depth (YC long description). Team size is 5 (YC profile).
+
+## Product
+
+Tesora builds AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly work around actuarial judgment — pulling the data, running the method, and deploying the rater — while the human actuary reviews the work and makes every call (YC long description). It deploys inside the customer's existing stack, on their infra and under their IT team's control, with no shared servers, and customer data never trains Tesora's or anyone else's models (YC long description). It is SOC 2 Type II certified with a full audit trail behind every change (YC long description).
+
+## Market
+
+The target market is actuarial workflows at P&C carriers, reinsurers, and MGAs — a fintech/insurance niche (YC long description; tags: Fintech, Insurance, API, AI). No market size, TAM, revenue, customer count, or competitor information is provided in the sources — these are open questions. The implicit why-now is the emergence of frontier AI agents capable of handling data assembly and method execution, but the sources do not provide explicit market-timing evidence beyond the product positioning.
+
+## Risks & open questions
+
+- Autonomy is deliberately bounded: the human actuary reviews the work and makes every call (YC long description), so the product is a copilot around judgment rather than a fully autonomous agent — this diverges from the 'autonomous agents' framing in the thesis and scored 0/15 on autonomy.
+- No evidence of traction, revenue, paying customers, or pilot outcomes in the sources — commercial validation is entirely unknown.
+- No market sizing or competitive landscape provided; the addressable actuarial-software market and incumbents are unknown from the sources.
+- Very early: launched 2025-08-19 with a team of 5 (YC profile), so execution and go-to-market risk are high and unproven.
+
+## What would change our mind
+
+- Evidence of signed P&C carriers, reinsurers, or MGAs in production with retention and measurable time savings.
+- Clarity on how much of the workflow the agents truly own end-to-end versus require manual oversight, and a path toward greater autonomy.
+- Data on market size, pricing, and competitive differentiation against existing actuarial tooling.
+
+## Score breakdown
+
+| Dimension | Score | Rationale |
+|---|---|---|
+| AI centrality | 20/20 | Positions as AI/agent-native (AI tag + agent language). |
+| Workflow ownership | 30/30 | Owns a workflow: automate, handle, run, runs. |
+| Autonomy | 0/15 | No explicit autonomy language (may still be autonomous — see analysis). |
+| Freshness | 7/15 | Recent launch (launched within ~15 months, 2025-08-19). |
+| Momentum | 6/10 | Actively hiring per YC listing (has capital and is scaling). |
+| Team | 10/10 | 2 founder(s) — Vivek Rao, Federico Reyes Gomez. pedigree (google, mckinsey, stanford); technical depth; prior founder experience. |
+
+## Sources
+
+_Every claim above is grounded in these sources:_
+
+- **Founder bio: Vivek Rao** — Vivek Rao (CEO) comes from McKinsey and Sycamore Partners (~$14B AUM) and is a UChicago/Booth alum
+- **Founder bio: Federico Reyes Gomez** — Federico Reyes Gomez (CTO) has a Stanford BS/MS in CS & Philosophy, is a Google Document AI alum, and worked at Sequoia-backed startup Kumo deploying graph neural networks
+- **YC long description** — Tesora builds AI agents for actuaries at P&C carriers, reinsurers, and MGAs; agents pull data, run the method, and deploy the rater while the human reviews and makes every call
+- **YC long description** — Deploys on customer infra under their IT control with no shared servers; customer data never trains Tesora's or anyone else's models
+- **YC long description** — SOC 2 Type II certified with a full audit trail
+- **YC profile** — Team size is 5
+- **Y Combinator** — Y Combinator Summer 2025 batch
+- **Y Combinator** — Launched 2025-08-19
+- **Y Combinator** — Actively hiring per YC listing
+
+---
+
+_Sourced from Y Combinator · scored by rule-based thesis fit · analysis grounded in the sources above. Discovery: https://www.ycombinator.com/companies/tesora_

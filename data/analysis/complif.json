@@ -1,0 +1,152 @@
+{
+  "candidate": {
+    "name": "Complif",
+    "website": "https://complif.com/",
+    "description": "Compliance tools & AI agents for financial companies",
+    "long_description": "Complif automates compliance processes for financial entities, including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting.",
+    "founders": [
+      {
+        "name": "Lucas Ranallo",
+        "title": "Founder",
+        "bio": null,
+        "linkedin_url": "https://www.linkedin.com/in/lucasranallo/"
+      },
+      {
+        "name": "Mathias Caramutti",
+        "title": "Founder",
+        "bio": null,
+        "linkedin_url": "https://www.linkedin.com/in/mcaramutti/"
+      }
+    ],
+    "team_size": 45,
+    "batch": "Winter 2022",
+    "location": "Buenos Aires, CABA, Argentina",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Regtech"
+    ],
+    "signals": [
+      {
+        "kind": "yc_batch",
+        "description": "Y Combinator Winter 2022 batch",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/complif",
+        "observed_at": null,
+        "metadata": {}
+      },
+      {
+        "kind": "recent_launch",
+        "description": "Launched 2021-12-30",
+        "source": "Y Combinator",
+        "url": "https://www.ycombinator.com/companies/complif",
+        "observed_at": "2021-12-30T17:40:31Z",
+        "metadata": {
+          "launched_at": 1640886031
+        }
+      }
+    ],
+    "discovery": {
+      "source": "Y Combinator",
+      "source_url": "https://www.ycombinator.com/companies/complif"
+    }
+  },
+  "score": {
+    "total": 50,
+    "components": [
+      {
+        "name": "AI centrality",
+        "points": 14.0,
+        "max_points": 20.0,
+        "reason": "Agent/AI language present but not tagged AI on YC."
+      },
+      {
+        "name": "Workflow ownership",
+        "points": 30.0,
+        "max_points": 30.0,
+        "reason": "Owns a workflow: automate, automates, manage, process."
+      },
+      {
+        "name": "Autonomy",
+        "points": 0.0,
+        "max_points": 15.0,
+        "reason": "No explicit autonomy language (may still be autonomous — see analysis)."
+      },
+      {
+        "name": "Freshness",
+        "points": 4.0,
+        "max_points": 15.0,
+        "reason": "Recent launch (launched over 15 months ago, 2021-12-30)."
+      },
+      {
+        "name": "Momentum",
+        "points": 0.0,
+        "max_points": 10.0,
+        "reason": "No momentum signal (not hiring / not YC-flagged in available data)."
+      },
+      {
+        "name": "Team",
+        "points": 2.0,
+        "max_points": 10.0,
+        "reason": "2 founder(s) — Lucas Ranallo, Mathias Caramutti. bios available, no standout markers."
+      }
+    ],
+    "thesis": "AI-native autonomous agents owning high-value business workflows"
+  },
+  "analysis": {
+    "team": "Two founders, Lucas Ranallo and Mathias Caramutti, both listed simply as 'Founder' (source: Founders list). LinkedIn profiles are provided but no bio detail, technical depth, or relevant prior experience is available in the sources. The company has a team of 45, which is sizeable for a seed-stage compliance startup (source: YC profile). Founder technical and domain backgrounds are an open question given the absence of bio content.",
+    "product": "Complif provides compliance tools and AI agents for financial companies (source: One-liner). Concretely, it automates compliance processes for financial entities — including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting (source: YC long description). In plain terms, it is a regtech SaaS platform that handles the identity-verification, anti-money-laundering and regulatory-reporting workflows that financial institutions are obligated to perform.",
+    "market": "The company targets financial entities and operates in the B2B, Fintech, SaaS, Compliance and Regtech categories (source: Industries/tags). It is based in Buenos Aires, Argentina (source: YC profile), suggesting an initial Latin American focus, though the sources do not specify geographic scope. Market size, growth rate, customer count, revenue, and competitive landscape are all unknown — no figures or named competitors appear in the sources. The 'why-now' is not stated explicitly; the implicit driver is ongoing regulatory burden (KYC/AML/reporting) on financial companies, but this is not documented in the source material.",
+    "risks": [
+      "No autonomy language in the sources — despite the 'AI agents' one-liner, the YC description frames the product as automating processes, leaving unclear how autonomous the agents actually are versus assisted tooling (source: Score breakdown, YC long description).",
+      "Founder backgrounds are entirely opaque; no evidence of relevant compliance, fintech, or technical experience is available (source: Founders list).",
+      "Regtech/compliance is a crowded, incumbent-heavy category, and the sources name no differentiation, moat, or competitors — competitive positioning is unverifiable.",
+      "No momentum, traction, revenue, or customer signals are present in the sources (source: Score breakdown), and the launch was over 15 months ago (launched 2021-12-30, source: Y Combinator)."
+    ],
+    "what_would_change_our_mind": [
+      "Evidence that the AI agents operate autonomously end-to-end on compliance workflows (e.g. resolving KYC/AML cases without human review), which would materially raise the autonomy and AI-centrality scores.",
+      "Traction data — customer count, revenue, or growth among financial institutions — to offset the absent momentum signal.",
+      "Founder bios showing domain or technical depth in compliance/fintech to strengthen the currently thin team score."
+    ],
+    "recommendation_rationale": "Complif scores in the middle 'Watch' band (50/100): it clearly owns a high-value business workflow — compliance automation for financial entities (source: YC long description) — but the sources show no explicit autonomy, no momentum signals, and thin founder detail (source: Score breakdown). The 'AI agents' framing is promising against the thesis but is not substantiated by the workflow-automation language in the description. Absent evidence of genuine agent autonomy and traction, this warrants monitoring rather than an active pursuit.",
+    "citations": [
+      {
+        "claim": "Complif offers compliance tools and AI agents for financial companies",
+        "source": "One-liner",
+        "url": null
+      },
+      {
+        "claim": "Complif automates compliance processes including KYC/KYB, AML, risk profiling, documentation management and regulatory reporting",
+        "source": "YC long description",
+        "url": "https://www.ycombinator.com/companies/complif"
+      },
+      {
+        "claim": "Founders are Lucas Ranallo and Mathias Caramutti, both listed as 'Founder' with no bio detail",
+        "source": "Founders list",
+        "url": null
+      },
+      {
+        "claim": "Team size of 45; based in Buenos Aires, CABA, Argentina; tagged B2B, Operations, Fintech, SaaS, Compliance, Regtech",
+        "source": "YC profile",
+        "url": "https://www.ycombinator.com/companies/complif"
+      },
+      {
+        "claim": "Y Combinator Winter 2022 batch; launched 2021-12-30",
+        "source": "Y Combinator",
+        "url": null
+      },
+      {
+        "claim": "No explicit autonomy language and no momentum signal in available data",
+        "source": "Rule-based score breakdown",
+        "url": null
+      }
+    ]
+  },
+  "recommendation": "Watch"
+}

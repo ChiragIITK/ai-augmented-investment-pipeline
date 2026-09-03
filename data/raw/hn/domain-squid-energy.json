@@ -1,0 +1,29 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [],
+  "hitsPerPage": 20,
+  "nbHits": 0,
+  "nbPages": 0,
+  "page": 0,
+  "params": "query=squid.energy&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 22,
+  "processingTimingsMS": {
+    "_request": {
+      "queue": 1,
+      "roundTrip": 19
+    },
+    "fetch": {
+      "query": 10,
+      "scanning": 11,
+      "total": 22
+    },
+    "total": 22
+  },
+  "query": "squid.energy",
+  "serverTimeMS": 24
+}

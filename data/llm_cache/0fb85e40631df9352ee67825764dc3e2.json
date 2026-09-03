@@ -1,0 +1,54 @@
+{
+  "team": "Two named founders (team size listed as 3). Isabela Rodriguez (CEO) was first GTM hire at Domu (YC S24), where she closed the first $1M in revenue and brought in clients like Chubb; she describes herself as an execution-focused hustler who moved to SF and quit her job to build Zolvo (Founder bio: Isabela Rodriguez). Tony Montes (CTO) was founding AI engineer at Domu (YC S24), built voice AI infrastructure scaling to 100K+ calls/day for enterprise fintech clients, has AI research publications at ACL and EMNLP, and worked on generative models at Cornell (Founder bio: Tony Montes). The pair have prior startup experience together at the same company (Domu), combining GTM and deep AI-engineering depth.",
+  "product": "Zolvo sells AI back-office automation to commercial lenders, aiming to replace the entire back office with automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring (YC long description; one-liner). The pitch is that clients go live in weeks and eliminate hours of daily manual work per operator, leaving teams to handle only exceptions (YC long description). In plain terms: it automates the manual, spreadsheet-and-legacy-software operations that commercial lenders currently run.",
+  "market": "The target market is commercial lenders, described as managing billions in assets on legacy software and manual workflows (YC long description). No explicit market size (TAM), pricing, customer count, or named competitors are provided in the sources — these are open questions. The implied why-now is that incumbent lenders still rely on manual, tribal-knowledge processes ('systems live on people's heads like it's the 90s') that AI can now automate (YC long description), but the sources give no data on adoption, contract sizes, or competitive dynamics to validate that.",
+  "risks": [
+    "No named customers, revenue, or traction metrics are provided in the sources — the 'go live in weeks / eliminate hours of daily manual work' claims are unverified (YC long description).",
+    "Selling into commercial lenders managing billions in assets implies long enterprise/regulated sales cycles and high accuracy/compliance bars, especially for financial reconciliation and collections; the sources give no evidence of how Zolvo handles this.",
+    "Autonomy and AI centrality are not clearly evidenced in the language: the product is framed as automation with humans handling exceptions, but the sources do not describe how autonomously the agents operate.",
+    "Market size, competitive landscape, and pricing are entirely absent from the sources — impossible to assess defensibility or wedge from provided material."
+  ],
+  "what_would_change_our_mind": [
+    "Evidence of paying commercial-lender customers with concrete before/after metrics (operator hours saved, assets/volume processed) would move this up.",
+    "Clear demonstration that the AI operates autonomously across reconciliation, collections, and monitoring — not just workflow tooling — would strengthen the thesis fit on autonomy and AI centrality.",
+    "Any market-size, contract-value, or competitive data showing a defensible wedge in commercial lending would address the biggest evidence gap."
+  ],
+  "recommendation_rationale": "Watch is the right call: Zolvo clearly owns a high-value back-office workflow for commercial lenders and has a strong technical CTO with relevant fintech-AI scaling experience (Founder bios; YC long description), but the sources show no traction, no explicit autonomy language, and no market or competitive data. AI appears core to the product framing yet is under-evidenced in the material, and momentum signals are absent beyond the recent YC Spring 2026 launch. This matches the 51/100 'watch' band — promising team and workflow fit offset by unproven autonomy, traction, and market claims.",
+  "citations": [
+    {
+      "claim": "Zolvo provides AI back-office automation for commercial lenders",
+      "source": "One-liner",
+      "url": null
+    },
+    {
+      "claim": "Product replaces the back office with automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring; clients go live in weeks and eliminate hours of daily manual work per operator, handling only exceptions",
+      "source": "YC long description",
+      "url": null
+    },
+    {
+      "claim": "Commercial lenders manage billions in assets on legacy software and manual workflows",
+      "source": "YC long description",
+      "url": null
+    },
+    {
+      "claim": "Isabela Rodriguez was first GTM hire at Domu (YC S24), closed the first $1M in revenue, and brought in clients like Chubb",
+      "source": "Founder bio: Isabela Rodriguez",
+      "url": null
+    },
+    {
+      "claim": "Tony Montes was founding AI engineer at Domu (YC S24), built voice AI infrastructure scaling to 100K+ calls/day, has ACL and EMNLP publications, and worked on generative models at Cornell",
+      "source": "Founder bio: Tony Montes",
+      "url": null
+    },
+    {
+      "claim": "Zolvo is in the Y Combinator Spring 2026 batch and launched 2026-03-13",
+      "source": "Signal: Y Combinator",
+      "url": null
+    },
+    {
+      "claim": "Company is based in San Francisco, CA and tagged Fintech / Credit and Lending",
+      "source": "Zolvo YC profile",
+      "url": null
+    }
+  ]
+}

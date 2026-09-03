@@ -1,0 +1,78 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "darklow"
+        },
+        "story_text": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": ""
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: Entora – Your entertainment covered"
+        },
+        "url": {
+          "fullyHighlighted": false,
+          "matchLevel": "full",
+          "matchedWords": [
+            "ontora",
+            ".",
+            "com"
+          ],
+          "value": "http://<em>entora.com</em>"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_darklow",
+        "story_8169371",
+        "show_hn"
+      ],
+      "author": "darklow",
+      "children": [
+        8172691
+      ],
+      "created_at": "2014-08-12T18:37:27Z",
+      "created_at_i": 1407868647,
+      "num_comments": 2,
+      "objectID": "8169371",
+      "points": 8,
+      "story_id": 8169371,
+      "story_text": "",
+      "title": "Show HN: Entora – Your entertainment covered",
+      "updated_at": "2024-09-19T21:07:54Z",
+      "url": "http://entora.com"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 1,
+  "nbPages": 1,
+  "page": 0,
+  "params": "query=ontora.com&tags=story&hitsPerPage=20&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 20,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 15
+    },
+    "fetch": {
+      "query": 5,
+      "scanning": 13,
+      "total": 19
+    },
+    "total": 20
+  },
+  "query": "ontora.com",
+  "serverTimeMS": 20
+}
