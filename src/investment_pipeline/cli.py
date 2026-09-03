@@ -12,6 +12,7 @@ caches are present.
 """
 
 import argparse
+from pathlib import Path
 
 from . import config
 from .analysis import analyze
@@ -47,10 +48,31 @@ def _print_analyzed(analyzed) -> None:
         print(f"{i:>2}  {a.score.total:>5}  {mark} {a.recommendation:<13} {a.candidate.name}")
 
 
+def _resolve_seed(args) -> dict:
+    """Turn the --topic/--batch/--urls/--urls-file flags into source() kwargs."""
+    urls = None
+    if getattr(args, "urls", None):
+        urls = [u.strip() for u in args.urls.split(",") if u.strip()]
+    elif getattr(args, "urls_file", None):
+        urls = [ln.strip() for ln in Path(args.urls_file).read_text().splitlines()
+                if ln.strip()]
+    return {"topic": args.topic or "", "batch": args.batch, "urls": urls,
+            "limit": args.limit}
+
+
+def _seed_desc(seed: dict) -> str:
+    if seed["urls"]:
+        return f"{len(seed['urls'])} URL(s)"
+    if seed["batch"]:
+        return f"batch '{seed['batch']}'"
+    return f"topic '{seed['topic']}'"
+
+
 # --- individual stages ---
 
 def cmd_source(args) -> None:
-    candidates = sourcing.run(args.topic, limit=args.limit)
+    seed = _resolve_seed(args)
+    candidates = sourcing.run(**seed)
     _print_candidates(candidates)
     print(f"\n-> {config.CANDIDATES_PATH}")
 
@@ -73,8 +95,9 @@ def cmd_memo(args) -> None:
 
 
 def cmd_run(args) -> None:
-    print(f"[1/4] Sourcing '{args.topic}' ...")
-    sourcing.run(args.topic, limit=args.limit)
+    seed = _resolve_seed(args)
+    print(f"[1/4] Sourcing {_seed_desc(seed)} ...")
+    sourcing.run(**seed)
     print("[2/4] Scoring ...")
     scoring.run()
     print("[3/4] Analyzing (LLM) ...")
@@ -92,8 +115,13 @@ def build_parser() -> argparse.ArgumentParser:
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
-    def add_topic(p):
-        p.add_argument("--topic", required=True, help='e.g. "AI agents for Fintech"')
+    def add_seed(p):
+        """One of three seed types (mutually exclusive), plus --limit."""
+        g = p.add_mutually_exclusive_group(required=True)
+        g.add_argument("--topic", help='topic query, e.g. "AI agents for Fintech"')
+        g.add_argument("--batch", help='YC batch feed, e.g. "Winter 2025"')
+        g.add_argument("--urls", help="comma-separated YC company URLs")
+        g.add_argument("--urls-file", help="file with one YC company URL per line")
         p.add_argument("--limit", type=int, default=20, help="max candidates (default 20)")
 
     def add_model(p):
@@ -101,12 +129,12 @@ def build_parser() -> argparse.ArgumentParser:
                        help=f"LLM model id (default: {config.DEFAULT_MODEL})")
 
     p_run = sub.add_parser("run", help="run all four stages")
-    add_topic(p_run)
+    add_seed(p_run)
     add_model(p_run)
     p_run.set_defaults(func=cmd_run)
 
     p_source = sub.add_parser("source", help="stage 1: source candidates")
-    add_topic(p_source)
+    add_seed(p_source)
     p_source.set_defaults(func=cmd_source)
 
     p_score = sub.add_parser("score", help="stage 2: rule-based scoring")

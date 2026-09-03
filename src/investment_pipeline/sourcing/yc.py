@@ -41,13 +41,21 @@ def _algolia_credentials() -> tuple[str, str]:
     return opts["app"], opts["key"]
 
 
-def search(topic: str, *, limit: int = 20) -> list[dict]:
-    """Return raw Algolia hits for a topic query, cached under data/raw/yc/."""
+def search(topic: str = "", *, batch: str | None = None, limit: int = 20) -> list[dict]:
+    """Return raw Algolia hits, cached under data/raw/yc/.
+
+    `topic` is a free-text query; `batch` restricts to a YC batch (e.g.
+    "Winter 2025") via a facet filter. They can be combined (a topic within a
+    batch) or used alone — an empty topic with a batch is a whole-batch feed.
+    """
 
     def fetch() -> dict:
         app_id, api_key = _algolia_credentials()
         url = f"https://{app_id.lower()}-dsn.algolia.net/1/indexes/*/queries"
         params = f"query={quote_plus(topic)}&hitsPerPage={limit}"
+        if batch:
+            facet = quote_plus(json.dumps([f"batch:{batch}"]))
+            params += f"&facetFilters={facet}"
         resp = httpx.post(
             url,
             headers={
@@ -61,7 +69,8 @@ def search(topic: str, *, limit: int = 20) -> list[dict]:
         resp.raise_for_status()
         return resp.json()
 
-    data = cache.get_or_fetch("yc", f"search-{topic}", fetch)
+    cache_key = f"search-{topic or 'all'}-batch-{batch}" if batch else f"search-{topic}"
+    data = cache.get_or_fetch("yc", cache_key, fetch)
     return data["results"][0]["hits"]
 
 
@@ -136,12 +145,14 @@ def _to_candidate(hit: dict) -> StartupCandidate:
     )
 
 
-def discover(topic: str, *, limit: int = 20) -> list[StartupCandidate]:
-    """Discover YC startups for a topic, as StartupCandidate objects.
+def discover(
+    topic: str = "", *, batch: str | None = None, limit: int = 20
+) -> list[StartupCandidate]:
+    """Discover YC startups by topic and/or batch, as StartupCandidate objects.
 
-    We always fetch a full page (up to 20) into the cache, then apply `limit` on
-    read, so changing --limit is honoured without needing to re-fetch.
+    We always fetch a full page into the cache, then apply `limit` on read, so
+    changing --limit is honoured without needing to re-fetch.
     """
-    candidates = [_to_candidate(h) for h in search(topic)]
+    candidates = [_to_candidate(h) for h in search(topic, batch=batch, limit=limit)]
     candidates = [c for c in candidates if c.name and c.description]
     return candidates[:limit]

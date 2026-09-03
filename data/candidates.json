@@ -1,5 +1,8 @@
 {
-  "topic": "AI agents for Fintech",
+  "seed": {
+    "type": "topic",
+    "value": "AI agents for Fintech"
+  },
   "count": 20,
   "candidates": [
     {

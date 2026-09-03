@@ -41,3 +41,13 @@ def test_hn_domain_match_rejects_unrelated_story():
 def test_hn_domain_helper_strips_www():
     assert hn._domain("https://www.acme.com/path") == "acme.com"
     assert hn._domain(None) is None
+
+
+def test_slug_from_url_extracts_yc_slug():
+    from investment_pipeline.sourcing import yc_company
+    assert yc_company.slug_from_url(
+        "https://www.ycombinator.com/companies/accend") == "accend"
+    assert yc_company.slug_from_url(
+        "https://www.ycombinator.com/companies/tesora?foo=1") == "tesora"
+    # Non-YC URLs are rejected (we don't scrape arbitrary sites).
+    assert yc_company.slug_from_url("https://acme.com") is None

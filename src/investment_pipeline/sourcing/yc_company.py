@@ -18,7 +18,7 @@ import re
 import httpx
 
 from .. import cache
-from ..models import Founder, StartupCandidate
+from ..models import Discovery, Founder, Signal, StartupCandidate
 
 log = logging.getLogger(__name__)
 
@@ -65,19 +65,9 @@ def _slug_of(candidate: StartupCandidate) -> str | None:
     return None
 
 
-def founders_for(candidate: StartupCandidate) -> list[Founder]:
-    """Fetch structured founders for a candidate (empty on any failure)."""
-    slug = _slug_of(candidate)
-    if not slug:
-        return []
-    try:
-        company = _fetch_company(slug)
-    except (httpx.HTTPError, RuntimeError, json.JSONDecodeError) as exc:
-        log.warning("YC company lookup failed for %r: %s", slug, exc)
-        return []
-
+def _to_founders(raw: list[dict]) -> list[Founder]:
     founders: list[Founder] = []
-    for f in company.get("founders", []):
+    for f in raw:
         name = (f.get("full_name") or "").strip()
         if not name:
             continue
@@ -96,7 +86,93 @@ def founders_for(candidate: StartupCandidate) -> list[Founder]:
     return founders
 
 
+def founders_for(candidate: StartupCandidate) -> list[Founder]:
+    """Fetch structured founders for a candidate (empty on any failure)."""
+    slug = _slug_of(candidate)
+    if not slug:
+        return []
+    try:
+        company = _fetch_company(slug)
+    except (httpx.HTTPError, RuntimeError, json.JSONDecodeError) as exc:
+        log.warning("YC company lookup failed for %r: %s", slug, exc)
+        return []
+    return _to_founders(company.get("founders", []))
+
+
 def enrich(candidate: StartupCandidate) -> StartupCandidate:
     """Attach structured founders to a candidate in place."""
     candidate.founders = founders_for(candidate)
     return candidate
+
+
+# --- URL-seed path: build a full candidate from a single YC company page ---
+
+_SLUG_RE = re.compile(r"/companies/([^/?#]+)")
+
+
+def slug_from_url(url: str) -> str | None:
+    """Extract a YC company slug from a URL, or None if it isn't a YC company URL."""
+    match = _SLUG_RE.search(url.strip())
+    return match.group(1) if match else None
+
+
+def _company_full(slug: str) -> dict:
+    """Full company payload from the YC page (firmographics + founders), cached."""
+
+    def fetch() -> dict:
+        url = f"https://www.ycombinator.com/companies/{slug}"
+        resp = httpx.get(url, headers=_HEADERS, timeout=30)
+        resp.raise_for_status()
+        match = _DATA_PAGE_RE.search(resp.text)
+        if not match:
+            raise RuntimeError(f"No data-page payload on YC page for {slug}")
+        c = json.loads(html.unescape(match.group(1))).get("props", {}).get("company", {})
+        keep = ("name", "slug", "one_liner", "long_description", "website",
+                "batch", "team_size", "tags")
+        out = {k: c.get(k) for k in keep}
+        out["founders"] = [
+            {k: f.get(k) for k in ("full_name", "title", "founder_bio", "linkedin_url")}
+            for f in c.get("founders", [])
+        ]
+        return out
+
+    return cache.get_or_fetch("yc", f"company-page-{slug}", fetch)
+
+
+def candidate_from_slug(slug: str) -> StartupCandidate | None:
+    """Build a StartupCandidate from a single YC company page (URL-seed mode)."""
+    try:
+        c = _company_full(slug)
+    except (httpx.HTTPError, RuntimeError, json.JSONDecodeError) as exc:
+        log.warning("Could not build candidate from YC slug %r: %s", slug, exc)
+        return None
+    name = (c.get("name") or "").strip()
+    one_liner = (c.get("one_liner") or "").strip()
+    if not name or not one_liner:
+        return None
+
+    signals = []
+    if c.get("batch"):
+        signals.append(
+            Signal(
+                kind="yc_batch",
+                description=f"Y Combinator {c['batch']} batch",
+                source="Y Combinator",
+                url=f"https://www.ycombinator.com/companies/{slug}",
+            )
+        )
+    return StartupCandidate(
+        name=name,
+        website=c.get("website") or None,
+        description=one_liner,
+        long_description=(c.get("long_description") or "").strip() or None,
+        team_size=c.get("team_size"),
+        batch=c.get("batch"),
+        tags=c.get("tags") or [],
+        founders=_to_founders(c.get("founders", [])),
+        signals=signals,
+        discovery=Discovery(
+            source="Y Combinator",
+            source_url=f"https://www.ycombinator.com/companies/{slug}",
+        ),
+    )

@@ -1,9 +1,9 @@
 # AI-Augmented Investment Pipeline
 
-A triage pipeline for a seed-stage VC: point it at a topic, and it sources
-startups, scores them against a specific thesis, writes a grounded one-page memo
-for each, and ends every memo with a clear call — **Pass / Watch / Take a
-meeting**.
+A triage pipeline for a seed-stage VC: seed it with a topic, a YC batch, or a
+list of company URLs, and it sources startups, scores them against a specific
+thesis, writes a grounded one-page memo for each, and ends every memo with a
+clear call — **Pass / Watch / Take a meeting**.
 
 ```
 topic ──▶ 1. Source ──▶ 2. Score ──▶ 3. Analyse ──▶ 4. Memo
@@ -42,6 +42,21 @@ pipeline run --topic "AI agents for SMBs"
 
 A full 20-startup run costs a few cents to ~$0.50 of API usage.
 
+## Three ways to seed it
+
+The seed can be a **topic**, a **YC batch feed**, or a **list of YC company
+URLs** — all resolve through YC and produce the same `candidates.json`:
+
+```bash
+pipeline run --topic "AI agents for Fintech"        # topic query
+pipeline run --batch "Winter 2025"                  # whole-batch feed
+pipeline run --urls "https://www.ycombinator.com/companies/accend,https://www.ycombinator.com/companies/tesora"
+pipeline run --urls-file my_urls.txt                # one YC company URL per line
+```
+
+(The URL seed is scoped to YC company URLs on purpose — see
+[`docs/decisions/006`](docs/decisions/006-seed-inputs.md).)
+
 ## One command, or one stage at a time
 
 Each stage reads the previous stage's file on disk, so they chain **and** run
@@ -49,7 +64,7 @@ independently:
 
 ```bash
 pipeline run     --topic "AI agents for Fintech"   # all four stages
-pipeline source  --topic "AI agents for Fintech"   # 1: → data/candidates.json
+pipeline source  --batch "Winter 2025"              # 1: → data/candidates.json
 pipeline score                                      # 2: → data/scored.json
 pipeline analyze                                     # 3: → data/analysis/*.json  (needs key)
 pipeline memo                                        # 4: → out/memos/*.md

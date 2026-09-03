@@ -1,0 +1,506 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "id": 30368,
+          "name": "Red Barn Robotics",
+          "slug": "red-barn-robotics",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fea0321812586f595ebfa63ebe19d45c322ad2.png",
+          "website": "https://www.redbarnrobotics.com",
+          "all_locations": "Seattle, WA, USA",
+          "long_description": "We are building an autonomous robot to precisely eliminate weeds and leave crops untouched. Despite $100 billion being spent annually on weed control, weeds still cost the US economy $46B/year. Weeds steal sunlight and nutrients from crops, forcing farmers to choose between higher costs and lower yields. Moreover, many farms still rely on hand labor to control weed growth. The process is slow, expensive, and increasingly difficult due to constant labor shortages (1 out of every 5 US farm positions go unfilled each year). Our robot nicknamed the Field Hand is able to automate one of the worst jobs on a farm and will help healthily feed the world. ",
+          "one_liner": "A Roomba for weeds on a farm. ",
+          "team_size": 5,
+          "industry": "Industrials",
+          "subindustry": "Industrials -> Agriculture",
+          "launched_at": 1739827651,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2025",
+          "status": "Active",
+          "industries": [
+            "Industrials",
+            "Agriculture"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30368",
+          "_highlightResult": {
+            "name": {
+              "value": "Red Barn Robotics",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://www.redbarnrobotics.com",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "Seattle, WA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "We are building an autonomous robot to precisely eliminate weeds and leave crops untouched. Despite $100 billion being spent annually on weed control, weeds still cost the US economy $46B/year. Weeds steal sunlight and nutrients from crops, forcing farmers to choose between higher costs and lower yields. Moreover, many farms still rely on hand labor to control weed growth. The process is slow, expensive, and increasingly difficult due to constant labor shortages (1 out of every 5 US farm positions go unfilled each year). Our robot nicknamed the Field Hand is able to automate one of the worst jobs on a farm and will help healthily feed the world. ",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "one_liner": {
+              "value": "A Roomba for weeds on a farm. ",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "industries": [
+              {
+                "value": "Industrials",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Agriculture",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30365,
+          "name": "Mentra",
+          "slug": "mentra",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7244027171670b7caf312b35e16b9e5cfdd49164.png",
+          "website": "https://mentra.glass",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "Mentra is building the open source operating system for smart glasses. The smart glasses hardware is finally ready, so we're building the OS and app store to power the next computing platform.",
+          "one_liner": "Building the open source smart glasses operating system.",
+          "team_size": 12,
+          "industry": "Consumer",
+          "subindustry": "Consumer -> Virtual and Augmented Reality",
+          "launched_at": 1738358223,
+          "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Consumer",
+            "Open Source",
+            "AR"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": true,
+          "nonprofit": false,
+          "batch": "Winter 2025",
+          "status": "Active",
+          "industries": [
+            "Consumer",
+            "Virtual and Augmented Reality"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": true,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30365",
+          "_highlightResult": {
+            "name": {
+              "value": "Mentra",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://mentra.glass",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Mentra is building the open source operating system for smart glasses. The smart glasses hardware is finally ready, so we're building the OS and app store to power the next computing platform.",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "one_liner": {
+              "value": "Building the open source smart glasses operating system.",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "tags": [
+              {
+                "value": "Artificial Intelligence",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Hardware",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Consumer",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Open Source",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "AR",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "Consumer",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Virtual and Augmented Reality",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30363,
+          "name": "BlindPay",
+          "slug": "blindpay",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1817a0c9b9ff2db524e7cb0712e6867cdfcb2f0.png",
+          "website": "https://blindpay.com/",
+          "all_locations": "San Francisco, CA, USA",
+          "long_description": "BlindPay is a stablecoin API that enables companies to send and receive money worldwide using fiat money, stablecoins and multiple blockchains. We handle all the complex compliance and regulatory requirements, so companies can focus on their core business.",
+          "one_liner": "Stablecoin API for global payments",
+          "team_size": 9,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Payments",
+          "launched_at": 1737430094,
+          "tags": [
+            "Developer Tools",
+            "Fintech",
+            "Crypto / Web3",
+            "Payments",
+            "API"
+          ],
+          "tags_highlighted": [
+            "Crypto / Web3"
+          ],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2025",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Payments"
+          ],
+          "regions": [
+            "United States of America",
+            "America / Canada"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30363",
+          "_highlightResult": {
+            "name": {
+              "value": "BlindPay",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://blindpay.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "San Francisco, CA, USA",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "BlindPay is a stablecoin API that enables companies to send and receive money worldwide using fiat money, stablecoins and multiple blockchains. We handle all the complex compliance and regulatory requirements, so companies can focus on their core business.",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "one_liner": {
+              "value": "Stablecoin API for global payments",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "tags": [
+              {
+                "value": "Developer Tools",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Crypto / Web3",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Payments",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "API",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Payments",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30357,
+          "name": "Vantel",
+          "slug": "vantel",
+          "former_names": [
+            "Vantage AI"
+          ],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/882e8b4377acdc7c7f1830babf0cd1f7b2e00058.png",
+          "website": "https://vantel.com/",
+          "all_locations": "Stockholm, Stockholm County, Sweden",
+          "long_description": "AI OS for commercial insurance brokerages.",
+          "one_liner": "AI Platform for Commercial Insurance Brokerages",
+          "team_size": 5,
+          "industry": "Fintech",
+          "subindustry": "Fintech -> Insurance",
+          "launched_at": 1738065592,
+          "tags": [
+            "Documents",
+            "Insurance",
+            "CRM"
+          ],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2025",
+          "status": "Active",
+          "industries": [
+            "Fintech",
+            "Insurance"
+          ],
+          "regions": [
+            "Sweden",
+            "Europe"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30357",
+          "_highlightResult": {
+            "name": {
+              "value": "Vantel",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "former_names": [
+              {
+                "value": "Vantage AI",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "website": {
+              "value": "https://vantel.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "Stockholm, Stockholm County, Sweden",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "AI OS for commercial insurance brokerages.",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "one_liner": {
+              "value": "AI Platform for Commercial Insurance Brokerages",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "tags": [
+              {
+                "value": "Documents",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "CRM",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "industries": [
+              {
+                "value": "Fintech",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Insurance",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        },
+        {
+          "id": 30356,
+          "name": "Fira",
+          "slug": "fira",
+          "former_names": [],
+          "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
+          "website": "https://firaresearch.com/",
+          "all_locations": "",
+          "long_description": "Fira accelerates financial research for investment analysts by instantly searching and analyzing thousands of pages of company filings and earnings reports, delivering source-cited answers and verifiable calculations.\r\n\r\nOur mission is to build a comprehensive research platform that integrates seamlessly with internal and external data sources, handles research and analysis, generates investment documents, and automates repetitive workflows. This frees investment professionals to focus on what matters most: building relationships and making strategic decisions.",
+          "one_liner": "Financial research platform for investment firms",
+          "team_size": 4,
+          "industry": "B2B",
+          "subindustry": "B2B -> Finance and Accounting",
+          "launched_at": 1736800806,
+          "tags": [],
+          "tags_highlighted": [],
+          "top_company": false,
+          "isHiring": false,
+          "nonprofit": false,
+          "batch": "Winter 2025",
+          "status": "Active",
+          "industries": [
+            "B2B",
+            "Finance and Accounting"
+          ],
+          "regions": [
+            "Unspecified"
+          ],
+          "stage": "Early",
+          "app_video_public": false,
+          "demo_day_video_public": false,
+          "app_answers": null,
+          "question_answers": false,
+          "objectID": "30356",
+          "_highlightResult": {
+            "name": {
+              "value": "Fira",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "website": {
+              "value": "https://firaresearch.com/",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "all_locations": {
+              "value": "",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "long_description": {
+              "value": "Fira accelerates financial research for investment analysts by instantly searching and analyzing thousands of pages of company filings and earnings reports, delivering source-cited answers and verifiable calculations.\r\n\r\nOur mission is to build a comprehensive research platform that integrates seamlessly with internal and external data sources, handles research and analysis, generates investment documents, and automates repetitive workflows. This frees investment professionals to focus on what matters most: building relationships and making strategic decisions.",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "one_liner": {
+              "value": "Financial research platform for investment firms",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "industries": [
+              {
+                "value": "B2B",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "Finance and Accounting",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ]
+          }
+        }
+      ],
+      "nbHits": 166,
+      "page": 0,
+      "nbPages": 34,
+      "hitsPerPage": 5,
+      "exhaustiveNbHits": true,
+      "exhaustiveTypo": true,
+      "exhaustive": {
+        "nbHits": true,
+        "typo": true
+      },
+      "query": "",
+      "params": "query=&hitsPerPage=5&facetFilters=%5B%22batch%3AWinter+2025%22%5D&analyticsTags=ycdc&restrictIndices=YCCompany_production%2CYCCompany_By_Launch_Date_production&tagFilters=%5B%22ycdc_public%22%5D",
+      "index": "YCCompany_production",
+      "renderingContent": {},
+      "extensions": {
+        "queryCategorization": {}
+      },
+      "processingTimeMS": 2,
+      "processingTimingsMS": {
+        "_request": {
+          "roundTrip": 159
+        },
+        "extensions": 1,
+        "total": 2
+      },
+      "serverTimeMS": 3
+    }
+  ]
+}
